@@ -1,0 +1,717 @@
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2537395599.wav|11|phtoh samnnaaka ningo khaaraaquukhe kiimo haaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_0334316715.wav|12|haango loka maasa ningo bduuro braaka khai saakhaavo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0308_2582013291.wav|4|kmengo brusa qaayu braammuayo chnaam cih kango thlaaka toeka tonle baasaaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2644645597.wav|11|qampaemaetro ningo vulomaetro caa qubakaronno samkhaano samraaba kaaro qanuvotta merieno qakkiisanii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_2425788040.wav|15|qnoka qaaca hoohhoero pii krungo kuulaalaampuaro tau brotesa copuno taamo ryo qaero qaasii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6438_3345919266.wav|9|phnom qooraalo caa phnom daelo khposa caango ke nau knungo brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2225053367.wav|11|mocchomonndolo thae roksaa samphassa phnompenyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0308_3932055739.wav|4|nau stuba tepo phano baaka doemo kngooka camnuano piiro doemo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1021581617.wav|11|toe looka vulo thaero caa qnoka tossano vituu qangoklesa ryya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3354221976.wav|11|qnoka qaaca tinyo sambutro cuuloruamo nau kroba saakhaa telaa maata knungo proh raacaannaacakro kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0877_3515380869.wav|14|spaano ryassii nau koohpaeno maano sasaro croeno caango ke
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_2187812757.wav|3|cenyo pii phsaaro pese tau dalo phsaaro raatrii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2702134135.wav|11|blaatungo caa kruu robasa qaariistuuta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2357939817.wav|11|tuurosapto maaka qeccha thii sii baatabango kaaro caabaqaarommonno pii brocaa cono khmaero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_1391912302.wav|3|phephaalo caa bropontho bango braaka taamo qanolaanyo daelo maano suvotthiphaapo bamphuta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_3444598029.wav|1|neh nae bronnaamngo muutuu nau praekalieba msilo minyo mino caanyo barotesa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0779496183.wav|6|kaaro broebraasa toeka sqaata nau kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2900555681.wav|11|koohnyaeka caa sruka muayo daelo sthita nau khetta monndolokirii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_0596643240.wav|15|roongocakro sraabiero qangkoro riebacam cuabacum qabaqaro saatoro pithii tivaa kruasaaro brocaam chnaam piiro paano daba buano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_4069417978.wav|15|lookasrii kaevo cantobuuronno maano qaayu bromaanno haa siba chnaam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_1099605322.wav|8|vimaano qekaraacyo maano kbaalo naako taamngo qasa muayo ryo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1759054130.wav|11|khyango ningo khyata caa mitta samlaanyo ningo knaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_1502784176.wav|1|dooyo tepokoosalyo da leca thloo naango ka klaayo caa qnoka camriengo brocaamkaaro nau rongkosaalo mekongko rongkosaalo baeloqaero nau poothicinotungo caa doemo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_2248679477.wav|8|damnnaam trosaka robasa qnoka khetta tbuungokhmum phtalo phalo khposa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2446585232.wav|11|burosa mnaaka thaaka kango chlongo phluuvo daelo cono lica knungo tiikrungo vaa suuvii brotesa puuluunyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_1019764984.wav|8|khaango krooyo babaro sa hengohengo stuba petyo cino
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_1280072290.wav|13|bungohsua maano noyo thaa caaba dai rolaaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2463602667.wav|11|brovotti samdeca proh sangkhoraaco cuata nnaata
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_1294716127.wav|1|driimolaenodo phtalo cuuno kaaduu yoksa samraaba qatithicono
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2319218949.wav|11|toemo rodtthaa caa taaraa banghaanyo muuda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_4209535542.wav|1|qaphibaalo khetta kampongochnaamngo samnnehsamnnaalo caamuayo nissita
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3396660818.wav|11|banycii chmooh boohchnoota khetta kampongocaamo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_2088795473.wav|12|sanntthaakaaro qiinothoekhano maano mhuuba khmaero daelo maano rosacaati chngaanyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0914008823.wav|11|qamporo tevii mino trolaba moka sruka kamnnoeta vinyo te
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_1478195045.wav|3|mai thaisaano baano cuuloruamo samdaengo ryango huuliivuuda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0259585695.wav|1|toe maano qvii pisesa nau baakakhaengo tau nno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_3722782364.wav|15|qaaraababiisaaquudiita bangkoeno kaaro phkotaphkongo brengo qooyo piphopo looka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_0074212529.wav|12|brocaa cono nau tiikrungo siidanii ceh cuayo knaa tau vinyo tau moka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1592106576.wav|11|proh baato suraamrita baano vilo troloba moka sruka khmaero vinyo hoeyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1161_0760549380.wav|0|bquuno srii robasa khnyum baano tau brotesa peruu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_1664025279.wav|3|vaareno buuhveta comnaanyo khaango phaakohuno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2595267225.wav|11|haemo puukae thvoe mhuuba nnaasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_1310190816.wav|1|samaacika samaacikaa baano banta cuhphsaayo potamaano khoosanaa caa bantabantaaba tieta nau knungo sruka baathaayo khetta kampongocaamo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_0023820615.wav|3|rittho munii caa krumohuno doeka qnoka damnnoero daelo maano tamlai sambutro samoromyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_4071856702.wav|15|kaevo vaasanaa truuvo ke tomlaayo thaa cenyo pii saanode cuulo thoono
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2859368282.wav|11|banyhaa baristhaano nau cumvinyo maata samutro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_2077231479.wav|10|yoka tthitarodtthaa baano boeka haango loka samliekabampaaka nau phsaaro qiiqano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2438467088.wav|11|naayo caaba cieno cuulocitta paaka qaavo thom
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2082400998.wav|11|naayo kuyo maano tepokoosalyo pii thommocaati
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_0266576083.wav|12|viingo caa qnoka phtalo sevaakammo phtero braaka ningo tuutaata braaka calota daelo chaano mukha ke nau knungo brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_1290874163.wav|12|phooconiiyodtthaano ningo sanntthaakaaro ruuyaalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_2073847694.wav|12|poothirongsii caa votta muayo daelo sthita knungo phuumi khmongo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_1510353873.wav|1|chmooh braasaato knungo brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6438_3215987408.wav|9|tolo mukha kaaraasa saamngo telaa sthita knungo phuumi poothimongkolo sangkaata praekapnau khanndo saenosukha raacothaanii phnompenyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_0694542708.wav|3|sii thii qino caa pusti tuurotossano daelo naam mukha ke knungo brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3424480348.wav|11|tooh tau cobaliengo nau praekalieba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_0216003364.wav|12|phooconiiyodtthaano taa saarono braam maano loka saaca qaamngo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1919618162.wav|11|kum croloesaboesa peka yoengo hnoengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1151720440.wav|11|vaerohoosa samraaba cualo daaka qivaano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_3268842134.wav|6|kaariyaaloyo brochaamngo kaaro cuanyoduuro kryango nyieno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0877_0227618637.wav|14|phnom taamau maano kaam conndoero punmaano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3557020777.wav|11|moka srolaanyo quuno baano mteca smooh mino baano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6438_2983479803.wav|9|kooh sangsaaro caa romonniiyodtthaano qekacono muayo da lqa bamphuta kmaano kuu brieba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1120146959.wav|11|looka choemo phalovorunno caa qnoka viphaako nyoobaayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0077702223.wav|11|sukha qangkuyo thvoe mukha snyenyosnyaanyo mino haano kamroeka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1655113963.wav|11|naariirotno konthaa moka khmaero sngaata sngaata
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_1907548264.wav|1|vityaaloyo huno saeno kamcaayomaaro maano qakaaro thmii camnuano bii khnongo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_2836246504.wav|1|khemorobutro maano tiitaamngo nau mdum krooyo petyo cino
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0616561561.wav|1|saakhaa kaakabaato krohamo kampucaa khetta bantaayomaanocoyo naam qamnnooyo cuuno brocaa polorodttha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0220777353.wav|1|naayoka rodtthamontrii vietannaamo cuuloruamo sampootho montiiro petyo coorai
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3623475226.wav|11|votta sampau braam tthita nau loe tii khpongoraaba nai phnom buukakoo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2505342747.wav|11|thiihsuu toeba tae moka pii saalaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_3824112692.wav|10|khlya caa monussa ngongiingongoe ngongihngonguusa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_4136516484.wav|12|bquuno srii khnyum baano tau thvoekaaro nau chiengo rai
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_0271924772.wav|3|phiihsaa khamophaenii banycuh tamlai pisesa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3444_1084502089.wav|7|kulo daavii caa taaraa samdaengo daelo cuulocitta sliekapaaka sicasii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0308_3585113701.wav|4|nokorobaalo khanndo maanocoyo khaata khluano cono sangsayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_3291358793.wav|3|qangkokaaro saha brocaa caati baano caata vithaanokaaro cuayo cono caati qislaamo nau knungo siirii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_2225912258.wav|12|penyocitta kaata taemo ningo quta tuurosapto
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3799783695.wav|11|yutthosaasdro kaata banthayo phaapo kriikro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3444_1951860728.wav|7|kaevo vaasanaa criengo ruamo knaa caamuayo sukha pisii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_3222555943.wav|15|sviisa caa brotesa daelo phalita naalikaa lqa phtaaca ke
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2809514420.wav|11|brovotti nai kaaro rieba qaapaahapipaaha khmaero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0075909971.wav|1|kaaro bangkoeta rodtthathommonunynyo nau kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0798290694.wav|11|paalonyaeka caa chmooh phuumi muayo nau khetta poothisaata
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_4050162517.wav|11|braaka chnualo caa mothyomo nau brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_4222307300.wav|12|sthaaniiyo brengo qinthono telaa tonle saaba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_4279322785.wav|11|qicachengo sevaa thaetaam rothayonta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_1255862101.wav|12|phsaaro boengokengokango caa phsaaro da penyo niyomo muayo knungo camnnoomo yuvovoyo kampucaa daelo kampungo svaengoroka samliekabampaaka daelo maano tamlai samoromyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0308_0546676602.wav|4|spaano brodoesa ta phcaaba tau chnero khsaaca thommocaati koohpaeno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1388557114.wav|11|loloka nyii chmoolo vaa buulo hau knaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0862719169.wav|11|tomrongo cbaaba knungo kaaro boeka qaaciivokammo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_0582184388.wav|3|brocaa cono nau luusaqaanocoelaesa maano phaapo siiviloyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1161_0132516340.wav|0|suukraata caa qnoka braacnyo da lbiilbaanyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_3276493485.wav|10|koemokhono tau saalaa doembii piphaaksaa qampii merieno caamuayo koemochaano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0269590065.wav|1|biingo qanunynyaata qooyo yoengo svaengoroka tiitaamngo robasa kanlaengo nnaa muayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_2360814169.wav|10|koemochaano maano kiccakaaro caa croeno daelo truuvo thvoe nau thngai neh caamuayo koemokhono
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3116_1887866388.wav|5|qaaraababiisaaquudiita ningo kuure khaango tbuungo baano brokuata danndoemo paano rongvaano medaayo maasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1850033028.wav|11|raevino troloba moka pii barotesa kaalo pii sabdaaha muno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_0827568124.wav|12|kanndiero caa satvo lqita muayo bropheto daelo ceh puuno dii qooyo koeta caa dambuuka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_4281989436.wav|6|naayo taakasii maano bropontho muayo da srosa sqaata
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1394885403.wav|11|baahkaeno brolongo caaba phnaeka vityaasaastro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_1012989395.wav|3|montiiro petyo huulungo depuu pinityo comngoe qita kita thngai samraaba cono kriikro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0308_2509413682.wav|4|camkaaro sneha maano bukkolika da ruasaraayo raakataaka caam totualo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_3593542275.wav|3|mungohkoolo maano phlaechoe thommocaati croeno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_3401414413.wav|1|banyhaa daelo koeta maano nau knungo thnaaka rieno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3937118250.wav|11|cbaaba stiipii kaaro thvoe qaaciivokammo rae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_2585940087.wav|8|kamlaamngo nokorobaalo khanndo maanocoyo caaba cooro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_2854518109.wav|6|qiinnuu cuulo broluuka knungo piphopo silba taamngopii chnaam piiro paano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0922440004.wav|6|kaaro rosanau samoyo kampucaa brocaathibateyyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0066825743.wav|1|brovotti nai kaaro boohchnoota nau kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_4130627207.wav|2|kiilaa kaarinii kampucaa brokuata caanyo kiilaa kaarinii qinnduunesii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1161_3945210975.wav|0|saaca qaamngo taa saaraayo maano rosacaati chnguyochngaanyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0042157749.wav|6|kaaro qaphivodttho nau knungo brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_2199265721.wav|8|phluuvo caati lekha buano pii coomocau dalo phsaaro baekacaano kakastoh khlaamngo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0996874122.wav|6|pakanyai haango loka samphaaro samraaba naarii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_1834019928.wav|1|maano tiitaamngo sthita nau krooyo mocchomonndolo mungodiiyaalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_3932058965.wav|8|miingo khnyum tau phsaaro quuroryassii tinyo qivaano yoka tau loka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_3575980813.wav|13|spaano qaakaasa kbaalo thnolo cuayo samrualo caraacaro baano croeno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_1552940732.wav|10|daayodungyyango caa kanlaengo tesacaronno da taakataanyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3444_1690722645.wav|7|proh baato siihanu caa butro robasa proh baato noroottamo suraamrita
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2185748382.wav|11|vuulosvaahkaeno maano boeka saakhaa dambuungo bangqasa nau khmaero knungo chnaam piiro paano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_1773163456.wav|10|cekakhiikhuulicahsino caa chmooh haango loka samliekabampaaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_4259548240.wav|11|brovotti nai pithii bunnyo saeno nom proh khae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3444_1576486084.wav|7|kongo sucaati pii qnoka loka ceka choengo klaayo caa pithii kaarinii lbii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0212510892.wav|11|chaiyino maano kumpyuutoro piiro kryango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3444_1609712920.wav|7|looka banndita saastraacaaryo kengo vaanosaaka baano bansalo tuka snaadai caa croeno samraaba kuuno khmaero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_0990558582.wav|13|qecadiithiivii caa chmooh kammovithii tuurotossano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0877_0163875158.wav|14|lbaengo kantuyo lekha kampungo riika duuca phsita nau krungo khemorophuuminto
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_3298656612.wav|6|kaaro brokaasa denyo thlai komroongo khum sangkaata
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_2582638187.wav|3|lookasrii qungosaano suucii chnoh kaaro boohchnoota caati baano brohaelo paeta siba phaakoryo nai qaasano saphaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0930197073.wav|11|mocchomonndolo thae roksaa samphassa hungokungo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2933011388.wav|11|qaatityo neh noengo maano kaaro brokuata baalo nau taaraango baalo hvutasaalo dambuukakhposa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_0827059743.wav|12|mohaa kamphaengo cino truuvo baano potamaano khmaero cuhphsaayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2245814793.wav|11|qaakiiraa baano cuuloruamo boosasamqaata miino knungo brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0877_3383266390.wav|14|saalaa raacothaanii phnompenyo kroongo staaro qaango sduka toeka boengotrobaeka khaango tbuungo ningo khaango coengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_2784785689.wav|6|cuukino caa monussa mino ngaayo cuhnyomo noronnaa te
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3116_2630401648.wav|5|qnokanaango yuko cindaa ningo qnokanaango kongo sucaati baano chaano coengo cuulo silba srobaalo knaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3116_2346847387.wav|5|chyano qutdamo criengo tae camriengo comnaano doemo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_2672199996.wav|3|sanntthaakaaro qiinothoekhano taakataanyo phnyievo cono caati cino baano yaango croeno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_0969935699.wav|10|pithii kaarinii qnokanaango yuko cindaa thlaaba chlongokaata ciivita caa qnoka rota tu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_4105123403.wav|6|rosaayo qangkuyo rosaabarosalo mnaaka qengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_2486304303.wav|1|phnom ciisuuro sthita nau phuumi slaa khum riengo sruka samroongo khetta taakaevo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_3430499235.wav|13|kaaro vaayo tamlai kaaro qanuvottano robasa thonaakaaro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1639128296.wav|11|baeka knaa hoeyo hetu qvii thvoe citta mino baano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1451589014.wav|11|cango doengo monussa smooh choe caaba punnnnaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_3101432588.wav|8|phnom ciisuuro koe caa phnom thommocaati muayo da srosa trokaalo sambuuro tau dooyo tesaphaapo baitango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_4184722810.wav|3|maaka khnyum phnyoe luyo moka taamo qe qoemo khe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_2765934150.wav|3|yiingolaaka siinonnaavaatraa baano cuh cenyo pii damnnaengo caa naayoka rodtthamontrii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_1636406674.wav|13|hsaamohsaaro caa phooconiiyodtthaano barotesa nau tualokoka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0141984170.wav|11|beyaa ningo beyuno doero tau phtoh deyesa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_0071039977.wav|12|krumohuno tuurosapto calota qaayodaahvuuno boeka saakhaa nau qaaronynyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_4153230134.wav|11|paekamii ningo khnyungo tau samdaengo nau rodttha kaaliihvoronyaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_3694947460.wav|13|qaano visaalo mino baano cenyo bato camriengo thmii te nau chnaam neh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_3600220731.wav|2|khnyum cango nyaam qii nau phooconiiyodtthaano kuyotaavo tuuka tae kmaano knaa tau caamuayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_0912316827.wav|15|chino chaango mino maeno caa taaraa camriengo te
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0308_2323178423.wav|4|trongo camnnuca phluuvo tomnoba khmaero loe taamo banndooyo phluuvo caati braammuayo qaa sthita knungo phuumi kienokhlaamngo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_4136677644.wav|12|brocaa cono sriilongkaa phaako croeno kooropo saasanaa proh puttho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_0630295555.wav|3|nau vaasiinotoono maano brocaa cono rosanau caango braampiiro laano naaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0877_0693823517.wav|14|kango kamlaamngo raaco qaavuthohattha khanndo camkaaromono khaata khluano cono sangsayo piiro naaka cih muutuu qata slaaka lekha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_3157104880.wav|13|sya suthaaraa baano bangkoeta kuuno srii da srosa sqaata mnaaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_3901301320.wav|6|kaaro viniyooko nau tambano sedtthakicca pisesa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_4246081146.wav|11|longo samrosa thailoro sviihvo pelo naango loengo chaaka hkremii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0805587116.wav|11|quu cungo caa kuuno robasa qnoka phiromyo phaasaa quu hau nguyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_2997175645.wav|6|lyya samlengo ke hau khvoeyo khvoeyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_0835173450.wav|8|qakkiphoyo cheh phtoh brocaa polorodttha nau sangkaata crooyocangvaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_3014017541.wav|15|phtoh samraaba loka nau phluuvo bii ryo cita muayo mino chngaayo punmaano pii phsaaro pese
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_2650551334.wav|1|krumo pherovokaro qaalokaidaa doekanaam dooyo quusaamaa biinolaadino baano slaaba taamngo qasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0121527975.wav|11|siino quukhungo tau tinyo sambutro rothaphloengo phqoelo qasa qnoka thvoe damnnoero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_2359354221.wav|1|tesaphaapo nau siiraalequuno mino suuvo sqaata te
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3807305630.wav|11|naango yoka thitarodtthaa ningo naango sukha siilaaliino mino maano comlooh caamuayo knaa te
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0944719615.wav|11|hvunosinopica caa chmooh konnobaksa nyoobaayo muayo nau kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_3390538241.wav|8|skono baano caaba caa tiikrungo qaa piingo dooyosaaro nau tii nooh maano loka qaapiingo taamngo rosa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_0689381295.wav|10|chyata cya caehvoesino thaa laano maaka chaeruule mino suuvo lqa te
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_1776379774.wav|12|norovaesa myuuhsiemo caa chmooh saaromontiiro buraanno muayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2059681548.wav|11|lbii thaa brocum kooh paaraasaelo maano rae brengokaata
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_1159351315.wav|10|caaba hoero pophoelo loe mekho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_4128726269.wav|6|caesuno toeba tae tinyo laano thmii muayo kryango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6438_0464987833.wav|9|tooh tau moelo thngai lica nau phnombaakhaengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2919004009.wav|11|choe yaango neh hetu qvii khnyum mino slaaba tau
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3967433380.wav|11|montiiro sedtthakicca ningo hironynyo votthu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0098687261.wav|11|tiiphnaakangaaro ningo sevaakammo doeka conycuuno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_3712548175.wav|6|krumo comnum proh caa mcaasa qantarocaati
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_1212396331.wav|10|proh noroottamo siihanu baano cuulo tivongkota nau thngai daba braam koeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3116_3975014567.wav|5|duca liidaa taaraa thmii mukha duuca kuuno kaata barotesa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_1185199981.wav|3|qaataeno caa tambano daelo sambuuro dooyo thyuungo thmo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_3639647405.wav|15|cata coolo kroomo samyaaba phsaaro pese
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_0957188437.wav|3|looka lii kvaanoyuu caa monussa daelo maano toekacitta tasuu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_4098322154.wav|13|naayo buumo caa taaraa kamblaengo mino suuvo lbii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_2998143411.wav|6|puu chaeno tau vihaaro caa riengo raalo sabdaaha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_4205791216.wav|11|thoeno qangkuyo lengo phlengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_4022471284.wav|6|kroohthnaaka caraacaronno nau brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_1503787333.wav|6|kaaro naam cenyo naamcuulo nau brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2533049798.wav|11|koemo cih muutuu sii bii qa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_1489643344.wav|6|kaaro tobaskaata kaaro kaaba bamphlaanyo praichoe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_3259845872.wav|6|looka caa vonnnnaarittho baano pyaayaamo laaka baamngo camnnongo sneha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6438_4294471887.wav|9|sissa srii vityaaloyo cbaaroqampau cih muutuu tau rieno kuaro nau saalaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3797284604.wav|11|coyocedtthaa tii piiro maano proh toyo sanndoosa bronnii lqa nnaasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_4021971861.wav|3|qe qoemo khe duucacaa qata maano maasiino qethiiqoemo te
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0877_3745537279.wav|14|kampucaa riebacam bunnyo samutro nau khetta kaeba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_2806206175.wav|13|qaphibaalo khetta kampongochnaamngo samnnehsamnnaalo caamuayo nissita
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_3278745265.wav|3|krumohuno vaenotaa qaayo khaero phtalo cuuno qatithicono nuuvo tamlai samoromyo ningo kunnophaapo lqa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_0709191589.wav|3|saalaa liimo kukaviingo caa saalaa qantarocaati
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_3904488521.wav|12|khooqaavo kiilaa qaadiidaasa maano kunnophaapo lqa nnaasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1161_0691324443.wav|0|ruuba monussa nau loe krodaasa muayo dullaaro caa ruuba robasa looka caca vaasiinotoono
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0308_4180620092.wav|4|samraaba nissita ruulo ningo nissita daelo toeba banycaba kaaro siksaa thmii thmii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0447726226.wav|1|toe phnom ciisuuro maano kamposa punmaano kiiluu maetro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_4093403857.wav|11|kuumaa srolaanyo quuno smooh bango khusa maeno te
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2952004003.wav|11|looka hvai samqaango caa mcaasa doekanaam kammovithii tuurotossano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_3086796513.wav|12|bierohkaadaeno boeka stoero kroba kanlaengo nau pailino
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0455502033.wav|1|khmaero qaayothii kumpyuutoro suumo qarokunno da craalocrau campooh briyomitta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_2453821664.wav|8|naayo krino riebakaaro saaro caa thmii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3885766178.wav|11|saalaa raacothaanii phnompenyo kroongo staaro qaango sduka toeka boengotrobaeka khaango tbuungo ningo khaango coengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1161644977.wav|11|yoengo qaaca bango thlai toeka phloengo nau banycoro thonaakaaro qesiiliidaa baano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_0601512662.wav|2|chmooh robasa looka mau setungo truuvo baano ke daaka caa chmooh phluuvo robasa brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2265334255.wav|11|thoekhaannaa moka pii phsaaro qasa kamlaamngo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3444_3863581112.wav|7|camriengo croesaroesa pirooh pirooh robasa kaevo vaasanaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0762961335.wav|11|nau taamo banndooyo phluuvo mausetungo mukha roongo kuno monooromyo sthita knungo sangkaata phsaaro doemoko
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_3688381775.wav|3|haenorii hvoda caa monussa chlaata
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_1317440348.wav|13|naayo kryano baano cuuloruamo samdaengo knungo ryango phuumi qata monussa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3441432099.wav|11|qaariihsuunnaa caa rodttha muayo nau saharodttha qaamerika
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_1448684987.wav|10|camriengo robasa qnokasrii rosa seriisutthaa baano qaabaluuta cuulo yuuthuuba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0308_2253945901.wav|4|samraamo nau loe kamnnaata mohaa vithii vengosrengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3998092542.wav|11|bropontho proh qaatityo ningo taaraa naanaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2439356959.wav|11|monussa khnyum srolaanyo naango maano sangsaaro hoeyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_4148880837.wav|11|phoerii moka saalaa yoeta rohuuta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0171249782.wav|6|kaaro bangkraaba kaaro haeka kuka nau baatadambango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_2047122536.wav|10|boengo neh thom tae maano toeka raaka kamphaelo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_2509337615.wav|6|buurii viilaa diimuuspanocie
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3047869225.wav|11|klorohvennaamiino caa saarothaatu kiimii myaango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1112927902.wav|11|haarii truumaano mino maeno caa chmooh vocanaanukromo te tae koe caa chmooh brothaanaathibatii mnaaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_0029453534.wav|3|nompango sievomai nau phsaaro doemoko chngaanyo phasa ke
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_0871223882.wav|3|maaliiyaa caa montiiro petyo qekatesa rooko strii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0797319060.wav|1|yoengo tau krungo ronnoba taamo phluuvo haannuuyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_0641595388.wav|10|tu neh maano kaemo camnuano buano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_4200993378.wav|10|kaata caa monussa ngobangulo noengo lbaengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_2735220009.wav|3|quuvpuka robasa khnyum cuulocitta laano maaka suubaaruu nnaasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_1872803347.wav|2|krumo kruasaaro khnyum baano tau brotesa nnuuvaeloselango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0877_2407591070.wav|14|daeno comroka satvo prai phnom qooraalo nau kampongospoe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0959347330.wav|1|votta phnom caa tii tualo tuuca lmomo muayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_3531955728.wav|10|koemyieno caa sissa puukae phnaeka konnita vityaa ningo ruuba vityaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_2626931573.wav|13|puu nyuanyo tinyo nyonyuaro nau qiimaanyuulo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0877_0621524282.wav|14|phnom srii phnom brusa caa romonniiyodtthaano vobbathomo brovottisaastro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2098550743.wav|11|suukraata koe caa tossanovituu cono caati krica koeta nau krungo qaataeno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_1207246518.wav|3|riikaraayo caamuayo noengo kaaro caavo tomninyo dooyo totualo baano kaaro banycuh tamlai nau chaayo huka kumpyuutoro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_3750411210.wav|10|lii thaamo tengo maano phaapo qamnnota knungo kaarongaaro nnaasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0308_0794692022.wav|4|paa ke lengo baalo nau staata quulaampika
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1161_1222590203.wav|0|phsaaro qaaruunnaa baano boeka damnnoerokaaro nau chnaam piiro paano daba muayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_1571185288.wav|6|pithii phsapvophsaayo phlae choe thai brocaam chnaam nau phsaaro tomnoeba phaaraahkono
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_3632442894.wav|6|kaaro doeka conycuuno nau knungo brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6438_1652933038.wav|9|caa yuuro longo nnaasa moka hoeyo lbii thaa qnoka sruka mesaango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_3141688427.wav|12|kiimohkica caa nissita rieno nau saakalo vityaaloyo caati krobakrongo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_3134056842.wav|12|srengo buu loka ningo cuasaculo maasiino dero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_3882969000.wav|12|kantumoqoeta truuvo caa kuuno robasa puu poengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_2026287880.wav|10|kmuayo ngeno ngaengo daaka caanothuu qooyo caanohiengo tinyo kaaremo qooyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3916682839.wav|11|cbaaba kammositthi banynyaa nau kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_4222048442.wav|11|baano banycuuno moka montiiropetyo petyo kaalomaeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0173159899.wav|11|brothaano qangkophaapo brochaamngo qampoe pukaroluayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_3285888485.wav|3|tambano prailango truuvo baano ke caatatuka caa qaamaahsuuno kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2874609385.wav|11|qiluuvo neh qnoka roksaa tuka qekasaaro nau loe qiinothoennita baano dooyo broe drobabaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_4186648960.wav|3|brotesa kaannaadaa broe phaasaa baaraamngo ningo phaasaa qangoklesa caa phluuvokaaro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_2259205254.wav|1|banycuuno tau thvoekaaro nau saaromontiiro tualoslaengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3362824302.wav|11|naayo naavika cono caati tuyonesii truuvo baano coota brokaano pii bato maano kamhusa kaaca cangkuuta naavaa tau buka naavaa comnuanyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0547502132.wav|11|liesa haalo kaata yoka moka pii sruka sqaango praeka tuuca khetta kanndaalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1161_3009912955.wav|0|montiiro petyo qandarocaati bamrungoraata qandarocaati koe caa montiiro petyo pohu qekatesa muayo daelo maano tiitaamngo nau cam kanndaalo tiikrungo baangokaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_2704538204.wav|1|looka qiengo siithulo maano tuanaatii qvii khloh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_1956319244.wav|8|tau khetta proh siihanu kaata taamo kiriiromyo kanlaengo yaayo mau
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0735558416.wav|6|khluano braanno naango moelo tau tonolvai
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_3326200744.wav|12|qnoka brodaalo vaayo knaa qoehqah doembii baano braaka qubatthampho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0545161989.wav|11|hiitlae baano caanyo sangkraamo looka loeka tii muayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0558065871.wav|11|brovottisaastro brotesa qinnduunesii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2024853782.wav|11|qnoka sraavocraavo pii saakalo vityaaloyo kaaliihvoronyaa ningo paannaamaa baano svaengoroka khoenyo thnaam ponyaaro comngoe mohaariika
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1161_3840820726.wav|0|mittahvuuno maano komroongo niyaayo thuuro thlai caango ke hoeyo sevaa khlaamngo tieta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_4031871061.wav|12|kaaro lubabambaata kaaro brokaano puucosaasano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_0263231852.wav|8|qaacnyaathoro khanndo duunopenyo banta caata vithaanokaaro ktau
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_3885363918.wav|10|siisuvotthi muniivongsa srolaanyo brocaa cono robasa proh qangko nnaasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_3638976179.wav|1|brohita maano caati kiimii knungo phsaaro kaannaadiiyaa nau sangkaata coomocau
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3779337876.wav|11|looka remobuu caa taaraa samnnopvo robasa tossanikacono knungo sruka khmaero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3160085982.wav|11|camngaayo phluuvo pii phnompenyo tau khetta kampota
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3444_0385454305.wav|7|brovotti ningo snaadai robasa qnoka nipontho kaevo cantobuuronno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_1111647359.wav|12|kuuniiphae ningo kuuruunae caa bangobquuno bangkoeta ningo knaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3116_4144426432.wav|5|naayo kuyo baano poolo sookasdaayo naayo khlooka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0501950832.wav|11|brovotti robasa proh baato noroottamo siihanu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2433855621.wav|11|bannnnaaloyo konnita vityaa muayo neh truuvo baano saangosango loengo knungo naamo looka rene dekaasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0658988747.wav|6|kaahve ningo phooconiiyodtthaano qelomunoduu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_1908105688.wav|6|daayohkolo caa qutyaano thommocaati da lbiilbaanyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_1025793221.wav|12|rothayonta doeka toeka suttho haayotica buka qnoka cih muutuu taamngo kamroolo nau mukha votta nirootho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0475072123.wav|6|koemohyata tau camkaaro robasa kaata doembii daam damnnaam banthaemo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0110115605.wav|11|mothyoobaayo kaaro thvoe damnnoero muno samoyo qangkoro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0877_4223828546.wav|14|phnyievo tesacaro caati ningo qandarocaati qanycoenyo moka lomhae kaayo nau romonniiyodtthaano qekuu tesacaro thommocaati kooh tonsaayo neh mino ceh cinonnaayo sooh loeyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_2713723295.wav|12|phaapo khusa knaa rovaango qnoka maano ningo qnoka kro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_4254438634.wav|1|votta khloh knungo khetta prohvihaaro khsatakhsooyo canghaano nau roduuvo kaano binndo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6438_3261161849.wav|9|spaano praeka taamoka maano brovaengo muayo paano hukasiba maetro chlongo kaata tonle mekongko
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_0529944696.wav|3|phalitakammo thoono brocum tau dooyo taaraa lbii lbii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_4087383390.wav|6|kicca brocum kampuulo qaasaano nau kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_4190346954.wav|3|sanntthaakaaro phaakave baano taakataanyo phnyievo caati ningo qantarocaati yaango croeno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_2126492739.wav|1|samaacika samaacikaa baano banta cuhphsaayo potamaano khoosanaa caa bantabantaaba tieta nau knungo sruka baathaayo khetta kampongocaamo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_3799144408.wav|1|sii daaca muutuu nau pelo daelo broe qooyo duba samphaaro kryango sanghaaroemo yoka tau qooyo muuyo nau mdum votda samroongoqanndaeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_2798732405.wav|6|looka cetabluu caa mcaasa haango loka sbaekacoengo da tomnoeba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_2395300357.wav|6|kaaro riebacam phaenokaaro knungo saalaa viccaa ciivo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_2669536929.wav|1|tonle saaba koe caa tambano dii soemo toeka saaba daelo maano saarosamkhaano caango ke knungo phuumiphaako qaasii qaakneyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_2606121549.wav|2|krumo baalotaata nai brotesa qaahsangotiino baano cuuloruamo kaaro brokuata thnaaka qantarocaati
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_4243584774.wav|11|proh raacoqaacnyaa baano cuh brotibatti chaekachero burii braambuano ryo kau braambuano nau caaba votta caakaqangrae kroomo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0057933737.wav|11|baatabango snehaa kmaano qvii qascaaryo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0719401689.wav|6|khae braaba khaeta thaa truuvotae tau saalaa nau thngai neh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1301887920.wav|11|mohaa ksatrii noroottamo muniinaatha siihanu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_2949659310.wav|6|pelo phliengo mdango mdango luu neh cenyo klino chualo cango baeka cromuh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_3270603247.wav|12|montiiro petyo bangqaeka raacothaanii phnompenyo cuayo dalo brocaa cono kriikro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0877_2458175148.wav|14|cono caati vietannaamo daelo rosanau loe phtoh banndaeta toeka caa croeno khnongo caaba kampongo camlongo qariyoksatro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_1046036248.wav|3|phsaaro suvonnnnaa maano kaaro rocanaa haango baeba thmii tomnoeba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_2399730210.wav|12|tuurehvaekasino caa krumohuno tesacaronno tau brotesa kuure
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1505108960.wav|11|kaata qangkuyo qangkuyo sraaba tae kqakakhuusa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_1717246509.wav|6|puu chyamo yoka smau tau qooyo koo robasa kaata
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0700677479.wav|11|tuanaatii rodtthamontrii krosuango mohaa phtai
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_2790261153.wav|3|looka lii kvaanoyuu koe caa naayoka rodtthamontrii tii muayo nai brotesa singhabuurii daelo caa qnoka danndoemo qekaraacyo pii brotesa maalesii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0877_2532869639.wav|14|nau knungo mocchomonndolo kienokhlaamngo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_3774021441.wav|2|maacuupiicuu caa tiikrungo buraanno nai brotesa peruu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_1984060347.wav|12|ruuboeta tau lengo viisahvo caamuayo huaphinyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_1341593564.wav|12|vobbathomo tomniemotomlaaba brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_2266615774.wav|13|kaaro qaphivodtthono visayo viniyooko nau kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_2641921644.wav|2|camroeno caa kroehsthaano miikruu hironynyo votthu qekacono muayo nau brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0013462029.wav|1|tulaakaaro samreca phtantaatoosa pirutthocono daelo haeka kuka praisa rota taamngo daba piiro naaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1161_0780639627.wav|0|looka qukanyaa baano maano brosaasano thaa phalitakammo roka taengotae paamnaam moka nuuvo samitthophalo thmii dalo brocaa cono
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0308_2794454505.wav|4|nau mukha montiiropetyo petyo kaalomaeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0377956615.wav|6|looka taa caayuuvo maano voyo caasacoraa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_3875320782.wav|3|mino kuaro sooh khoenyo vai baano croeno dai daero tae nautae maanii paakiiqaavo caanyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_1729792597.wav|3|vietannaamo sambuuro trii ningo banlae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_4190515126.wav|6|kaariyaaloyo quttamo snongokaaro sitthi monussa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_2576813952.wav|6|suphonndo laarii baano cenyo tau brotesa kuure caamuayo kruasaaro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0308_0055735195.wav|4|phnombaakhaengo maano kamposa tae cita siba maetro sooh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_2584653550.wav|10|vonnnno muuliivonnnno maano phaapo riikaraayo knungo ciivita nnaasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3386774442.wav|11|toosa banndaalo pii kaaro broproetta khusa siilothomo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_4207800558.wav|11|pusdi kaaropaaro promdaeno nau sampauluuno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_1699747681.wav|6|kamlooh kamlooh ceh tae nyehnyooh kromum kromum
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_2920066383.wav|3|yoengo qaaca taanyoyoka kammovithii phsengo phsengo pii hkuuhkolo phle baano yaango ngaayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_0105894105.wav|3|yiingolaaka siinonnaavaatraa mino maeno caa bquuno robasa looka braayuttho caano quucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0261120954.wav|11|cbaaba stiipii kaaro krobakrongo roongocakro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3580362377.wav|11|phooconiiyodtthaano ningo kaahve damrii mekongko
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3637717037.wav|11|tiikrungo qaahkraa maano brocaa cono croeno caango ke nai brotesa qinndaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2823325336.wav|11|brotesa norovaesa caa daeno dii da srosa sqaata
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_2919405237.wav|6|chmooh vulo thae mino maeno caa chmooh ruuba vituu nooh te tae caa chmooh qnoka tossano vituu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_4119922748.wav|1|karonnii kaaba samlaaba burosa camnnaasa mnaaka nau rotanokirii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0308_2970778153.wav|4|nau knungo qaannaacakro praivaengo boe laano choe mino krolaaba samotthakicca samngom choengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_3295899493.wav|3|sraabiero toeka maasa khcii rosacaati srotono phalita taamngopii chnaam muayo paano braambuano ryo huka siba bii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1580999237.wav|11|maadiihsano caa cangvaaka raam da penyoniyomo muayo bropheto
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0777443983.wav|11|robaayokaaronno sedtthakicca brocaam chnaam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_2847574953.wav|3|suukiimica caa sthaaniiyo brengo daelo lqa caango ke nau kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_2384983021.wav|6|kaaro phlaasabduuro qaphibaalo khetta raacothaanii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_3258838143.wav|6|kaaro krobakrongo hironynyo votthu saathaaronno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_0028642620.wav|12|toh thpaalo sdaam qangqaelo thpaalo chvengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1173249378.wav|11|qamroeta baano phtalo rongvaano caa croeno samraaba chnaam thmii neh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0113420385.wav|6|thonaakaaro taamngo qasa nau brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0483260562.wav|1|nokorobaalo sruka suango khaata khluano srtii mnaaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3666538639.wav|11|brovotti robasa krosuango kiccakaaro naarii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0308_1016909228.wav|4|qanussaavoriiyo tiilaano brocaathibateyyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_0131604804.wav|3|thonaakaaro phuumi samreca baano nuuvo kaaro phtalo sevaa hironynyo votthu dalo qatithicono kriikro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0308_2231221883.wav|4|niyaayo pii phnom santuka soengo sroka toeka maata phlaamo taemdango noeka khoenyo maano duta ktau kdau daelo lbii stoero penyo taamngo khetta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_3746465738.wav|12|looka hkongo maano camkaaro tompaamngobaayocuuro da thom muayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_2939844926.wav|1|phluuvo betungo kbaero robango votda samroongoqanndaeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_4040892912.wav|11|cbaaba stiipii kaaro brochaamngo qampoe pukaroluayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3116_1762132100.wav|5|sampota cango kbino maano taamngopii samoyo nokoro phnom ryya hvuunnono daelo krobakrongo dooyo proh baato kaunndinyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0871573005.wav|11|proh karunnaa proh baato noroottamo siihamunii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1093136626.wav|11|qaano visaalo badisetho mino cuulo criengo nau phalitakammo thoono
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_3362657710.wav|1|phuumi braasaato khum tropaamngo ryassii sruka kampongosvaayo khetta kampongothom
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0247197144.wav|11|looka maasa saavyano caa kruu brovotti vityaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_2264919634.wav|13|mohaa vithii proh suraamrita maano phaapo sngobasngaata pelo bunnyo phcum binndo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_4017464322.wav|15|vuulosvaahkaeno caa krumohuno robasa qaalloemongo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_1925221274.wav|3|maano camnuano kausiba roongocakro baano phalita ningo phkotaphkongo phalitaphalo samliekabampaaka qooyo nnaikii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6438_0038789904.wav|9|samdaengo silba cuuno brocaa polorodttha tossanaa nau votta phnom
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_0321092596.wav|12|hai saamngohengo sibbakammo daeka ningo qiinnuka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_0006117915.wav|15|bubphaa khmau caa sievophau kamnnaapyo robasa looka kyo saaruno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0160693563.wav|11|pithii boeka kaarodtthaano saangosango spaano kooh thom
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_2316783378.wav|2|caastiino biiboe caa taaraa camriengo lbii muayo ruuba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_0206409645.wav|13|srii tuuca camnnaano maano kuuno buano naaka caamuayo looka kita mengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_1818483230.wav|8|saaromontiiro caati baano riebacam kaaro taamngopiporonno thmii muayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_4015603856.wav|1|tesacaronno nau khetta proh siihanu naa roduuvo bunnyo phcum binndo neh maano kaaro koeno loengo yaango khlaamngo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0425084047.wav|11|comngoe kruno caanyo knungo brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0748633984.wav|11|kaaro bromuulo pontho cuulo knungo thavikaa caati
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1992521822.wav|11|kehadtthaano khaango srii maano tiitaamngo nau phluuvo tomnoba thmii kbaero phsaaro pese
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0877_2946427372.wav|14|tooh tau cobaliengo nau praekalieba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_3632267291.wav|13|krungo pooyopaeta noengo khvoh toeka sqaata broe caaba pii sabtaaha krooyo tau
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1687829645.wav|11|cbaaba sdiipii kicca kaaropaaro baristhaano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0213696168.wav|6|looka koemohyano maano phooconiiyodtthaano muayo kanlaengo nau phnompenyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_3615910170.wav|13|liiquunnaaduu daaviino sii caa monussa maano komnita cnaibrodita taamngopii nau kmengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_1993564965.wav|15|qaalobumo thmii robasa puaka ke baano caaba camnnaatathnaaka lekha muayo nau brotesa kaahsaakasthaano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_2765696335.wav|6|kaaro qaphivodttho visayo kaatadero nau kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0388120492.wav|6|kaaro svaengyolo pii thonaakaaro caati nai kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_0472220743.wav|3|piphopo looka qaaca sqaba haassaano ruuhaanii tae qvii qvii daelo kaata thvoe koe doembii brotesa caati kaata duuca quubaamaa thvoe doembii qaamerika daero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_1366196160.wav|2|khemobuudaa delii koe caa kaasaeta da thom hoeyo lbii nau kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_1474668110.wav|15|hvuuciitasu caa krumohuno robasa copuno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1161_1901606749.wav|0|phnyievo tesacaronno cono caati krika baano moka tossanaa tiikrungo qangkoro baano koeno loengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_0407104514.wav|12|brotesa nepaalo baano qanuvotta yutthonaakaaro tesacaro mnaaka doemo choe muayo doemo dooyo cookocoyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_4272267792.wav|12|kaalo bariccheto brovottisaastro kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_1431708626.wav|6|kaaro bangkoeta krumohuno qeka kammositthi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_3495858175.wav|12|monussa caa croeno tmih dielo tongvoe robasa kaata
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_0252788569.wav|13|rodtthamontrii maam lhungo criengo duuca samlengo robasa khemoro siriimonta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_0613286901.wav|12|qangkokaaro krau rodtthaaphibaalo behduungo maasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_1626216489.wav|6|proh raaco pithii bunnyo qum tuuka chnaam neh maano monussa croeno nnaasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_0078171362.wav|12|siingohkaapuaro caa brotesa daelo maano phtai dii tuuca caango ke
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2871729076.wav|11|binolaadino caa conocaati qislaamo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3444_1205767357.wav|7|duca liidaa badisethono ryango taaro thlai khluano khposa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0308_0921092662.wav|4|qnoka phuumi knungo sangkaata saamokkii khetta stoengotraengo tquunyotqaero khvoh kanlaengo thvoe bunnyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_3673146837.wav|13|nyuuvohkiinne caa haango loka phalitaphalo tomnoeba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_3575230590.wav|1|kaaro cuh banycii maano lokkhanno caa bropontho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_3824743612.wav|2|kaaro samdaengo robasa looka lii taavohua kuaro qooyo caabaqaarommonno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_1596579559.wav|12|brotesa pruyonne sambuuro qannduungo brengo nnaasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_2051410559.wav|12|besakakammo kruu petyo sangkrooh bantaano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_0323553331.wav|10|chuata maano laano muayo kryango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3116_4190820312.wav|5|duca soophaa baatabango phaapo lbii bantaaba pii riebakaaro ruaca
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3472765707.wav|11|brovottisaastro khmaero naa samoyo qangkoro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_2189202493.wav|3|pamo tuu qehvaelo caa tambano sedtthakicca da samkhaano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_3250993810.wav|15|phsaaro depuu maano kaaro damloengo thlai tuuba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2052934826.wav|11|qaephata bruutuudaemo caa qaakaasyaantadtthaano qantarocaati robasa liibii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0637921830.wav|11|banynyaavotii caa naarii da srosa sqaata mnaaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_4196235909.wav|11|vodta merooko kruno caanyo knungo khluano muusa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_3341222638.wav|13|chiehvuulo cuasaculo ningo damloengo kammovithii tuurosapto dai
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3210626838.wav|11|khuuhviino maano chkae muayo ningo chmaaro piiro kbaalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2144768995.wav|11|bupvohetu nai kaaro saangosango braasaato khmaero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0195337330.wav|11|nnaavyano caa qnoka loka mcuuro nau phsaarocaasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_1160502024.wav|6|khnyum baano tinyo khooqaavo muayo kamphle kaalo pii proeka minyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_1833777467.wav|1|nokorobaalo khanndo maanocoyo khaata khluano cono sangsayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3116_4031301962.wav|5|haasaave caa krumohuno daelo maano bukkolika srii croeno caango ke
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_3631477103.wav|13|naayo coemo caa taaraa camriengo nau phalitakammo saanode
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_2819191715.wav|2|kiilaa karo kuuno khmaero surinto nau brotesa thai phdualo daikuu qooyo sanloba ngoeba laengo ruaca
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_3808831326.wav|12|chaekaphanyo caa tambano daelo maano kaaro qaphivodttho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_4154476489.wav|6|kanlaengo kamsaanta knungo brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_3030637939.wav|6|puu nyoka nyuhnyongo daaniinyaelo qooyo sqaba puu chuano nyoyo dango nnaasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6438_0437328784.wav|9|luaca muutuu thaukae pii siriisoophonno tau caaba qantaaka puulisa krungo pooyopaeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_1688651132.wav|12|rii haannaa caa taaraa camriengo da lbii muayo ruuba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_0935260551.wav|10|brocaa cono khmaero nautae cuulocitta sdaaba bato camriengo robasa qnokanaango rosa seriisutthaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_1667995671.wav|13|naayo vaangodoe maano kerti chmooh lbii caango quuvpuka robasa khluano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3444_4018351097.wav|7|kaunndinyo ryya huno tieno truuvo baano cino buraanno hau thaa proh thoongo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_2030853985.wav|13|mukharobaro caa kammokaro roongocakro snaakanau phtoh cualo mdum suano kaannaadiiyaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_2870978447.wav|10|puu nyuanyo niyaayo nyehnyooh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_0365034928.wav|15|haelosiinokii caa krungo muayo nau knungo brotesa hvaamngolango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0243468598.wav|11|yaayo nnoyo samnnaango ningo kruasaaro cono rongo krooh phsengo tieta caa qnoka chnoh kdii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3116_4121641143.wav|5|naayo khlooka baano daka khluano pii qaaciipo kamblaengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_1541123801.wav|13|liiquunnaaduu daaviino sii caa vicitrokaro dai qeka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_3892832888.wav|3|saakhamo baengo caa thonaakaaro robasa vietannaamo daelo baano boeka saakhaa dambuungo ke bangqasa knungo brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1227561543.wav|11|doembii suvotthiphaapo ningo sukhaphaapo yoengo truuvo laango banlae noengo toeka paemongohkaannaata
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1069036884.wav|11|pelo baayo hoeyo daaka hsaenocaa muayo daba tau duucacaa maano caati
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2853936909.wav|11|quutriisa ningo qaalloemongo kampungo boeka camha promdaeno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0877_1352099982.wav|14|beno laano mukha raa rothaphloengo kbaero qakaaro kaannaadiiyaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_3649818745.wav|12|luu siennaa sambuuro tau dooyo tesaphaapo srosa bamprongo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_0530760234.wav|12|mocchomonndolo saha brotibattikaaro kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1161_0067826049.wav|0|sapvothngai neh thonaakaaro caati nai kampucaa baano phdoota tau loe kaaro samrobasamrualo kroehsthaano miikruu hironynyo votthu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0877_1824826716.wav|14|bangkoolo phloengo cumvinyo phsaaro siriisoophonno caa sambuka piingopaango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6438_1898343823.wav|9|kamlaamngo samotthakicca pusti tonle baasaaka khaata khluano kmengo tomnoengo bii naaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6438_1748806167.wav|9|montiiro petyo coorai phnompenyo qaaca lqa caango montiiro petyo coorai nau vietannaamo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_4163089377.wav|10|looka kruu lii sruaca caa saastraacaaryo phnaeka konnita vityaa da lbii nau saakalo vityaaloyo phuuminto phnompenyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_0126979735.wav|2|kaapiituulo baano pongriika khsae thvoe damnnoero dalo khetta prohvihaaro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_2369986715.wav|2|kampucaa qangkoro qaero baano kampungo damnnoerokaaro nuuvo phluuvo hoohhoero qandarocaati chpooh tau kaano tiikrungo haannuuyo ningo tiikrungo baangokaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0201289133.wav|11|looka hvaengokhiingo caa mcaasa krumohuno rothayonta tuuyuutaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2228698874.wav|11|proh baato phovormono baano bangkoeta raacothaanii thmii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2850645486.wav|11|tuaraano caa rodtthathaanii robasa brotesa campaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0554749372.wav|1|boengokaka noengo klaayo caa tambano sedtthakicca ningo tesacaronno da taakataanyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_2995103003.wav|6|kaaro loka diithlii ningo kaaro cuh banycii diithlii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3131058271.wav|11|robieba riebacam braaroptho pithii bunnyo katthino
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0128396732.wav|11|hkudariida saalaa bangrieno boekabaro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1954106282.wav|11|pyaakaronno qaakaasathaatu khetta baatadambango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_3939785069.wav|12|lii khoechaango baano tasuu rohuuta klaayo caa monussa mnaaka knungo camnnoomo qnoka maano luyo croeno caango ke nau qaasii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_1584397925.wav|1|qaatityo neh yoengo tau lengo proh baromoraacovaamngo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3350219864.wav|11|kokiiro caa choe bronnita muayo bropheto daelo maano doemo thom
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_0955001273.wav|8|proh raacoqaacnyaa baano cuh brotibatti chaekachero burii braambuano ryo kau braambuano nau caaba votta caakaqangrae kroomo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1932830723.wav|11|proh baato kaunndinyo truuvo baano rieba qaphiseka caamuayo ningo proh naango soomaa daelo caa butrii robasa sdeca phucongkonaako
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_3925919502.wav|3|lii senolungo caa naayoka rodtthamontrii brotesa soenghaburii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_1617246369.wav|13|cono caati phaako tica kuayo bii phuumi nau khum bromero sruka tbaengomaanocoyo khetta prohvihaaro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_2148390060.wav|2|krumo qnoka sraavocraavo nai mohaa vityaaloyo nau tuukyuu baano ro roka khoenyo thnaam roksaa samrosa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3793219517.wav|11|prucasaelo maano sissa hviiliipiino yaango croeno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_2557996526.wav|12|krumohuno qaaharonno niiharonno quyonyungo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0587734176.wav|11|nokorobaalo boengotompuno khaata khluano cooro kaasa phtoh luaca muutuu piiro naaka ningo qnoka tinyo mnaaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1161_0485693548.wav|0|revoelano baano totualo kaaro kaamtro pii suphaapo naarii tuutau
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_3870685484.wav|10|sukontho theraayu baano cenyo tau samdaengo nau brotesa baaraamngo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6438_1321368989.wav|9|lbaengo hkemo qiinothoennita kampungo riika raalodaalo knungo krungo cbaaromono
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2849712606.wav|11|duucamdeca daelo hau thaa phaapo caa qnoka doekanaam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1498079640.wav|11|haango phesacco lomdaaba khposa da penyo niyomo muayo daelo maano chmooh thaa kyo kaahve baano banghooh viidequu da kuaro qooyo caabaqaarommonno tau loe tomporo hvesabuka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_0057323790.wav|12|saalaa vimaano tipvo bangrieno cuasaculo muutuu kroba thuno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0665557730.wav|11|phnom naango kangrii nau knungo khetta kampongochnaamngo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_2966397783.wav|2|kunnophaapo saamngo robasa tuutaalo lqa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3746705540.wav|11|phnompenyo caa behduungo nai brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_1211354958.wav|12|saalaa rocanaa maano bangrieno sissa kuuro komnuuro ningo raam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_3751756802.wav|12|liiquunnaaduu daaviino sii caa qnoka phtoemo komnita bangkoeta yontahooh muno ke
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1461340708.wav|11|tuanaatii robasa raaco rodtthaaphibaalo kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_2128391092.wav|1|roongocakro kaatadero muayo nau khetda taakaevo baano rolom baaka thvoe qooyo robuasa braam naaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0896575927.wav|11|tooh quuno srolaanyo qnoka nnaa ka bango thaa quuno smooh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0355008352.wav|11|brovotti sedtthakicca brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0877_3871695729.wav|14|monussa slaaba mnaaka nau kliba kamsaanta muayo knungo sangkaata boengosaalaango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_1045236288.wav|10|looka kiimohano maano mukharobaro caa qnoka loka trii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1604290439.wav|11|doengo te thaa looka vielo smiita caa qatiita taaraa raeba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_2493349907.wav|8|kampota ningo kaeba koe caa toekadii muayo daelo caaba noengo samutro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_4012654250.wav|11|pelo quuno maano qnoka thmii bango thvoe qvii ka khusa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_2368352983.wav|13|kaaro totualo khusa truuvo phnaeka prohmotonndo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_3825806355.wav|2|krumohuno cheroevuno baano moka banndaaka tuno nau laavo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0608391796.wav|11|ruubaphaapo pithii bunnyo crota proh nongkolo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_4277545682.wav|11|looka puu rosanau phuumi kampongo roteh sangkaata kampongo roteh krungo stoengosaeno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_1733888966.wav|15|qaamaahsuuno caa kehatomporo loka qivaano qanolaanyo thom caango ke bamphuta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_2890588379.wav|6|brovottisaastro khmaero samoyo pulo pota
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_1475629528.wav|2|krumohuno phii thii sii kumpyuutoro caa krumohuno naamcuulo phalitaphalo kumpyuutoro stoero tae kroba maaka ningo kroba muudaelo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2795040298.wav|11|brovotti proh raaco pithii thvaayo proh phloengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1298252904.wav|11|porosoelaeno caa mocchomonndolo thaetaam rothayonta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_2206185109.wav|15|naayo yaano ningo taa ceka samdaengo ruamo knaa nau yoba neh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3442148805.wav|11|khamphoono haango loka nompango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1161_1451525691.wav|0|rukkhacaati duh loe dii maano rae pecro nau tambano maano qaakaasathaatu truupica ningo kooh muayocamnuano nau qaatlongotika
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_1636750016.wav|3|brotoh khoenyo rothayonta serii tomnoeba blungo coolo nau mukha haango nompango baayono
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0514901087.wav|1|proh baato coyovormono tii braampiiro baano kasaango braasaato baayono nau chnaam muayo paano piiro ryo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0877_2683639365.wav|14|qaphibaalo sruka mesaango baano braaba kampucaa thmii qooyo doengo thaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_2410812478.wav|15|haango nompango baayono caa haango nompango dambuungo ke bangqasa nau sruka khmaero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_2875924562.wav|3|hoohhoero pii qaakaasyaanodtthaano qaamstaerodaam brotesa huulango tau kuulaalaampuaro brotesa maalesii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3299194791.wav|11|samraamo nau loe kamnnaata mohaa vithii vengosrengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6438_1598289990.wav|9|saakhaa kaakabaato krohamo kampucaa khetta bantaayomaanocoyo naam qamnnooyo cuuno brocaa polorodttha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0354268277.wav|11|kuuno krobii muayo neh khmaunyuunyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0196622028.wav|11|doemo dambuungo nai brovottisaastro khmaero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0248311749.wav|11|ciivobrovotti robasa steca noroottamo siihanu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_1423692761.wav|13|khuaba proh mohaa ksatro noroottamo siihamunii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_2990823032.wav|6|looka koemohango caa mcaasa haango loka samliekabampaaka nau phsaaro thmii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0052127558.wav|11|kongo sucaati caa pithiikaarii kammovithii penyocitta ryya qata
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3937525748.wav|11|boe cango tinyo kumpyuutoro ryya kryango qelicatruunika suumo kum phleca chaeka moelo tossanaavoddii kumpyuutoro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0425208948.wav|11|qeliihsaabaeta maano samrosa srosa sqaata
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_3343057460.wav|3|samdeca paaba rosa nau knungo tiikrungo vaatiikango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_2503854561.wav|10|sukha pisii mino penyocitta noengo kaaro rihkono knungo hvesabuka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3168076903.wav|11|looka hkonohsaalesa niyaayo phaasaa khmaero baano yaango lqa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_2975070793.wav|2|krumo neh baano caakacenyo pii phuuketa doembii khoosanaa vobbathomo thai nau miiyaanomaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0308_0032157149.wav|4|phloengo kampungo chaaba cheh phtoh brocaa polorodttha nau sangkaata ryassiikaevo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2558902954.wav|11|sissa vityaaloyo tualotompuungo denyo vai knaa penyo saalaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_0454012734.wav|3|vaamngo baakakhiingohaemo maano qaakaasathaatu ktau haengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_3886220792.wav|10|lii qiivaathiinnaa qaaca criengo camriengo caa phaasaa cino
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3444_3521736567.wav|7|taaraa camriengo mau siinnaata pah caamuayo pithiikaro duango sukaa thvoe qooyo qnoka tossanaa soeca phqoelo penyo kammovithii samnnoeca taamo phuumi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_4108323078.wav|12|saalaa baelothii baano boeka saakhaa taamngo qasa camnuano saamosiba hoeyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_4204376595.wav|11|maano bropontho hoeyo mteca mino braaba quuno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_0721592139.wav|10|cantodyano ningo cantothyano maano mukha robaro caa qnoka loka phlae choe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0931618450.wav|11|qangkokaaro ruusaa lucahsambuaro baano qubatthampho thavikaa dalo kumaaro laavo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_2692636095.wav|6|suvonnnnaarotno loka samliekabampaaka nau phsaaro thmii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_0969169351.wav|13|kicca brotibattikaaro daelo maano kicca thaanaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_3759603135.wav|10|siisuvotthi muniireta mino baano snongo damnnaengo pii proh bitaa te
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1652213021.wav|11|qaano kunnokulaa baano cuulo tau criengo nau knungo phalitakammo saanode
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_3908585914.wav|2|kuukaakuulaa baano thvoekaaro phsaayo paannicco kammo dooyo daaka chmooh qatithicono loe kampungo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_0114690126.wav|3|phsaaro baayono phtalo cuuno nuuvo tomninyo daelo maano kunnophaapo caa croeno bropheto knungo tamlai taaba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3444_1770718951.wav|7|taengo kamnnaapyo caa camnnongo camnnuulo citta robasa qnokasrii kaevo cantobuuronno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1161_2261984000.wav|0|suyo suukii caa maaka muutuu da lbii moka pii copuno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_3398248397.wav|2|khungocoe baano comrunyo saavoka qooyo rihkono qnoka krobakrongo brosinoboe puaka ke khoenyo qnoka krobakrongo qasiilothomo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6438_0947425548.wav|9|beno laano mukha raa rotehphloengo kbaero qaakaaro kaannaadiiyaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6438_3713754461.wav|9|boengo yoksaloomo koeta loengo dooyosaaro bantuh phnomphloengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_0583651303.wav|3|tuakakii caa brotesa daelo maano doemo choe croeno nnaasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3444_3076676733.wav|7|kamnnaapyo ciivita nissita caa snaadai tii muayo robasa looka kyo saaruno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0488924766.wav|11|montiiropetyo nau phnompenyo maano bampaaka maasiino laasaero pyaabaalo comngoe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0133059842.wav|6|looka kimoqyata caa kruu bangrieno phnaeka cbaaba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_2369622962.wav|12|yaanodtthaano cuasaculo yaanyonda lii bunoliimo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_2416203677.wav|12|lngaaca neh maano nnaata nau saabuu saabuu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_0041834926.wav|8|vihaaro qislaamo nau khaango tbuungo kolo spaano praeka taamaaka troeyo khaango lica
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_4059402256.wav|8|nau camnnuca stuba votta mohaa montrii taamo banndooyo phluuvo proh siihanu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_4251433416.wav|8|staavo mnaaka truuvo baano kamlaamngo nokorobaalo prohmotonndo sruka samroongo thvoekaaro khaata khluano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3046448838.wav|11|maasaaqi loka qaahaaro copuno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_0140554227.wav|10|kuutahsaa tau lengo braasaato qangkorovotta nau khetta siemoraaba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1859335137.wav|11|taamo qnoka sruka qooyo kaaronno thaa paakyo pailino moka pii paakyo phe lengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_0958656624.wav|10|proh baato noroottamo siihamunii baano loeyo sooyoraaco
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0056472664.wav|11|tongo caati khmaero samoyo sangkomo raastro niyomo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_2218612922.wav|8|sanntthaakaaro qiinothoekhano cita phsaaro doemo koro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_1743690304.wav|13|siivohkica niyaayo cino loengo ruu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_2818624602.wav|13|krumo broeksaa santisukha qantarocaati
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_4067761978.wav|10|kaata kampungo tae doero doero sraabatae ngongoetamukha dualo nau noengo kanlaengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_1241564584.wav|6|kaaro nnaenaam vithii kaaropaaro rontoh nau kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_2186574239.wav|3|kaaro brokuata samrosa satvo quudttha thnaaka caati nau krungo qaabuyodaabii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_2635772140.wav|12|bropontho sedtthakicca brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_2616469619.wav|10|suyohsuyokii caa bropheto muutuu daelo ke niyomo cih
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_1293719375.wav|12|khaahvoryuu phalita rothayonta tomnoeba tomnoeba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_3430039051.wav|12|phuuketa bangkoeta tambano sedtthakicca thmii muayo tieta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_1675543500.wav|12|ngyango ningo yoeno caa monussa ngyangochngolo croeno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0760609301.wav|11|ruubiino viilliemo totualo rongo nuuvo kaaro rihkono campooh bato camriengo thmii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0300372342.wav|11|phaalohvielo kanlaengo vaayo kuuno hkoolo da thom
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_3477370785.wav|6|kaaro taengotaamngo qaphibaalo raacothaanii phnompenyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_0698591099.wav|12|saakalo vityaaloyo phuuminto niitisaastro ningo vityaasaastro sedtthakicca ryya hau kaata thaa saalaa ruulo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_1431094102.wav|6|brusa brusa kum ngobangolo noengo srii sraa lbaengo qooyo sooh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_3404499756.wav|1|tbuungo rotanokirii bangquata ponloe caengocaamngo knungo piporonno nau koohpecro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0107471922.wav|11|looka bunonyoongo caa puuliisa phnaeka prohmotonndo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_0495735504.wav|13|kbata thvoe qvii boe slaaba duuca knaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_0229180573.wav|12|baiduu phalita qubakaronno samraaba sruuba yoka samraamo nau taamo kehadtthaano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0421655859.wav|11|toekakaka tambano qangotaakatika rolaayo bromaanno muayo ryo daba braambii paano laano toono knungo muayo chnaam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1248101705.wav|11|looka neta kmengo lengo caamuayo khmooca doemo khnuro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0877_1299917338.wav|14|comnono toeka stoengosaeno baano ponlica phuumi sruka stoero tae taamngo qasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0786137165.wav|6|piipiidii mino maano ryango qaakroka caamuayo taaraa camriengo pecro soophaa te
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_3875131774.wav|1|noronnaa mino skaalo phaaba striita nau siemoraaba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_3523575936.wav|3|vaa suuvii baano bangkoeta thonothaano monussa yaango croeno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6438_3867336697.wav|9|saaromontiiro caati maano tamkalo votthu buraanno salo taamngopii samoyo muno qangkoro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1053458684.wav|11|brovottisaastro nai brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_1021841683.wav|6|qe phuuthango baano bangkoeta kloeba kiilaa khluanoqengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_2537027876.wav|15|prai qaamaahsuuno knungo brotesa bresiilo caa tambano daaca sryaalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0361781162.wav|1|tau khetta proh siihanu kaata taamo kiriiromyo kanlaengo yaayo mau
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_3610377938.wav|3|riiquu diicaeneruu maano phluuvo thom tuulaayo khvaatakhvaengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0457697486.wav|1|phuumi banndaeta toeka knungo khum chnukatruu khetta kampongochnaamngo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_0354407528.wav|13|naayo kuyo caa taaraa kamblaengo daelo maano kittinaamo lbii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0887371582.wav|6|kraanotae srolaanyo hetu qvii pibaaka mleh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_2592751596.wav|12|kaata maano kamposa taaba kronyunyo nyunyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6438_3876853486.wav|9|cheh phtoh lvaengo qaaciivokaro caaba phsaaro baano lungo bangka kaaro phnyaaka phqoelo penyo phsaaro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_2170671377.wav|12|phnyievo kittiyosa daelo baano chnoh rongvaano thom bannnno toeka braaka haasiba dullaaro pii phooconiiyodtthaano spaaka ningo taavaanodaango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3116_4224683641.wav|5|dii saaveta moelo tau duuca toebatae saamosiba qanycoengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_2037724365.wav|10|proh naango liivo yii baano doekanaam brotesa baano yaango lqa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_4141848057.wav|12|charohsaa cnai muuta samliekabampaaka blaeka blaeka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1132914284.wav|11|suchino thvoekaaro nau roongocakro kaatadero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_3447480289.wav|12|bierohkaadino mocchomonndolo kamsaanta penyoniyomo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2452537589.wav|11|looka kiethiingo caa qnoka rota muutuu duba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_2367858365.wav|3|phsaaro pese maano loka phkaa srosa ningo maano tamlai samoromyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0408443868.wav|11|qanusanynyaa tiikrungo viiyaeno sdii pii tomnaakatomnongo kaarotuuta robasa brotesa kampucaa ningo laavo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_4025226961.wav|11|kulo daavii maano samrosa srosa soophaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_2429123162.wav|1|mocchomonndolo caati kaampaaro maataa ningo taaroka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_1803866358.wav|3|puaka yoengo cuulocitta naalikaa biikabaeno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0965193157.wav|11|quuvpuka mdaayo koe caa bupvokaariicono robasa yoengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_2358936364.wav|15|cano cantolokkhinnaa maano komroongo riebakaaro nau khae krooyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2738738257.wav|11|khaamkoeta caa nissita rieno saakalo vityaaloyo thonothaano monussa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2151032604.wav|11|tooh yaango nnaa ka yoengo thlaaba srolaanyo knaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3212837845.wav|11|boe yoengo bambaeka sapto neh tau qaaca yolo baano thaa boengotrobaeka koe boengo daelo maano doemo trobaeka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0619926241.wav|11|cbaaba stiipii dii sambataano sangkomokicca
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0108945466.wav|1|krumo chmuanyo cuanyoduuro satvo prai baano tomlaaka cenyo pii knungo rothayonta coolo kbaero cinycoemo phluuvo caati lekha muayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3503397289.wav|11|nyaatinyoomo putthobarisato baano naam yoka baccayo kasaango vihaaro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0988356041.wav|1|tuanaatii proh sangkho knungo proh putthosaasanaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0210836646.wav|11|kaaro samaathi qaaca ponyoeta phaapo soeka reca roelo nai koosikaa khuaro kbaalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0336850054.wav|1|brolango cuulo qaayo qehvo qilo thlaaba mino doengo punmaano dango te
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_1880778640.wav|12|saangaemo yoolo kuuno knungo qangroengo yom ngaengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_0849041873.wav|10|chiichino caa taaraa samdaengo muayo ruuba da lbiilbaanyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_3099922758.wav|6|krumohuno qinothoechengo roesa bukkolika pheto srii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_0099932223.wav|10|taa nyoca doero nyonyiinyonyoro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_2666400452.wav|12|saalaa qantarocaati ruuyaalo qaamerikaamngo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1798394730.wav|11|quumongo mino suuvo broe hvesabuka te
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_2983380913.wav|6|looka kimovaanodyano caa kruu bangrieno phnaeka qaksarosaastro khmaero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_2466794336.wav|8|khlaaca ke choe tae mino khlaaca bango toeka phnaeka criengo dooyo kaevo vaasanaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_0654135195.wav|12|petyo qantarocaati qesa quu qesa caa montiiropetyo petyo daelo maano kunnophaapo khposa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0308_3609588942.wav|4|comnono tonle mekongko komraamokamhaengo krungo kampongocaamo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1976715520.wav|11|hatthaakasikaro maano qatithicono caa cono caati phaako tica bromaanno pii huka siba tau cita siba phaakoryo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_3434437376.wav|6|yai qangkuyo srongehsrongooca mnaaka qengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_2168617119.wav|1|looka truuvo baano banycuuno tau khum khluano nau kuka praisa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_0111097671.wav|1|tivaa bunnyo qekaraacyo caati braambuano vicchikaa baano braaroptho thvoe nau vimaano qekaraacyo krungo svaayoriengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3022528941.wav|11|hatthaakasikaro baano cuayo qooyo ciivophaapo robasa kasikaro nau kampucaa thuurothaaro caango muno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_1516539312.wav|3|thonaakaaro kaannaadiiyaa koe caa thonaakaaro daelo phtalo sevaakammo baano yaango lqa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3159265914.wav|11|brovotti qaksaro saastro samoyo longvaeka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_2099358407.wav|3|montiiro petyo paasiihvica phnompenyo caa montiiro petyo qekacono
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_1685315688.wav|6|muulohetu daelo banntaalo qooyo maano phaapo kriikro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_3902140404.wav|3|bannnnaaloyo konnita vityaa muayo neh truuvo baano saangosango loengo knungo naamo looka rene dekaatasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1161_3043212775.wav|0|montiiro petyo sangotraalo pyaabaalo comngoe tuutau taamo stangodaa qantarocaati
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_4079928427.wav|12|qaaliihsaa caa taaraa banghaanyo muuta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3536254480.wav|11|petyo pyaabaalo dooyo mculo vityaasaastro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0737930536.wav|6|looka yungochi ningo looka thaichi qangkuyo cocaeka knaa qampii kaarongaaro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3444_2873045215.wav|7|looka chyano qutdamo nau mino taano maano damnnoengo lqa nau loeyo te
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_1622530537.wav|1|khetta baatadambango caa khetta muayo daelo phalita sruuvo baano croeno caango ke
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_2592013775.wav|3|quutriisa bangkoeta yontahooh kmaano monussa boeka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3404414208.wav|11|sriirotno baano tau paannaamaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0460805002.wav|6|kromo siilothomo viccaa ciivo kruu bangrieno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1580587424.wav|11|kumaaro vyano visaalo maano tepokoosalyo khaango komnuuro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_2362856176.wav|15|kampuulo taaraa camriengo khemoro siriimonta ruamo caamuayo noengo krumo kaarongaaro baano cuaba kroohthnaaka caraacaronno da ronthota muayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_0382188786.wav|15|proh raacaannaacakro kampucaa klaayo caa mohaa qaannaacakro nau knungo raaco proh baato coyovormono tii braampiiro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_2329966810.wav|10|sukha sumaavottii baano samdaengo knungo ryango phuumi qata monussa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_4183503041.wav|12|mhuuba nau phooconiiyodtthaano phtoh mae kmeka pita caa chngaanyo maeno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_4006735950.wav|11|heccha phii caa krumohuno loka kumpyuutoro da lbii nau cino
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_0506599604.wav|3|luango proh baango caa khetta muayo nau brotesa thai
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_0209534820.wav|10|looka chaeko kampungo tae qaano kaasaeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_2626211121.wav|6|brovotti khmaero samoyo muno qangkoro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_1430402582.wav|12|maalii maano naam cenyo sraabiero da lbii loe piphopo looka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0801944483.wav|6|krosuango kiccakaaro naarii ningo qatiita yuvocono
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_2479336859.wav|10|camnnongo qaapaahapipaaha robasa naango mengo kaevopecrocindaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1437928215.wav|11|kraanotae ke nyooh bantica sookhyano croloota tuungo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3124038913.wav|11|sthaabanaa liimiitathiita koe caa krumohuno phtalo sevaakammo hironynyo votthu dalo sahakrino kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0308_2122927324.wav|4|qnoka phuumi boengokaka kampungo yom sraeka taamotaaro samnnongo samoromyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_1756210647.wav|3|kaaro pyaabaalo mino kita thlai phnaeka phnaeka nau montiiro petyo proh ketumaalaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_0530031132.wav|12|saalaa norotuno baano bduuro tiitaamngo thmii hoeyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6438_3702537307.wav|9|tesaphaapo taamo phluuvo cita votta phnom spaano naako
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_3458150059.wav|8|popoka vilo loe phnom buukakoo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2432053983.wav|11|biikhaero maano kae samphassa burosa naarii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_4119_2349112625.wav|8|toe kanlaengo kamsaanta driimolaenodo maano qvii samraaba lengo khloh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_1423276771.wav|12|brotesa suyoqaeta baano truatatraa tiikrungo qiistangobulo knungo kamlungo sangkraamo looka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_1437474470.wav|13|kampungo broproetta tau nau votta sambuaromaasa khanndo dangkooro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1866714552.wav|11|brovotti nai kaaro krobakrongo nau kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_3906934768.wav|15|qnoka qaaca tinyo kumpyuutoro bango romlosa nau chaayo huka kumpyuutoro baano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1970710747.wav|11|bango sum baeka sroba pelo quuno maano citta srolaanyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3649637173.wav|11|brotibattikaaro hvoekahvoeno muayo thvoe thvoe loengo nau cita tambano yutthosaastro da samkhaano nai croka cuulo chuungo samutro paeka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_0832901924.wav|2|khaadiilaeka mino maano loka nau brotesa laavo te
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3955579411.wav|11|smaata voccha robasa qaebaphalo maano tamlai samoromyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3444_3897778795.wav|7|ke mino doengo pii thngai khae kamnnoeta robasa qnoka phiromyo phaasaa quu hau nguyo te
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2907763959.wav|11|looka haenothai samraaka nau kanlaengo thvoekaaro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2007527791.wav|11|nnaapaa sambuuro tau dooyo trii toeka saaba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1728_3277628449.wav|2|kruasaaro robasa khnyum mino daelo baano tau diisniivoelo te
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_0953770812.wav|10|boe mino maano qvii caa dumkamphuano te kum vaayo ryaka peka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3444_2270535721.wav|7|bato thmii robasa looka khemo pita caa pirooh ningo maano qatthanoyo maeno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1142453337.wav|11|duumiinnuu koe caa haango loka nom phiihsaa pii qiitaalii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_3872595255.wav|1|kicca samphaasano causangkaata phsaaro doemo thkuuvo cumvinyo kaaro qaphivodttho muulodtthaano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_3530707572.wav|12|saalaa coyo thaavii bangrieno kuaro samraaba triemo brolango baakaduba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0995_1957158632.wav|15|qaariistuuta caa tossanovituu krica nau muno krista sakaraaco
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0687993629.wav|11|disakhoovoe caa haango loka vaenotaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_0161797894.wav|6|doephaayoroeta caa chmooh qaango haelo toeka muayo kanlaengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_3788091673.wav|12|mocchomonndolo vobbathomo baaraamngo ryya hau kaata thaa saalaa qaaliiyongo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_1910872036.wav|11|naango priimo liihsaa mino cango maano snehaa thmii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_7548_0533578039.wav|12|vityaasthaano sthaabatyokammo kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_1738157208.wav|6|kaaro boohbango kaaro siksaa robasa kmengo srii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_1900832894.wav|1|cono caati phaako tica kuayo bii phuumi nau khum bromero sruka tbaengomaanocoyo khetta prohvihaaro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_1129376051.wav|3|thamo kruusa caa taaraa samdaengo huuliivuuda daelo roka camnnuulo baano croeno caango ke
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3346363469.wav|11|looka braacnyo chuano truuvo puaka khmaero krohamo comliesa cenyo pii phnompenyo tau kaano tii conobato nau samoyo pulo pota
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0308_1074998143.wav|4|rothayonta saamuyo kliinika cbaaroqampau buka muutuu kuba crungo robuasa thngono
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_1637799886.wav|1|kampuulo kbaaca kuno camlaeka taamngo braampiiro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_3531034402.wav|6|krumo broeksaa sedtthakicca kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3428699909.wav|11|camnuano brocaa cono knungo tiikrungo phnompenyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3116_4108280511.wav|5|hetu qvii thano lokkhinnaa maano braaka tinyo phtoh tamlai daba braambii moeno dullaaro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_4113839621.wav|6|hvaero qaeno qiihsii phdalo sevaa kammo tinyo loka qacalonotropyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3938340527.wav|11|qnoka rongo robuasa truuvo baano ke banycuuno tau sangkrooh nau montiiro petyo baayono
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_8029_2810162453.wav|13|sibbakammo phalita krodaasa kmaano slaaka yiihoo kbaero votta mohaa montrii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_0627015495.wav|10|duulohviino caa kanlaengo kamsaanta samraaba kumaaro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_3788911907.wav|11|kampongotraaca caa sruka caaba lomdaaba thnaaka lekha muayo khaango boeka lbaengo siisango ningo kantuyo lekha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_1662881294.wav|3|laenoruuvoe qaaca boekabaro phluuvo chngaayo baano dooyo trocaaka citta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_0151094812.wav|11|qnoka qaaca loka qivaano taamo qiibe baano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_0877_3141299004.wav|14|rothayonta kuure buka rothayonta kaamorii cam paakakanndaalo stuba buukakoo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2413419276.wav|11|kaarongaaro neh hatanyayo nnaasa samraaba khnyum
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6438_3836325009.wav|9|qakkiiphoyo muayo baano chaaba cheh thonaakaaro cino nau cita sanntthaakaaro qiinothoekhano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1161_2835582962.wav|0|mocchomonndolo thae roksaa samphassa mehkaabaelo caa phnaeka muayo robasa krumohuno quuliihkoo daelo loka ningo caekacaayo phtaaca mukha nai phalitaphalo thae roksaa samphassa lomdaaba thnaaka piphopo looka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3444_1051815735.wav|7|kaevo pecropisii boeka haango kaacakungo cano cantolokkhinnaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_1443_1770901378.wav|1|cbaaba pontho nau knungo brotesa kampucaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6753_2615047346.wav|11|maa laupii caa qnoka nipontho tomnuka criengo ningo bato phlengo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_6444_4012553731.wav|10|proh qangko mcaasa siisuvotthi duango lokkhinnaa caa proh qanuco bangkoeta robasa proh karunnaa proh baato siisuvotthi muniivongsa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_1985983618.wav|6|krumohuno thnaam laaba cuutaano khemobuudaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3154_2627916705.wav|6|kattaa daelo thvoe qooyo qaaciivokammo baraacoyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_3444_3669267745.wav|7|chano suvonnnnoraaco toeba tinyo rothayonta thmii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/khm_2499_3431860345.wav|3|quuqiichi maano rosacaati chngaanyo caango hsaenocaa

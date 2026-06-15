@@ -1,0 +1,710 @@
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_01380710628.wav|24|mas hari mbangun bengkel mobil ning bau bau
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_01682195800.wav|13|aku wis janjian karo will smith nang tunjungan plaza jam siji awan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05522_00467255919.wav|19|ana pilihan basa inggris ning website tiket dot com
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_00722222266.wav|32|elzatta ngetokake produk sing nggawe geger masyarakat
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_09039_01306597052.wav|37|cakra khan mari difoto nang pinggire danau kemuning
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08002_02093668995.wav|33|kon ojok sembarangan tilpun nang kontak iki kosong wolu lima telu sanga pitu wolu loro pitu papat siji siji ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04588_00369868181.wav|14|ndelok aktinge julie estelle gak ngecewakna blas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_00899002626.wav|30|gilang ramadhan mikul beban akeh nang kulawargane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_01301443321.wav|4|dolanan apa nok ning tanjung benoa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_00769580065.wav|32|christine hakim iku biyen sing merano cut nyak dhien
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_00911319497.wav|6|jaka kaliyan rayine kesah dhateng blitar nitih bis
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05667_01759026035.wav|21|erna mari tuku montor suzuki pas nang pameran wingi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_01652914984.wav|26|ya kira kira telung jam tekan cipanas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_00620079896.wav|36|akeh sing ditumbalake pas nggawe dalan tol cikopo awit maune iku alas gong liwang liwung
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_01643267097.wav|20|arep tuku jaket bekas ning gedebage
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_00917741791.wav|31|surya saputra nggendhong anake ngalor ngidul ngetan ngulon
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00658_02058376282.wav|27|musuem louvre kan bentuke kaya piramida kae ta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00264_00823393588.wav|5|montor daihatsu sampeyan kok mboten ketingal blas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06941_01603332071.wav|28|sampeyan arep nyilih dhuwit nang nggonane ruben onsu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_00976509403.wav|12|numbasaken oleh oleh bolu damelan brownies amanda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04588_01671592169.wav|14|bella sofie ora wedi karo larangane wong tuwane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00264_01782377140.wav|5|ibnu jamil ngantem kancane sampe getihen ndhase
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_01160982233.wav|24|kylie jenner mangkat ngelayat dhewe merga bojone lagi lembur
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08002_02099585694.wav|33|kesah dhateng kantoripun bumi aksara
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_00921001571.wav|31|ya kuwi perusahaan tambang fajar bumi sakti
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_00336799094.wav|31|apike awakmu nemoni deknen bakda mulud
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_01560728984.wav|35|ana tragedi apa ning singaraja
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_01788199161.wav|10|iggy azalea olehipun nyanyi sampun sekawan dasawarsa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06080_01719763871.wav|23|taman nasional kerinci diresmiake dening presiden sewelas taun kapungkur
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_02113033122.wav|12|bojoku turu sak jam setengah ora tangi tangi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06383_02059463588.wav|25|muse wis mlebu nang njero montore pas aku mlayu marani mereka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_00247899730.wav|9|sampun jam sanga enjing tapi dereng sami wungu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04982_00016396705.wav|17|tokonipun badhe tutup sekawan welas menit malih
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07335_00590262825.wav|29|kecamatanipun menawi mboten lepat cijantung
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_01392_01775155781.wav|0|majalah ingkang dicepeng didalaken dening penerbit kanisius
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_01022987154.wav|12|nusantara kabare isih semrawut njerone
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_00179680009.wav|36|wedhus panggang khas mempawah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_01590102442.wav|22|cut tari dipunsukani yuga jaler sekawan bagus bagus
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_02884_01958508594.wav|7|laura whitmore tanglet rame rame niki badhe wonten napa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00264_00654738186.wav|5|ndelok annisa bahar njoged nggarai awak jantungan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_01435014539.wav|8|bebekipun dipungoreng ampun langkung saking sekawan menit
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_01392_00917873675.wav|0|wis tak garap sangang puluh lembar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_01880048767.wav|4|karawang menika perbatasan tengah kalih kilen
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_00948874739.wav|24|steak nang nggone pepper lunch lumayan isa dimamah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_01294856327.wav|35|kaping loro ora usah mbuang iwak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_00420484396.wav|18|abayamu kok apik ya sing tuku ning zoya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_01901301999.wav|22|tukang resik resik bandhara juanda padha ngersula amarga durung dibayar wis patang wulan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_01381038001.wav|9|ariel tatum menehi ali ali emas menyang teza
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06080_00798314403.wav|23|budi nuweni tika sareng tiyang sepuhipun ing sasi april
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_09039_00333161195.wav|37|montor mabure njebluk ning bandhara internasional taoyuan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_02030625228.wav|36|gara gara konser bon jovi dalanan poleh macet kabeh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_09039_00421507946.wav|37|lha jare siswane ana pitung puluh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_00786523714.wav|30|winona ryder iki mbiyen tau katresnan karo adi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08002_02005856829.wav|33|arnold schwarzenegger didapuk dadi gubernur california rong periode mengarep
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06080_01783271567.wav|23|floyd mayweather gak kapok ngantemi wong nang dhukur ring tinju
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_00015075340.wav|11|aku ora wani yen dikongkon lunga neng worcester dhewekan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_09039_01679703850.wav|37|ibu ngasta tas awis damelanipun fendi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_02884_01936684926.wav|7|arep mangan mi thok ndadak ning grand indonesia
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05522_01586604120.wav|19|brambang abang ning brebes diobral
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_00100459139.wav|11|sing ngati ngati yen urip ning india amarga akeh maling
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_02141733806.wav|22|kowe aja macem macem mengko disikut rina nose
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08002_02052128405.wav|33|damelipun penerbit galang press sae kok saestu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_01961977512.wav|8|kupinge jonathan frizzy wis rada budheg
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06080_00448790687.wav|23|kula remen mirengake swaranipun donna harun ingkang ngobak toya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_01893978420.wav|8|yen arep ndaki pegunungan everest kudu pasa senin kemis ping papat
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06080_01684566097.wav|23|latian munggah gunung prau dhisik sakdurunge gunung liyane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08002_00548529241.wav|33|saliranipun panjenengan sampun mangertos menawi kula badhe nandang padamelan jam setengah tiga siang dhateng tangga tepalih
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_00676213315.wav|12|sak karepmu aku ora urusan karo laporan taun rong ewu telulas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_01392_00650642342.wav|0|agung podomoro land ngedegake universitas swasta kanggo wong mampu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_00443844075.wav|30|iggy azalea olehipun nyanyi sampun sekawan dasawarsa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_00085794106.wav|10|ari wibowo mlampah tebeh wiwit siyang kalawingi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04715_01654604354.wav|16|ana sing jenenge hutan mati ning gunung papandayan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_08178_01897618232.wav|34|phi collins ngombe obat sakwise mangan tela karo pohung
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_01028827098.wav|15|rupert grin mlaku ngetut nang mburine slamet sampe slamet grisien
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08002_00802229854.wav|33|atalarik syah sampun diwasa lan saged nata urip piyambak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_00301924036.wav|22|oleh nyilih flashdisk kingstonmu ora
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05522_00598267223.wav|19|garwa kula setunggal jam setengah mboten wungu wungu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_01832069532.wav|22|kemis pahing aku arep melu pengajian rutin ning mesjid istiqomah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05522_00540046818.wav|19|permen khas turkin raosipun pedhes kados sambel
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_01519_00952515826.wav|1|mbahku mbiyen langganan majalah time sesasi pisan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06080_00092376524.wav|23|guwa ning pantai pok tunggal akeh lawane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_01090564625.wav|10|bulikku gaweane saba ning lippo cikarang karo anake
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04588_01350711469.wav|14|komporipun mbah uti awet ingkang saking hock indonesia
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_00697338658.wav|9|sak karepmu aku ora urusan karo laporan taun rong ewu telulas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_01961080838.wav|13|aku arep njupuk dhuwit sewu ning bang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00264_02010612239.wav|5|nggih panjenengan sampun langkung saking yuswa selangkung taun kalih ewu wolulas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_00914088670.wav|36|karyawan pesona khatulistiwa nusantara podo sambat njaluk gajine mundhak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_00213908685.wav|36|venus williams ketingal saking tebih adhine angsal cilaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_01160225992.wav|11|iya iki wis mlipir ning comal
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06383_00054671355.wav|25|bolu kartika sari empuk tur pulen
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06080_01905157437.wav|23|yen bukalapak keluwihane apa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_01720367028.wav|24|slametan sunatane dimulai jam setengah wolu bengi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_00504727964.wav|35|mengko nek ketemu lydia kandouw kudu salim ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_01084864962.wav|6|sun yang jik pancet pengin ngalahna kanca kenthele sing jugak pinter renang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_02118514543.wav|24|ingkang nembang macapat menika lare pati
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_01676463148.wav|24|kroasia ditembaki helikopter saking sanesipun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_00532091542.wav|36|krungu krungu arep ana banjir bandhang ing taun rong ewu songolas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_00100716243.wav|36|nino fernandez iki jik onok hubungan seduluran ambek kraton solo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05667_01067820365.wav|21|ana kecelakaan ning mumbai wingi awan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_00679655078.wav|24|saka yaja budiman nggejah ora usah kuwatir
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_00908548233.wav|12|pertanyaan sing kaping selawe menurutmu piye
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_00384407008.wav|13|riri riza arep gawe filem tentang kebecikan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_00470393386.wav|9|jumat kliwon sepi amarga jare wong wong alas roban iku singit
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_02097295365.wav|30|mundhut tales ten bogor
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_01151763987.wav|10|abrit abrit ketingal saking tebih punika rikmanipun fenita arie
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_01392_02088991718.wav|0|nek cafe batavia gelem ora
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00658_02115021827.wav|27|artise soraya filem wis tuwa tapi kualitase jempolan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_00418407825.wav|20|juni mangke artanipun telas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_00054376309.wav|35|kaping lima nindaake kaji
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05667_00469203995.wav|21|untune chelsea olivia gingsul malah nggarai tambah manis
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_01109012279.wav|15|mito regane murah tapi ora awet
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_00718923240.wav|36|pantai gading dikalahaken dening sinten
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_01979333613.wav|8|rame bocah bocah mangkat sekolah jam pitu esuk saben dina
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_01392_00256141944.wav|0|wulan jumadilawal akeh wong mantu lan nyunatake
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06941_00879169181.wav|28|balenciaga isok ditemokna ning mal mal ning jakarta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_01154685690.wav|13|sekali kali aja tuku kaos polo terus
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_01630153281.wav|35|katie holmes durung mbayar utang neng nggone mbak dewi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_01761590182.wav|30|turunane saiki padha manggon ning johor bahru
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_00457745690.wav|15|terminal bis ten pennsylvania alit lan nylempit ten pojokan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_00904044393.wav|32|casio gak mung dodol kalkulator ya tapi juga ana jam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_01203835573.wav|35|wareg maem soto ten gudeg yu djum
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06080_00255047969.wav|23|masku mari ketrima kerja nang british petroleum indonesia
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_00958832172.wav|4|kylie jenner mangkat ngelayat dhewe merga bojone lagi lembur
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_01012846120.wav|31|ayo mlaku mlaku numpak montor muluk etihad airways
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_01264566812.wav|26|agemanipun dijait kalih tiyang jembrana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07335_01281256826.wav|29|tom cruise ngelak pol sakwise padu ambek sutradarane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_01699246612.wav|4|arep ngecek mripat ning optik melawai prima
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_00235592268.wav|35|boneka poppy mbiyen diperanke ambek diana pungky
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_02059_00440786757.wav|3|mbah uti kangen kutha gombong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_01392_02073835861.wav|0|duite ilang sak dompete pas ning bahrain
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_00517156746.wav|31|aktinge diah permatasari pas dadi momok ancol iku jan fenomenal tenan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_00547948125.wav|36|cedhak ngawi kok kui
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07335_00163254802.wav|29|aku kepingin tuku kaos ing malioboro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_09724_00582237761.wav|38|menawi badhe mirsani balapan kedah mirsani tayangan jam kalih seprapat enjing
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05522_01918143879.wav|19|mboten sisah direngges lare lare ingkang maturipun badhe medal taun kalih ewu kalih welas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06080_00031345980.wav|23|cowek ingkang kangge ndamel bumbu ten seribu rasa gumpil
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00658_01717004487.wav|27|burger king niki ugi sadeyan ayam goreng kaliyan kenthang goreng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_01112165153.wav|36|yakult iku sing mroduksi ombenan probiotik teka jepang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_00401854507.wav|11|ayamipun ibu ngendog wolu ageng ageng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_01764043878.wav|30|hillary clinton arep macung meneh dadi presiden amerika
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_00147115379.wav|32|andi arsyil rahman iki dirubung ibu ibu sing arep lunga belanja
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_01558047057.wav|15|musike green day iki mbrebegi kuping ae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_01259980762.wav|9|gedhung ingkang regine gangsal triliun niku kados napa rupanipun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00264_00140023308.wav|5|nick jonas remen nedha sekul kaliyan jangan lodeh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08002_01516022102.wav|33|printer epsonku tintane wis arepe entek sawangane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_01889230905.wav|30|ayo padha karaokean menyang nav ngilangake stres pikiran
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_01392_00320348645.wav|0|lha museum jogja kembali kuwi kan sebutane monjali
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_00857459787.wav|31|yakult iku sing mroduksi ombenan probiotik teka jepang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06941_01028615107.wav|28|pustaka elba ndamel reng rengan kangge rencana taun ngajeng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_00185143284.wav|10|avril lavigne dikongkon wong sak kampung mbangun mesjid
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04982_00069969014.wav|17|selasa legi dolan menyang candi ratu boko yok
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06383_01340559067.wav|25|mbah uti kangen kutha gombong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_01473279536.wav|6|neutron kagunganipun priyayi jogja
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_02116141578.wav|18|ora usah wisata menyang inverness ndhisik
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_01787925254.wav|22|ora pisan pisan nganggo dewi sri
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_00017146542.wav|9|aliran sing dianut huffington post iku liberal
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_00034487974.wav|8|panjenengan miyosipun ten ottawa nggih
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_01441947289.wav|4|kathoke giovanni adem gawen gawenane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_00614205691.wav|31|grup musik saking newcastle sampun pecah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_01851926883.wav|31|obat sing tak ombe kae tulisane produksi kalbe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_01374502840.wav|20|mangan kenthang goreng ning yoghurt cisangkuy
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_01939141299.wav|8|clarks iki pabrik sepatu teka inggris
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_00885027965.wav|10|acha septriasa nitih bis ndugi bandung
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_01392_01613821983.wav|0|kaping kalih kedah dhahar napa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_00695445449.wav|9|pambarepipun kula sampun pikantuk padamelan ten siprus
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_00060308677.wav|9|sak menika jalur gaza sampun kondusif
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_01991716110.wav|24|dani emoh nyambut gawe nang kantore microsoft ning amerika
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_02884_00719784625.wav|7|celine dion dipunwaduli perkara kedurjanan kaliyan simboke
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_00578027868.wav|4|kaca mripat rayban sampun dibeta dhateng parangtritis
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_01815222011.wav|12|kaping loro kudu mangan apa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_00176140088.wav|18|arep mangan mie thok ndadak neng grand indonesia
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_00500012595.wav|26|nikita willy iki pawakane endhek lemu koyok aku
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04588_01443012913.wav|14|alexa chung ngagem rasukan ingkang awis sanget
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_00436347608.wav|31|mozambik sampun diblacklist saking pengurus pusat
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_00412858640.wav|13|ndelok laut seka ndhuwur monas rasane ser seran pengin mudhun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_00718320215.wav|24|asuransi astra buana ora kalah karo asuransi luar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04588_00332147205.wav|14|nek wong wedok gelungan kae simbole nyonya meneer
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_00672774361.wav|24|pasar tradisional ning jogja kuwi ya pasar bringharjo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_08178_01060375028.wav|34|yen arep ketemu ronaldo dheweke isih kunjungan ning biak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06383_00525269646.wav|25|ayaminipun wendys mboten alot blas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_00996960045.wav|12|okan cornelius nyeluki sri bolak balek tapi sri gak krungu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_02069447104.wav|9|snapchat niku radi angel gegaweane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06080_00235307214.wav|23|wedhus panggang khas mempawah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_02143463982.wav|30|tales bogor diolah dados jajanan ingkang disade lapis bogor sangkuriang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_09724_00249392329.wav|38|saiki pantai sigandu ditanduri bakau sak pinggire ndalan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_01976261958.wav|35|arep niliki raminten tapi antrian jenguke wis telung puluh wong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00264_01907462321.wav|5|amman sampun diserahaken dhumateng pejabat enggal
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04982_00120851093.wav|17|mall sing apik ning depok ya mung margo city depok
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_01975977615.wav|15|deknen ketampa kuliah ning akitaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_01366106898.wav|31|jihan fahira ndherek pengajian sesasi pisan ing komplek griyane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_02049216226.wav|26|adera niki salah sawijining penyanyi ingkang bagus rupanipun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_00163411935.wav|24|wis tepuk tangan karo ciputra group
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_02884_01431414438.wav|7|lha deknen mbukak cabang ning luxor
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06383_00230946750.wav|25|isuk mbengi bola bali menyang gedhunge trans media golek berita
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_00182772223.wav|35|kroasia ditembaki helikopter saking sanesipun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_01601621245.wav|10|nembe tak entas wolulas menit mau tapi durung adem bakwane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08002_01895457899.wav|33|piripun menawi montor maburipun didamel ten pidie
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_00388362370.wav|26|iku temenan ta laptop merek lenovo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04715_01552744242.wav|16|lha apa deknen kawin karo wedokan saka derry
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_02884_00325137193.wav|7|sapa jenenge bojone rahma azhari
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_00559310711.wav|32|yayasan obor indonesia saged dipadosi websiteipun ten internet
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_01389935198.wav|18|oh iya deng ya hiroshima
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_00364235992.wav|32|atalarik syah sampun diwasa lan saged nata uripe piyambak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06080_02083454362.wav|23|bobote ani mundhak petang puluh kilo merga mangan gak leren leren
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04588_00479122087.wav|14|catherine wilson nandha tangani surat pegat wingi minggu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_01740352187.wav|22|sasi ngarep jatahe tuku benges revlon maneh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04588_01789155967.wav|14|sekedhap malih dumugi plumbon pak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_00358811894.wav|15|piyik sing kaping wolu pas lair wernane kuning
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06080_00423439965.wav|23|sandra bullock marani bali mung gawe ndelok kethek menek wit
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_01398548974.wav|36|putranipun miyos taun kalih ewu sanga nggih
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_01938119331.wav|9|aku kok mblenek ndelok gayane dian sastro iki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_01505451481.wav|30|nguleni adonan setunggal jam seprapat ngantos pegel lengen kula
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_02114190311.wav|13|ndang solat zuhur wis jam setengah loro awan sedilut meneh asar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_00490495177.wav|11|anake carissa puteri lucune pol koyok golekan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_01783896220.wav|30|kon aja pisan pisan nglarani atine clint eastwood
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_01514998734.wav|20|tantri kotak nedhi sepura dhateng rencang rencangipun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_01523968070.wav|24|akeh wong gundul ning sekitar dataran tinggi tibet
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06383_00853106100.wav|25|lalapan ten bebek kaleyo punika ngagem kubis
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_02884_01602822489.wav|7|bisa ndelok kewan kewan wayah mbengi ning taman safari
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07335_01793727092.wav|29|piyik sing kaping wolu pas lair wernane kuning
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_02884_01308862144.wav|7|wonge untel untelan ning stasiun manggarai
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_01205916618.wav|31|salah sawijini produke bayer iku ya obat nyamuk baygon iki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08002_00070136257.wav|33|wings air kursine sempit ora penak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_00415481074.wav|26|aku kok mblenek ndelok gayane dian sastro iki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_01486570792.wav|18|donita mlebetaken yugane ingkang sekolahan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_09039_01628693328.wav|37|astuti wegah nukokna adhine sepatu anyar ben sasi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_00081334281.wav|12|maeng bengi aku mari diimpen impeni raine john travolta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06941_00042972634.wav|28|sampun jam sanga enjing tapi dereng sami wungu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_00190501339.wav|24|dwi sasongko ngadakna slametan pitung dinane maratuwane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_00162112711.wav|4|produke wismilak group saiki wis rodok ora payu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_00600226532.wav|10|mangan sega karo iwak sing diuleni ning hoka hoka bento
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_01969098850.wav|20|bengkulu wonten ing pulau
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06941_00098198632.wav|28|dwi andika niku sinten nggih
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_01253483356.wav|12|bruce jenner saiki wis duduk wong lanang maneh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_01732078447.wav|12|rel ingkang anjlok menika ten cawang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_01823393094.wav|6|napa stabilo niki angsal kula beta mantuk
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04982_00533585145.wav|17|napa njenengan badhe nedhi diskon dhateng penerbit harper collins
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06383_01224393618.wav|25|salim group badhe ngedalaken roket luar angkasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_00653871113.wav|15|lipene the face shop nyolok nyolok kabeh wernane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_01516622801.wav|20|taylor swift nyabrang dalan gak atek noleh kiwa tengen
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_01102627216.wav|12|james bay igit igiten ndelok pemerintah sing gak becus ngurusi negara
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_00471392234.wav|10|panganan thailand iku akeh saka iwak laut lan nganggo santen
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_00604475585.wav|36|pengabdiane tukang pos saka pos indonesia
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_00166353431.wav|20|daddy yankee nggodhok banyu gawe ngombe wong sak omah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_01519_01498803105.wav|1|shania twain dikongkon ibune ngenget jangan terong ambek kacang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_01631809369.wav|20|mathias muchus meneng ae pas krungu bojone nyeleweng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_02008426699.wav|11|om kula ijab ngepasi yuswa selangkung dinten punika
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_00167382592.wav|18|kula remen tindakan dhateng pontianak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_00006754463.wav|10|saykoji lungguh nang kursi banjur gak isa ngadeg
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_00476422743.wav|11|hawane panas ya nek dina jumat
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00264_02077563435.wav|5|amir khan mendhetaken tiyang sepahe sak pasang ageman pethak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04588_01344444248.wav|14|kevin aprilio mesti manut apa jare bapa biyunge
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_00035295314.wav|9|zac efron pengen mbaleni maneh ambek mbak siti
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_00480003500.wav|15|njajan ning aladin kebab kok ora luwe meneh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_01685493981.wav|30|potonganmu tambah mbois pas nggawe sepatu reebok iku
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_01389205723.wav|6|zac efron pengin mbaleni meneh ambek mbak siti
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06383_01981524093.wav|25|tiwas aku ngenteni michael fassbender malah dheke gak sida mampir
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06080_00192199504.wav|23|ngojek ngantos kampung tengah radi kesel
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_02059_00004647767.wav|3|njajal mlaku ngliwati wit ringin pas dolan ning alun alun kidul jogja
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_08178_01602588602.wav|34|anakku mangkat ngaji diniyah jam setengah papat sore bar asar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_00090231327.wav|26|apa tahu sumedang kuwi pancen seka sumedang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_01650023912.wav|31|century lagi keentekan sabun gudik
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_00826204410.wav|8|taksiku saiki wis rada langka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05667_00245285880.wav|21|aku ya nggrentes atine yen eling kedadean taun sewu sangang atus sangang puluh wolu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_01831819906.wav|9|hadi angon wedhus ben sore sak durunge budhal ngaji nang langgar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_09039_00930641052.wav|37|kantorku sebrang sebrangan ambek kantore oracle
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_01971617761.wav|18|wingi ditraktir mangan enak neng beautika masakan khas manado
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_01582927514.wav|13|anto hoed sinau musik suwe sampe akhire isok dadi pemusik
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05522_01021353353.wav|19|majalah martha stewart living indonesia sampun bangkrut tigang tahun kepengker
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_01707459634.wav|22|mbok menawi wonten pendaftar ingkang kaping sewidak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_02028617055.wav|32|oscar lawalata nangis gero gero amarga ditinggal mboke minggat
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_00416422256.wav|36|tanggal kedaluarsane produk sari roti mung sedina
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06941_00840772913.wav|28|lha mbok piknik ki sing adoh sisan menyang the zocalo meksiko
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_00906271099.wav|22|satpam bunga rampai ageng dhuwur gagah pikantuk tiyang pundi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_01074713999.wav|20|sapa dene sing sudi nyumbang gawe wong gak nggenah koyok suzy
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_00088780839.wav|9|bir merek bintang sampun dikirim ngantos kansas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_00287990028.wav|10|jaket kuning mencorong gaweane peter says denim
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_01392157855.wav|6|kasir indomart sami ngagem jilbab
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_01855382390.wav|13|primus yustisio tumut rombonganipun presiden
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_02037630213.wav|8|wis tau ndelok solok
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_00357514198.wav|9|kebon stroberi ning gifu uwohe akeh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_00020654293.wav|13|aku seneng karo kualitas sepatu gaweane adorable project
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_00622656540.wav|15|arek lanang sing kuru iku jenenge stefan william
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_02059_00799374247.wav|3|ana kaca sing ditutupi mori ning keraton ngayogyakarta hadiningrat
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_00602890404.wav|11|piyik sing kaping wolu pas lair wernane kuning
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_01914197895.wav|26|snapchat niku radi angel gegaweane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_01996323753.wav|15|pussycat dolls iki lagune apik apik lho jajal rungokna ta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_00676394177.wav|12|penerbanganipun pinkan mambo mangke jam satunggal enjing
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05667_00916657366.wav|21|undip ingkang nginggil menika ten dhaerah tembalang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_01208433889.wav|8|nggo foto foto pase ning candi gedong songo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00264_01673581363.wav|5|antri bensin nganti setengah jam durung dilayani
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_02059_01060216059.wav|3|machu picchu ki sakjane isine mung watu sing bentuke ora nggenah tapi ketok apik
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_01551347259.wav|10|wulan guritno niki bangkekanipun nawon kemit
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06941_02035965206.wav|28|dapur kuring badhe pindah ten wingking mesjid
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_09724_01401860993.wav|38|kaosmu tulisane kok saru ora kaya produksine joger bali
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06080_00406999774.wav|23|sasi ngarep jatahe tuku benges revlon maneh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_01593270377.wav|9|napa njenengan badhe nedhi diskon dhateng penerbit harper collins
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_00956072025.wav|32|ombak ning pinggir segara cedhak kepulauan midway kae sih
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_01646905706.wav|35|michael buble olehipun nedha sekul wutah sedaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_00964481779.wav|15|sanjange calvin klein kula mboten pareng medal kalih sinten sinten
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_01947271584.wav|6|ora biyasa mbolang nganggo baraya travel we
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05667_00772712733.wav|21|oseng oseng mercon ingkang kula cobi ten kedai kita
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_00377963823.wav|13|bali saka kepulauan seribu raine geseng amarga panas banget
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_01353152962.wav|22|ndamel kristik setunggal kotakan kinten kinten maem wekdal kalih dasa menit
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_00522896150.wav|6|tyra banks dereng mlebet maleh sakjoke angsal kasus korupsi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_00282479978.wav|31|pak lurah biasane mlayu mlayu dina kemis isuk
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_00225409782.wav|20|persada saiki wis mbukak akeh cabang usaha sak liyane bis karo travel
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05522_01756178515.wav|19|memes igit igiten ndeleng anak anake sing padha tukaran
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04588_00122324196.wav|14|kim kardashian blanja glepung dienggo gawe donat kasenangane dewi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_01284644126.wav|4|lengene denzel washington diencloki manuk perkutut
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05667_01642106537.wav|21|kapan pixar bakal ngetokna filem anyar maneh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06941_00765938409.wav|28|blonjo sandhang nggo bada ning pasar tanah abang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_00227005242.wav|6|waldjinah niki sampun malang melintang dados sindhen jawi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_01768118655.wav|18|ngandhapan ingkang werni jambon niku produksi screamous
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_00576782682.wav|32|napa taksih angsal solat subuh menawi sampun jam gangsal seprapat enjing
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07335_02051451027.wav|29|biyungku mari kecolongan laptop asus nang njero bis
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04715_00399439509.wav|16|abahku seneng banget ngerungokna suarane vidi aldiano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04588_00828622866.wav|14|mbak infra budhal kunjungan marang stirling kapan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04715_01566496587.wav|16|paphos ki sebelah ngendi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_01392_01311933651.wav|0|kecamatanipun menawi mboten lepat cijantung
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_00774511038.wav|9|tarife daytrans paling larang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_01790714490.wav|10|nabunga gawe jaga jaga pink floyd mampir konser mrene
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_01926500971.wav|24|upacara gendera arep dimulai jam wolu isuk
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04982_01691371286.wav|17|wit witan ing gunung gedhe pangrango padha garing amarga ora ndang udan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_00492412609.wav|9|wong wedok filipina ayu ayu tur langsing
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07335_00087332492.wav|29|sak menika mang kabayan sampun dados warung ingkang sukses
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_01228268542.wav|6|mboten saged nyare sakdawanipun taun kalih ewu kalih amargi tentara tembak tembakan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_01606802010.wav|18|dedy corbuzier iki sayang temenan ambek anak mantune
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_00429215193.wav|12|tangane bryan adams sing kiwa mari kelindes truk
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_00551055720.wav|32|zahara jolie pitt kepegelen playon pas istirahat sekolah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_01522015300.wav|35|olehku ngenteni iwan fals ngetokna album anyar isa sak uwen uwen
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_01446634386.wav|31|machu picchu ki sakjane isine mung watu sing bentuke ora nggenah tapi ketok apik
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_09724_00453979532.wav|38|mobile cititrans kaya roti tawar bentukane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07335_00213117424.wav|29|ingkang sadeyan elektronik menika ten dhaerah batu ampar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_01044796610.wav|6|mengko ditemoni omku ning stasiun sawah besar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_02104965706.wav|36|dolanan apa nok ning tanjung benoa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_00203014825.wav|10|david copperfield lenggah sila nalika didhawuhi marasepahe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_01411400665.wav|10|gisel mliriki anake sing gak isa meneng tingkahe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_00393292900.wav|36|kowe pengen tak jajake apa ning bandara djakarta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_00035830986.wav|11|raimu resik ya sakwise perawatan ning natasha skin care
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_01695728953.wav|32|badak sing culane siji kae dilestariake ning taman nasional ujung kulon
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_00333721824.wav|22|radiohead iki band senengane arek arek karang taruna
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_00147051286.wav|13|meta bungahe sanget amargi angsal biji sangang puluh kagem ulangan fisika
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_01356921041.wav|4|egi john ngurusi perkarane wong sayuta umat
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04588_00224835739.wav|14|aktingipun cornelia agatha saged dipunpirsani ing panggung sandiwara
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07335_01654392527.wav|29|ya pancen watune kuning kuning sing ning taman nasional yellowstone
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06080_01709228369.wav|23|sam tsui gak onok lerene nggawe video sing lucu lucu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_00632998861.wav|11|mangkata menyang ciawi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_09039_00410358158.wav|37|lin dan sampek saiki ijik durung isok dikalahna ambek sapa sapa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_00619110484.wav|8|andi asril rahman iki dirubung ibu ibu sing arep lunga blanja
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_01345623716.wav|26|warga desa badhe ngawontenaken musyawarah tanggal nembelas minggu ngajeng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_00831736112.wav|22|david naif kepleset kulit gedhang sing diguwak karo anake dhewe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_02091636533.wav|12|maem nyamikan arumanis ten dapur coklat
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_00798207322.wav|18|ira wibawa mbikak usaha salon ing dalan majapahit
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_00346492349.wav|8|keju ingkang asin menika saking belgia
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_01006528426.wav|9|yen arep ketemu ronaldo dheweke isih kunjungan ning biak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_02884_01615291651.wav|7|pertanyaan ingkang kaping selangkung miturut panjenengan pripun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_00484400591.wav|20|aku wis mlebu metu rumah sakit ping wolulas amarga diare
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07335_01184363659.wav|29|tanggal kedaluarsane produk sari roti mung sedina
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04982_01626515448.wav|17|kulite ireng kaya wong angola
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08002_01238575289.wav|33|kon tukuo laptop dell ben padha koyok nggonanku
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_01397278587.wav|20|karawang menika perbatasan tengah kalih kilen
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_00772822102.wav|9|roten menika ingkang paling ngandhap nggih
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00264_01697382083.wav|5|bebeke digoreng aja luwih saka patang menit
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_00795235000.wav|15|dalan menyang lembang isih didandani
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_08178_01042880835.wav|34|megan fox mboten ngertos ukara niku napa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_00855073765.wav|18|piripun menawi motor maburipun didamel ten pidie
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_02070322444.wav|15|krungu krungu playboy wis leren jadi majalahe wong gerang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00264_01713676506.wav|5|pimpinan grafindo media pratama tilar donya enjing wau
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_08178_00374528155.wav|34|mlaku mlaku ning trotoar kutha cardiff karo mangan es mambo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_09724_00440141921.wav|38|randy pangalila ngenteni pengumuman saka kedutaan suwe banget
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_01418584509.wav|8|christina aguilera nyekeli rok cekake sing keterak angin nggebes
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_01747210574.wav|31|tinder niki nggadhahe tiyang amerika serikat
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06383_02036525945.wav|25|nganu bulik blanja neng pasar pik place oleh gawanane akeh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_01898538801.wav|22|lee chong wei tambah nggimblah awake sakjoke kerja nang google
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04982_01152725295.wav|17|mau mampir menyang butike qonita bathik
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04715_01058520092.wav|16|zumi zola gelem sekolah amarga pengin bandulan ning sekolahan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00264_00075808963.wav|5|bir merek bintang sampun dikirim ngantos kansas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_01360669020.wav|10|sarkem kuwi posisine ning sebelah stasiun tugu metu sithik
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_00175064831.wav|11|pierre coffin ngunu jek onok turunan getih priyayi semarang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_01932_01200407404.wav|2|sido muncul kuwi sing logone ulek ulek watu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_01233662734.wav|6|mangan panganan thailand ning pasific place jakarta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05522_01030048292.wav|19|apa kuwat mlaku ndaki gunung merbabu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_00380738458.wav|30|kula mboten nate mireng sing namine delta air lines
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_01395949423.wav|20|ayaminipun wendys mboten alot blas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_00553727378.wav|12|emma watson dadi modele omah mode burberry
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_00544007494.wav|8|emma watson aras arasen sinau merga wis kepegelen nang sekolahan mau
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_02010297785.wav|18|jessica simpson bar dikaploki bojone saktekane saka ngombe ngombe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_01661727188.wav|18|sinarmas land arep direbut negara liya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_01967992683.wav|22|bir merek bintang sampun dikirim ngantos kansas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04715_00409646502.wav|16|nek gudang garam kuwi ning kutha ngendi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_00040182996.wav|35|restoranipun sampun bikak ten lima
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_02012096637.wav|4|paphos ki sebelah endi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_01630331670.wav|20|adjie pangestu mangan gethuk tiwul karo putu ayu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04982_00745652403.wav|17|raimu resik ya sakwise perawatan ning natasha skin care
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_00558694813.wav|4|lho kangmas jarene wis ning ngarep gerbang bandhara londo heathrow
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_00111025543.wav|32|budhe manasik hajine ning cedhak bandhara adi sumarmo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05522_00959390608.wav|19|pejabat wells gagah lan ayu ayu ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_09039_01343302841.wav|37|jake gyllenhaal ngentosi sedherekipun dugi saking kutha malang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_01466103895.wav|22|klambine shareena rizky dikrikiti tikus nganti bolong gedhe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_01697136299.wav|22|ndang diasahi piringe wong ora ana telung menit
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_00112779688.wav|10|jessica biel mantun ndherekaken tiyang sepahe mangkat kaji
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_02884_01956678973.wav|7|brussel menika dipun cathet dening pemerintah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_00645156550.wav|6|kantore motorola ana ing amerika serikat
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_01979716161.wav|30|arep mangan mi thok ndadak ning grand indonesia
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_00012146937.wav|8|jare korban kecelakaan ditanggung jasa marga
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_00347781974.wav|9|menawi badhe tindak oregon ampun kesupen mbekta panci alumunium
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06383_01538451148.wav|25|warga desa arep nganakake musyawarah tanggal nembelas minggu ngarep
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_01140622006.wav|11|avenged sevenfold gak tau tukaran karo manajere rukun terus uripe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_01383292961.wav|15|pegunungan ten arizona sampun gundhul
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_00654298947.wav|22|kabeh wong padha nyalahna anang hermansyah nek wis ngene iki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_00634491191.wav|26|tilem nembe wolung menit sampun digugah malih
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_01798557620.wav|6|tumbas saking ebay sakniki sampun dados gaya uripe tiyang tiyang kutha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00658_00066791852.wav|27|deep purple iki areke gak grapyak blas nang fans
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_00816084401.wav|10|saiki dinese ning jayapura
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07335_02028344802.wav|29|kon wis tuku omah sing regane sakmiliar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_01702585624.wav|9|sandhal jepit ocean pacific nek digawe gak nggarai kepleset
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_09724_01390379119.wav|38|tiyang mriki kathah kang mboten semerap naver niku napa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05522_01111282626.wav|19|rosa saiki tiru tiru usaha diva karaoke
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_01185345476.wav|4|ekonominipun tajikistan sak menika taksih morat marit
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08002_00650886550.wav|33|pas rejeb akeh wong panen bayem lan sawi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_00475523260.wav|8|montor daihatsu sampeyan kok mboten ketingal blas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_01631822468.wav|30|sandy tumiwa tanglet badhe tindak wayah napa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_01460432731.wav|35|panjenengan niki saestu ngidolaaken madonna
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00264_01813806594.wav|5|kereta listrikipun rusak sak menika ing stasiun tanjung barat
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_00804031351.wav|13|nitih taksi sampun kalih welas menit argonipun kok mboten mangklih
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_01775955125.wav|12|david bowie tasih ngadhah kathah panjulukan dhateng mungsuhe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_09724_01986081165.wav|38|soekarno tau diasingake ning pulau buru
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_00386839420.wav|10|rikmanipun arumi bachsin tasih cemeng amargi arumi dereng tuwa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04982_00861488881.wav|17|gadis ingkang tasih njoged wonten ngajeng punika asli oklahoma
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_09039_00491698175.wav|37|kula mboten cocok anggonipun ndamel sabun himalaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00658_01019451365.wav|27|wong wedok ning singkawang ora oleh nglairake bayi lanang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_01331987901.wav|20|sia isih durung wani macak nang ngarep wong akeh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_00218609647.wav|15|dhuwit limang yuta mau mbok dhekek neng ndi nduk
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_08178_00387812886.wav|34|justin timberlake ngarit neng sawah isuk awan sore bengi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_01004212461.wav|8|harry styles diarani bocah nakal merga senengane ngombe ngombe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06383_00107958170.wav|25|juni mangke artanipun telas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_01392_00905442965.wav|0|bonsainipun bapak dipundhut tiyang oslo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_01158399311.wav|13|clarks iki pabrik sepatu teka inggris
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_08178_01339825380.wav|34|buku sing tak waca mbahas sejarah tanzania
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_00151945553.wav|20|bubulak badhe ngawontenaken pilkada
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_01519_00154386262.wav|1|jeneng tessy iku asline jenenge anak mbarepe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_09724_02078011304.wav|38|adhiku sing lanang laire tahun rong ewu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_00260247115.wav|20|sampeyan mboten usah ngraguaken kemampuanipun daniel beddingfield
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_01690165910.wav|6|bule bule seka newcastle wis teka mau bengi numpak kereta seka jakarta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_01253787873.wav|36|dadi hijup kuwi muat sak kabehe merek jilbab
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_00580197298.wav|24|kancaku kabeh nang kelas podo duwe tas louis vuitton siji siji
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00264_00203474119.wav|5|lee min ho saiki kerjane ngombe kopi luwak ae awan isuk sore
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_00064795774.wav|11|kula ngunjungi grasindo kangge studhi bandhing
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_01869235727.wav|15|sapa sing gak kenal rhoma irama ya rugi dhewe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_01541821342.wav|10|aku emoh ya nek dikongkon mbayar seket miliar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_08178_00436802155.wav|34|pesawate ora isoh landing ning bandhara sydney amarga badai
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04982_00617315899.wav|17|warga desa arep nganakake musyawarah tanggal nembelas minggu ngarep
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00658_01804083032.wav|27|alhamdulillah aku ditampa karo tempo scan pasific
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_00116011164.wav|13|konglomerat sugih kae nyumbang dhuwit kanggo ngrawat taman nasional gunung leuser
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_01117802028.wav|6|celine dion dipunwaduli perkara kedurjanan kaliyan simboke
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_00391089104.wav|8|sekedhap malih dumugi plumbon pak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_01493404265.wav|13|nikita mirzani gawe rok cekak sakdhukure dengkul
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_00018212776.wav|30|gerejane ana ning sak lore taman nasional fiordland
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04982_02103975293.wav|17|didi riyadi mular amargi mboten dipundhutake oto otoan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_01644214187.wav|13|karnos filem kuwi apa nggone keluargane rano karno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_00875532989.wav|32|emma roberts njaitna klambi apik gawe buwuh nang rabine kancane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04982_00563891546.wav|17|savage garden mari mecahna rekor manggung telung wulan non stop
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_09724_01980586437.wav|38|tuku sepatu lokal lan awet ya ning pasar cibaduyut
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_01229995527.wav|4|ana acara mlayu mlayu sehat ing awal taun rong ewu nembelas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_09724_00778306017.wav|38|misananku arep daftar dadi pramugarine korean air
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_08178_01395761971.wav|34|ana bis shuttle seka bandhara menyang pusat kuthane kok
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_00207693290.wav|24|nggih mall ingkang wonten ten karawaci namung niku
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_02029574187.wav|26|munggah jembatan trus nyabrang ning ngarep plaza semanggi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05667_01195653054.wav|21|apa tahu sumedang kuwi pancen seka sumedang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_01214090224.wav|24|prasetyo niku namine yuga kula ingkang nomer setunggal
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_09724_00585641756.wav|38|jan janipun pripun ta ritual ingkang kaping pitu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00658_00172807963.wav|27|pengenipun nenggak es jeruk jam setengah setunggal siang wau
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_00791356548.wav|22|teddy syah niku idepe tumenga ing tawang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04982_00597929486.wav|17|kate winslet ketampa dadi salah sijine pemain filem titanic
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05522_00146829311.wav|19|ayu ting ting emoh dirabi wong india merga anake sik cilik cilik
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_00022629053.wav|12|summarecon agung ngakehi supermarket ning kutha gedhe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_01230487325.wav|9|senajan indra lesmana lara untu dheke tetep mangan sing adhem adhem
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_02145627168.wav|18|apa ning bandhara sultan hassanudin ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_01126993968.wav|31|taun rong ewu kuwi dikeki jeneng taun millenium
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_00213277862.wav|10|berase arep dikirim menyang york nganggo pesawat kargo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_01195754595.wav|36|sinten kang mboten nate mirengake tembang tembangipun arkarna
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00264_01420536236.wav|5|jambu kluthuk punika asalipun saking missouri
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_02057912300.wav|6|uruguay saljune gedhe tur kemlethak ning sirah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_01301492677.wav|11|pustaka jaya ndamel pabrik enggal
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_01392_00276577577.wav|0|adhiku sektas nemu dhuwit swidak loro dolar pas dolan ning pinggir dalan ngarep omah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05522_01908812530.wav|19|taman nasional kerinci diresmiake dening presiden sewelas taun kapungkur
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06080_00777010500.wav|23|kroasia ditembaki helikopter saking sanesipun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_01024171074.wav|26|jodie foster pancet ngeyel nek dudu dheke sing nyolong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07335_00612347553.wav|29|yen mulih nyambut gawe liwate njero plaza senayan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05667_01354562095.wav|21|taun kalih ewu wolu punika sesarengan kalih kedadosan bom bali tiga
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_00051867104.wav|30|iki kenalna uut permatasari sing pegaweyane ngecor nang endi endi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_01435419913.wav|11|kancaku ana sing kerja nang prudential lan sukses tenan karire
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_00126175657.wav|32|aku kok mesakna karo marvin gaye merga jenenge disalahgunakna
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_01473184079.wav|20|pulau samosir ana ing tengahe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_01990322940.wav|36|ana tempat maem jenenge sate babi bawah pohon ning nusa dua
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07335_01846095766.wav|29|zhang ziyi ngecat omahe ambek cat abang mbranang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_01016624583.wav|11|kula sampun dangu mboten angsal biji setunggal atus
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_01303624383.wav|35|kepingin ndelok sunrise ning bukit barisan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_01071241527.wav|22|alessandra ambrossio wegah diceluk wong gemblung ambek ibune
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_02008436102.wav|10|jam setengah setunggal enjing wau kula ngimpi nyemplung got
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_00658861256.wav|32|smartfren sing kae wis didol
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_01507815850.wav|18|printer epsonku tintane wis arepe entek sawangane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_01210596635.wav|35|dhekne emoh nek mek dikeki dhuwit sepuluh ewu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_00385817686.wav|18|tempat piknik wonten bali inggih punika
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_09724_01007668411.wav|38|saiki diangkat dadi kepala kantor pajak ning wilayah boven digul
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_01282902330.wav|8|maikel bubei olehipun nedha sekul wutah sedaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_01392_00413717561.wav|0|salah siji buyute tjokroaminoto ya maia estianti iku
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_00302431043.wav|13|kim jong un gak tau main main nek ngewenehi sanksi gawe rakyate
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_00708551152.wav|22|jare wong wong new delhi kuwi panas lan gersang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_01431944827.wav|30|roger danuarta lagi sepisan iki kenek kasus narkoba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_09724_02059149582.wav|38|sinten sing nate nitih lufthansa saking jakarta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_09039_01587079355.wav|37|sing putih ana barete biru oranye kae nggon rosalia indah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08002_01904691861.wav|33|aku tuku rok dawa neng lazada kok cingkrang pas dijajal
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_00394587159.wav|10|bar ngepeki sayuran banjur ditawakake ning bandungan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_02884_01109148487.wav|7|mister burger timbang liyane daginge paling kandel
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_02024055327.wav|30|kepengin ngajak bapak ibu tindak mekkah kangge ziarah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_00567079489.wav|30|kimberly rider didhawuhi kalih tiyang sepahe supaya mboten nedhi napa napa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_01757189542.wav|9|uruguay saljune gedhe tur kemlethak ning sirah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_01963631352.wav|11|pelayan ten es krim ragusa sampun ngabdi pinten pinten taun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00264_02127066924.wav|5|orang tua ngetokake bir modhel luar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_00066274490.wav|35|menawi mboten kesupen mangke kulo cathet ing pembukuan taun kalih ewu sewelas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_00183187280.wav|26|sing werna putih kae nggon express group
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_00401574288.wav|9|pira rega tiket asiana airlines tujuan korea
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_01832913624.wav|8|samuel zylgwyn bar ditinggal pacare minggat numpak bis menyang solo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_01245071750.wav|30|oseng oseng mercon ingkang kula cobi ten kedai kita
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_01483117669.wav|6|isih ana wabah ning asahikawa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_00839721365.wav|13|anak lanange raffi ahmad dijenengna rafattar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06383_00190755614.wav|25|apa kapale wis labuh ning pelabuhan tanjung priuk
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_01394230317.wav|20|ora usah adoh adoh tekan ndi ndi wong ana gurun ning gumuk pasir parangkusumo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_00778226669.wav|12|ngubungi call center pahala kencana kok ora nyambung
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_01082166114.wav|8|imlek koyok iki akeh sing ngglethakke sesembahan ning vihara watugong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04588_01423870065.wav|14|syahrini mangan sega sambel ambek jangan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08002_01222405316.wav|33|nembe kemawon kula entas wolulas menit wau tapi dereng adhem bakwanipun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00658_01263721952.wav|27|tivinipun mboten murup murup sampun selangkung menit kula panjer
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_02033570486.wav|9|mau ndelok optik tunggal kebek
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_09039_00930691578.wav|37|nitih taksi sampun kalih welas menit argonipun kok mboten mangklih
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_00434555875.wav|31|menawi awis enno lerian mboten purun mendhet lombok abrit
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_01089847437.wav|15|richard harris nyeluk anak anake supaya padha teka kabeh nang omahe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_00114685456.wav|32|cocoke karo kaca mata ning optik seis
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06080_01204241607.wav|23|saiki teluk cendrawasih wis resik saka sampah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_00454350847.wav|12|jan jane priye ta ritual sing kaping pitu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00658_01357530687.wav|27|bobotipun ani mindhak sekawan dasa kilo gram amargi nedha mboten enten lerene
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04588_00298618083.wav|14|sinten gubernur palu taun kalih ewu pitu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_00563034341.wav|30|kula nelpon rama ndamel aplikasi kakao talk
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_02072624508.wav|4|tandurane maneka werna ning taman nasional iguazu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_00241186060.wav|30|rina mari mborong kathok sak arat arat teka pull and bear
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_01980401238.wav|13|kula mboten purun tumbas kasetipun andien
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04715_00464264314.wav|16|slimutan karo turu ing njero bis bandung express
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_01147483028.wav|22|ana uler gatel pas mlaku mlaku ing kebun raya bogor
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_00638697576.wav|36|jackie chan mari tukaran ambek baya lan iwak sura neng jembatan merah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_00203042651.wav|15|olehku namatna bertrand antolin kok ya ra pati cetha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_09724_01376736927.wav|38|mundhut duren kalih enceh ten pasar induk kramat jati
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_00655652416.wav|10|alase ponorogo digundhuli karo calo calo kayu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_01156408324.wav|18|mangan burger blenger siji wae wis nganti suduken
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07335_00222520951.wav|29|molly senengane tuku sepatu keds
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_01766847857.wav|13|david guetta nyiptana lagu iku digawe anake sing mati kenek demam berdarah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04588_01415122291.wav|14|brooklyn beckham iki anake pemain bal balan ambek penyanyi kondhang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_01115072919.wav|24|salim group badhe ngedalaken roket luar angkasa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_02128944224.wav|32|apple martin nangis gero gero pas ditinggal bapak ibuke mangkat kerja
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08002_00017212403.wav|33|sabun pasuryan sebamed sampun terkenal dhateng pundi pundi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_01922340682.wav|18|modhele swatch lucu lucu soale ancen ditujukna gawe arek arek enom
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_01309910081.wav|12|sampean arep nyilih dhuwit nang nggonane ruben onsu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_09724_00883646332.wav|38|mireng mireng jisimipun lady di mboten disalataken dhateng mesjid
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_01738438980.wav|18|numpak speed boat pas piknik ning pangandaran
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_01632342034.wav|13|minggu wingi taksiku mbukak lowongan supir anyar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_00229201187.wav|35|ojok sakkarepe dhewe iku suwidak triliun dhuwite mbahmu ngonoa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_01880553738.wav|8|aku kok mesakna karo marvin gaye merga jenenge disalahgunakna
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_01817007685.wav|18|sundari soekotjo badhe nitih pesawat lion air mangke jam tiga sore
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_00861671745.wav|31|nick jonas remen nedha sekul kaliyan jangan lodeh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_08178_01934699698.wav|34|ya rada kemproh si ning kamboja kui
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_00331574652.wav|15|mundhut tales ten bogor
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_00996663985.wav|24|rotine dioven kanti mateng kurang luwih nembelas menit
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_00106945935.wav|4|kerajaan ning ternate mbiyen diuri uri amarga rajane sing andhap asor
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_00088135600.wav|22|penerbangan seka birmingham ditunda telung jam amarga udan gedhe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_01307970769.wav|24|tsunaminipun ngantos darwin ingkang bagian ler
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08736_01722653838.wav|36|kartu debitku onok logone visa lan mastercard
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_01260929711.wav|12|njenengan niku mbok ya penggaweyane aja maos novelipun harlequin mawon
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_00988832379.wav|35|justin timberlake ngarit nang sawah esuk awan sore bengi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_02041387723.wav|26|rafael nadal kalah maneh nang grand slam wimbledon taun iki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07335_01177873256.wav|29|enak ya wis tekan slovakia barang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_09724_01193146049.wav|38|tales bogor diolah dados jajanan ingkang disade lapis bogor sangkuriang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_09724_01456704844.wav|38|sepatu charles lan keith regane gak larang larang nemen kok
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_00028326842.wav|18|kim kardashian blanja glepung dienggo gawe donat kesenangane dewi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_00348208043.wav|4|sepatu kulitmu kuwi mereke zapato shoes dudu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_01414756032.wav|10|kabehe ana telung ewu wong sing mati gara gara pepranganan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06941_01447307690.wav|28|ora usah adoh adoh tekan ndi ndi wong ana gurun ning gumuk pasir parangkusumo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_01105783699.wav|4|yogyakarta menika pikantuk asma kota pelajar amargi kathah sekolah kaliyan universitas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_01519_01801231272.wav|1|sampun mboten usah nggumun kalih yuswanipun ratu elizabeth loro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_00816921332.wav|11|rencang kula ingkang ngagem ageman abrit niku wayah nomer tiga
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_01447587692.wav|12|oktober mangke badhe ndamel lomba balap sepedha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_00462010918.wav|30|golekna tiket paling murah air france dina iki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_00104377884.wav|20|kula remen tindakan dhateng pontianak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_01851450547.wav|32|kertas buku ingkang didalaken diva press ketingal burem
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_00169990727.wav|12|watune dipaketake menyang batanghari
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07335_01583116237.wav|29|oktober mangke badhe ndamel lomba balap sepeda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_00864097115.wav|30|pingine nenggak es jeruk jam setengah siji awan mau
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06080_00568093608.wav|23|jodie foster pancet ngeyel nek duduk dheke sing nyolong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_00391279966.wav|8|sak stasiun meneh wis ketara stasiun jayakarta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_00159780453.wav|9|kaya syahrini ya foto foto sing backgrounde menara eiffel
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04715_00730556558.wav|16|pekanbaru sampun peteng ndhedhet kados ndalu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_01527375117.wav|26|badhe tindak dhateng octagon studion kapan kinten kinten
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00658_01455266406.wav|27|sekedhap malih mlebet sasi pasa kedah kathah ibadah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_02125017887.wav|31|aku wis pindah seka winchestes wulan wingi sak kluarga
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04715_00890945204.wav|16|racikanipun poppy bunga mucuk eri
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_00072847604.wav|32|mangke tumbas kain ihram ten madinah mawon
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_02884_01375352965.wav|7|kanye west bidal nyambut damel nitih sepeda montor nggene rencange
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04982_01913934631.wav|17|masakan ten kalkuta ndamel sakit
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05522_00835701766.wav|19|aku wis janjian karo will smith nang tunjungan plaza jam siji awan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_00301527647.wav|4|candi prambanan kuwi nduweni garis lurus menyang laut kidul
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06941_00810346891.wav|28|gisel mliriki anake sing gak isok meneng tingkahe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_02001456033.wav|4|kula awit ngartos nek etous les jours niki saking korea
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_01153419510.wav|4|bekasi dadi terkenal amarga akeh dibahas ning media sosial
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_01776667743.wav|15|perkara kaping telu disaranake adus banyu anget
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_00447782148.wav|18|senajan ora ana jadwal manggung bon jovi tangi esuk
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_00640936026.wav|6|jan tenan antrine ora lumrah nggawe mbedhegel ning pelabuhan merak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_01336296213.wav|32|air supply diundang mentas nang pensi sekolahanku
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_01938363614.wav|10|inul daratista senengane njoged njoged gak karu karuan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00658_01311843838.wav|27|kapan pixar bakal ngetokna filem anyar maneh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_01905787138.wav|10|sadaya penduduk ndonya mboten nampi prilakunipun tiyang tiyang israel
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_09039_00142948332.wav|37|jare perdana mentri tunisia ki karepe apa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04588_01127483226.wav|14|printer epsonku tintane wis arepe entek sawangane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_01872761880.wav|31|kaping gangsal nindaaken haji
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_00337775781.wav|32|ngrungokna suarane maudy ayunda iki gawe ati tentrem ayem
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_01392_02105894329.wav|0|titi kamal nyilakani yugane piyambak ing ndalan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_01692097276.wav|26|dita bar tuku klambi njoboan nang bershka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_00429108685.wav|4|upacara ngaben biasa akeh ning tabanan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_00802351703.wav|35|grace kelly ngedhunake barang barang gawanane saka dhuwur truk
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_01519_00219665883.wav|1|jare danau toba kuwi akeh lelembute
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00264_00802213580.wav|5|ndang diasahi piringe wong ora ana telung menit
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05522_01382329990.wav|19|paul mccartney niki saged nglakuaken rupa rupa praoto
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_01437089486.wav|35|aku njaluk tulung ning richard burton gawe nakokna barang ilang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_02884_01189484426.wav|7|ndelok annisa bahar njoged nggarai awak jantungen
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_01392_01966285680.wav|0|kula remen sanget kalih aktingipun hayden christensen
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05667_01451486168.wav|21|musike green day iki mbrebegi kuping ae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_00402822827.wav|20|ana sing anjlok ning stasiun bojonggede
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04715_01068992100.wav|16|truwelu tuku ning temanggung
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_01392_01330620068.wav|0|wulan mulud akeh sing mauludan ning musola lan mesjid kampung
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04982_01750125083.wav|17|kula kaliyan rencang rencang badhe ngetuti gayanipun the beatles
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_00936020039.wav|24|golekna tiket paling murah air france dina iki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05522_00280475118.wav|19|sing temen ae mosok aku diwarah mirip rianti cartwright
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_00695180768.wav|32|marcellino lefrandt angsal katenaran saking sinetron bidadari
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04175_02056860523.wav|12|ana semut sing wernane ijo pas mlaku mlaku ning sakdawane taman nasional lake district
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04982_01192379560.wav|17|pambarepipun kula sampun pikantuk padamelan ten siprus
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_00034224906.wav|35|kordoba menika mirip kalih pundi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_06383_00509462923.wav|25|sampeyan mboten usah ngraguaken kemampuanipun daniel beddingfield
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00658_00200383122.wav|27|daniel craig lara untu gara gara kakean mangan sing legi legi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_09724_00823081773.wav|38|pandu logistics nyediake jasa kurir
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_01730683508.wav|26|lha ramayana pusate ditelfon wae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05522_00887360143.wav|19|produke wismilak group saiki wis rada ora payu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_01519_01427086904.wav|1|adele kerep diarani bledhug anak gajah marang kanca kancane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_01805515755.wav|13|ayame ibu ngendhog wolu gedhe gedhe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04982_01842574849.wav|17|masayu anastasia njaluk pegat karo bojone padahal anake wis akeh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_01618121548.wav|10|tirose one direction badhe leren sekedhap mengke bakal nyambung malih
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05667_00036719378.wav|21|ya kira kira telung jam tekan cipanas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06941_01056611271.wav|28|meriam bellina nitih andhong ageng saking peken
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08002_01826791200.wav|33|rolling stone niku majalah kang isinipun musik musik saking luar negri
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_00707677936.wav|11|kepengin ngajak bapak ibu tindak mekkah kangge ziarah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00264_00412289197.wav|5|liam payne kuwi anake wong sugih nanging ora tau neko neko
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05667_01999045460.wav|21|kancaku pas semester siji backpackeran marang baluran
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_01212908304.wav|15|oktober mangke badhe ndamel lomba balap sepeda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_02047877112.wav|6|ine febriyanti sakmenika dereng nate mirsani pagelaran wayang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_01466722392.wav|26|bal balan wong wedok nyambut pitulasan dianaake walikota solo ning stadion manahan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_00043847166.wav|26|kuwi nexian asli apa palsu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_01519_01406767236.wav|1|memes igit igiten ndeleng anak anake sing padha tukaran
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_00614011035.wav|9|atiku sedih pas krungu kanca kerjaku arep pindhah menyang texas sakteruse
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_01041225081.wav|35|pungkasane line kula sampun kadaluwarsa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_01392_00137315243.wav|0|apa kuwat mlaku ndaki gunung merbabu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_01377521808.wav|35|eko ngentit dhuwite bapake sing disimpen neng ngisor kasur
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_09039_01308721624.wav|37|jennifer lopez sampun ngarep ngarep dhahar lupis mengke sonten
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_00937543387.wav|8|phi collins ngombe obat sakwise mangan tela karo pohung
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_00363121993.wav|6|tuku enceh papat kilo ning ngarep terminal
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_01502912721.wav|9|sinemart pictures jare wis meh gulung tikar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_03187_01569629865.wav|8|nembe kemawon kula entas wolu las menit wau tapi dereng adem bakwanipun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05522_01475642059.wav|19|kancaku iki kok ayune ngalah ngalahi ayu azhari
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04588_01034197070.wav|14|acarane hari panca kae mulai tayang jam sewelas bengi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_01615861767.wav|11|keju ingkang asin menika saking belgia
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06510_02032925964.wav|26|yoshinoya nyediakno masakan jepang semisale yakiniku lan teriyaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_06207_00843695386.wav|24|mboten kaparengan nindaaken kaji pas zulkaidah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08002_00713125908.wav|33|mlaku mlaku ning trotoar kutha cardiff karo mangan es mambo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_02127610938.wav|32|aku sungkan yen tuku apa apa ning blibli
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_00736329877.wav|10|rionaldo stockhorst ketok gantheng nek gawe celana levis
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_01229234714.wav|4|langgananku si sinar jaya awit pertama
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00658_01006336785.wav|27|ulama ingkang seda januari sinten
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07638_01452746302.wav|30|tulung enteni aku sepuluh menit meneh ning ngisor
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04982_00779706494.wav|17|jennifer lawrence ora munggah kelas semester wingi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_02326_01503297174.wav|4|kourtney kardashian bali menyang sidoarjo nitih sepeda montor
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_08305_01153773126.wav|35|buku buku kuna ana ing museum radya pustaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_02057955478.wav|6|najwa shihab dipun peksa ndamel ngunjuk kopi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_00500909706.wav|20|maradona sakmenika ngegolaken damel astane mboten sukune
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_02884_00796598073.wav|7|penelope cruz tasih nggadhah arta sekedhik ndamel mundhut griya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_01716925964.wav|9|wis tau ndelok solok
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_09724_01471596596.wav|38|pemandangan ning iceland apik tenan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05970_01488896310.wav|22|menawi badhe tindak oregon ampun kesupen mbekta panci alumunium
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_00580582069.wav|13|sampeyan arep budhal ing mojokerto dina setu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07875_00728696114.wav|32|dapur kuring badhe pindah ten wingking mesjid
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_05540_01876100965.wav|20|jorge lorenzon mboten pati remen kalih ingkang namine jaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_00027_00344070299.wav|6|mathias muchus meneng ae pas krungu bojone nyeleweng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_09039_01663352495.wav|37|mboten mantun mantun ten tehran
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04679_01100123482.wav|15|omku senengane koleksi onderdil yamaha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_07335_01983050936.wav|29|bapakku njaluk ditukokna jam merek guess
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_00264_01856084486.wav|5|ceko kuwi adoh saka awakmu urip ora
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03314_01896382091.wav|9|pangabdiane tukang pos saka pos indonesia
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03727_01019811155.wav|11|adly fairuz ngunjuk kopi damelane shireen
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_04285_01630540723.wav|13|kula bingah sanget saged nemu gudheg ten jaipur
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_07765_01041549972.wav|31|sekoteng singapur kuwi asline ya sekoteng sukabumi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_02884_00683267795.wav|7|andrew garfield ora gampang percaya karo omongane manajere
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_03424_01853465194.wav|10|warnane mobile taksi putra nyaru karo sing biru kae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvm_05219_02046471634.wav|18|kula remen mirengaken swaranipun donna harun ingkang ngobak toya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/jvf_04715_00588707376.wav|16|kula ngarep arep supaya rio haryanto dipun undang kaliyan tim mclaren

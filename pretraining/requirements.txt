@@ -1,0 +1,18 @@
+# Core
+torch>=2.1.0
+torchvision>=0.16.0
+torchaudio>=2.1.0  
+
+transformers>=4.38.0
+accelerate>=0.28.0
+
+pandas>=2.1.0
+PyYAML>=6.0
+
+wandb>=0.16.0
+optimum>=1.17.0
+
+tqdm>=4.66.0
+numpy>=1.26.0
+librosa>=0.10.0
+soundfile>=0.12.1

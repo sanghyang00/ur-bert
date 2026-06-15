@@ -1,0 +1,206 @@
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_03712_01963027574.wav|15|pirang pirang media mancanagara ngaliput kakhasan di tahiti dinten kemis kamari
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_02395_01310076694.wav|8|sok asa ngagebeg tur waas lamun ngadangu musibah di taman mini
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01596_01055786352.wav|4|ayeuna omset pirelli ningkat dugi ka sapuluh juta rupiah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_03694_01482588046.wav|14|sok asa ngagebeg tur waas lamun ngadangu musibah di museum prabu geusan ulun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04748_01415399081.wav|22|loba wartawan anu ngaguar lalampahan acha septriasa tisaprak dipasihan panghargaan ti presiden
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01552_01206529375.wav|3|loba rumaja ulin ka cikarang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01596_01739643877.wav|4|dina bulan rajab taun dua rebu opat belas seueur umat islam nu ngalakonan ibadah umroh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01552_01712839024.wav|3|saeunggeus ditewak oray tuluy dipaehan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_05507_00566552568.wav|25|loba wartawan anu ngaguar lalampahan pongki brata tisaprak dipasihan panghargaan ti presiden
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_04208_01756632143.wav|18|turis mancanagara keur ningali gerhana bulan poe kemis di hong kong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_05186_00605711433.wav|24|carita kahuruan anu lumangsung dinten kemis wengi di cirebon mall geus sumebar kamana mana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_05051_01335005383.wav|23|dina bulan rayagung taun dua rebu sapuluh seueur umat islam nu ngalakonan ibadah umroh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_09637_02029562208.wav|38|belang zebra bisa ngabingungkeun predator
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04190_00086123821.wav|17|sok asa ngagebeg tur waas lamun ngadangu musibah di kampung mahmud
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01552_00419200389.wav|3|rumaja ngarumpul di alabama
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_03712_02046750086.wav|15|kembang korejat tumuwuh di sapanjang sisi wahangan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_01359_00531775073.wav|2|duit pamanjer jang kredit mobil minimal kudu lima persen
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_04511_01233968653.wav|19|rumaja ngarumpul di hiroshima
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_05051_00552358069.wav|23|panongton ting haruleng ningali ha ji won keur nyanyi di tipi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01855_01345810594.wav|5|sok asa ngagebeg tur waas lamun ngadangu musibah di kampung mahmud
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_09637_01713726880.wav|38|kakuatan lini nu nepi opat belas skala rihter ngakibatkeun karuksakan pasilitas umum jeung karugian harta banda nepi ka hiji juta rupiah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_06003_02065404330.wav|28|seniman nuju ngalukis venis
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01038_01612032368.wav|0|batu bara jenis ieu loba kapanggih di australia
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_05051_01749497924.wav|23|loba wartawan anu ngaguar lalampahan andra manihot tisaprak dipasihan panghargaan ti presiden
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_06543_00733536986.wav|30|panonton ting haruleng ningali taylor lotner keur nyanyi di tipi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_00297_01983331707.wav|11|seueur nu milarian gambar tasikmalaya di internet
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_03712_01254070833.wav|15|perfektur ilahar kabagi kana dua wewengkon leuwih
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_01359_00901292727.wav|2|ayeuna omset saung puncak ciumbuleuit ningkat dugi ka hiji miliar rupiah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_05186_00579588363.wav|24|kompleks perumahan anu caket stasiun banjar agreng pisan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01855_01142939805.wav|5|sok asa ngagebeg tur waas lamun ngadangu musibah di pemalang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_02953_00408935859.wav|10|rumaja ngarumpul di nyukestel
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_07842_01174059093.wav|33|seniman nuju ngalukis mesir
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_08659_01785961715.wav|35|citakan ieu lumaku basa sunda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04646_01195609376.wav|21|loba rumaja ulin ka gunung gede pangrango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_03391_00891687359.wav|12|lordotik anu bengkok seutik masih kaasup normal
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_07842_00786283552.wav|33|pirang pirang media mancanagara ngaliput kakhasan di panama dinten jumaah kamari
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_05507_01823723804.wav|25|seniman nuju ngalukis nukestel
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_03712_01575104573.wav|15|sok asa ngagebeg tur waas lamun ngadangu musibah di kampus universitas indonesia
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_00600_01993851233.wav|27|merek gold star dipake keneh nepi ka ayeuna
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_00994_01596206706.wav|40|nembe terang ngeunaan bumi langit
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01899_00460319192.wav|6|carita kahuruan anu lumangsung dinten rebo wengi di margo city geus sumebar kamana mana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_02953_00508479822.wav|10|hawa di libanon tiris
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_00994_01817914649.wav|40|ayeuna omset sabda alam ningkat dugi ka hiji triliun rupiah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01855_01790605299.wav|5|ieu sarua jeung lisensi di wiki indonesia
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_09637_01481374804.wav|38|panonton ting haruleng ningali julia winter keur nyanyi di tipi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_05186_00100230744.wav|24|karesepna indung urang lauk jeung udang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_03712_01353726462.wav|15|loba rumaja ulin ka ambon
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_09243_01017530919.wav|37|carita kahuruan anu lumangsung dinten minggon wengi di kampung naga geus sumebar kamana mana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01596_00994297796.wav|4|jamaah ieu teh umurna geus saabad leuwih
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04646_01230901100.wav|21|pirang pirang media mancanagara ngaliput kakhasan di bremen dinten rebo kamari
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01596_00503789685.wav|4|ayeuna omset po ka tiam ningkat dugi ka sapuluh juta rupiah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_09243_00499754911.wav|37|ayeuna omset dapur cokelat ningkat dugi ka genep puluh triliun rupiah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_02953_02035191280.wav|10|panonton ting haruleng ningali misel babel keur nyanyi di tipi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04748_00822795295.wav|22|hawa di fukuoka tiris
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01855_00521587456.wav|5|ayeuna omset radio dahlia ningkat dugi ka lima juta rupiah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_06543_00086603924.wav|30|saur ge pamungkas kagiatan rebo nyunda mangrupikeun kagiatan anu ngariksa jeung ngamumule budaya sunda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01596_01741086802.wav|4|rumaja ngarumpul di guangzhou
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_08338_00453436707.wav|34|turis mancanagara keur ningali gerhana bulan poe jumaah di palencia
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_02395_01467731114.wav|8|seniman nuju ngalukis korea utara
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_05051_01699966831.wav|23|rumaja ngarumpul di jaipur
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_07842_01164812672.wav|33|sok asa ngagebeg tur waas lamun ngadangu musibah di tegal
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_00060_02122725612.wav|26|ayeuna omset kiky ningkat dugi ka lima juta rupiah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_01056_01949146659.wav|1|guru honorer anu tos ngabdi tujuh belas tahun ngadongkapan bapak walikota
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_04208_00698228148.wav|18|ayeuna curug neglasari tiasa dipilarian dina peta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_04208_00358432155.wav|18|sok asa ngagebeg tur waas lamun ngadangu musibah di boyolali
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_03650_01805191222.wav|13|kompleks perumahan anu caket saung angklung mang udjo agreng pisan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_02395_00855672072.wav|8|kade bisi aya cakcak bodas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_05507_01490993231.wav|25|ayeuna omset kasablangka ningkat dugi ka samiliar rupiah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_00600_01823876407.wav|27|dogdog digunakeun dina pintonan reog atawa ogeul
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_08338_00989263283.wav|34|ayeuna ancol tiasa dipilarian dina peta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_04208_00195014434.wav|18|dina bulan jumadil awal taun dua rebu opat belas seueur umat islam nu ngalakonan ibadah umroh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_07302_01456757003.wav|32|rumaja ngarumpul di stadion macarana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_03694_01613049886.wav|14|saur mandra kagiatan rebo nyunda mangrupikeun kagiatan anu ngariksa jeung ngamumule budaya sunda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_08703_00822581574.wav|36|seueur nu milarian gambar situ cangkuang di internet
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_06047_01563058122.wav|29|panonton ting haruleng ningali emma wetsen keur nyanyi di tipi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_05507_00255933142.wav|25|panonton ting haruleng ningali sun kang keur nyanyi di tipi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_00994_01346888929.wav|40|turis mancanagara keur ningali gerhana bulan poe salasa di lankester
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_08703_01939373738.wav|36|dina bulan reuwah taun dua rebu seueur umat islam nu ngalakonan ibadah umrah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_01056_00166379987.wav|1|kakuatan lini nu nepi tujuh belas skala rihter ngakibatkeun karuksakan pasilitas umum jeung karugian harta banda nepi ka sapuluh juta rupiah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_05051_00859309480.wav|23|seueur nu milarian gambar aceh di internet
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_00994_01539142306.wav|40|ayeuna gedung merdeka tiasa dipilarian dina peta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01596_00171150717.wav|4|lukman hakim hoyong apal yunan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04646_01983142014.wav|21|sok asa ngagebeg tur waas lamun ngadangu musibah di curug cikaso
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_03887_01946524843.wav|16|sok asa ngagebeg tur waas lamun ngadangu musibah di terminal bekasi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_04208_00933913643.wav|18|natasha wilona hoyong apal sri langka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04646_01373592807.wav|21|loba wartawan anu ngaguar lalampahan andy rif tisaprak dipasihan panghargaan ti presiden
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01596_01116464605.wav|4|ayeuna omset liwet kadut ningkat dugi ka lima triliun rupiah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_07302_00456116265.wav|32|seniman nuju ngalukis pennsylvania
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_03887_01758040226.wav|16|panonton ting haruleng ningali katrina kaif keur nyanyi di tipi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04190_01721409138.wav|17|loba wartawan anu ngaguar lalampahan memes tisaprak dipasihan panghargaan ti presiden
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01552_00340622730.wav|3|ngopi di curug dengdeng dibaturan ku dapit danu danangjaya rarasaan aya di kahyangan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_09637_00393991863.wav|38|sok asa ngagebeg tur waas lamun ngadangu musibah di stasiun cimahi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_09637_00724230419.wav|38|itung deui anggaran teh bisi over bajet
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_00297_01267597439.wav|11|saur faturrahman kagiatan rebo nyunda mangrupikeun kagiatan anu ngariksa jeung ngamumule budaya sunda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_09243_01771628019.wav|37|panonton ting haruleng ningali song hye kyo keur nyanyi di tipi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_07302_01079996040.wav|32|seueur nu milarian gambar bunderan hotel indonesia di internet
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04190_00050894362.wav|17|berendelan nu leuwih lengkep aya di handap ieu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_04208_00530610417.wav|18|sok asa ngagebeg tur waas lamun ngadangu musibah di cibaduyut
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_01056_01817942343.wav|1|seueur nu milarian gambar pasar kembang wastukencana di internet
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_00994_01361800040.wav|40|ngaran lain pete cina nyaeta lamtoro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_08703_00131717908.wav|36|hawa di ekuador tiris
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_02395_00508244797.wav|8|sok asa ngagebeg tur waas lamun ngadangu musibah di tol padaleunyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_08703_00590104267.wav|36|seueur nu milarian gambar depok di internet
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_09637_01945823304.wav|38|carita kahuruan anu lumangsung dinten saptu wengi di taman bunga nusantara geus sumebar kamana mana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_02395_01184085889.wav|8|pirangpirang media mancanagara ngaliput kakhasan di teheran dinten jumaah kamari
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_03887_00298489917.wav|16|saur nassar kagiatan rebo nyunda mangrupikeun kagiatan anu ngariksa jeung ngamumule budaya sunda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_02953_00634402375.wav|10|titi kamal hoyong apal venis
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_00994_00184585714.wav|40|ayeuna curug cikaso tiasa dipilarian dina peta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_09243_00743646890.wav|37|dina bulan sawal taun dua rebu dua puluh seueur umat islam nu ngalakonan ibadah umrah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01855_00322462794.wav|5|pamingpin ayeunamah sok ngaluarkeun manuver politik
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_09243_00223483048.wav|37|ayeuna omset radio dahlia ningkat dugi ka lima miliar rupiah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_08703_02031893335.wav|36|hawa di lancester tiris
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_08659_01932209652.wav|35|kompleks perumahan anu caket denpasar agreng pisan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_03712_01223808759.wav|15|carita kahuruan anu lumangsung dinten jumaah wengi di monumen perjuangan geus sumebar kamanamana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04190_00988794182.wav|17|saur novita dewi kagiatan rebo nyunda mangrupikeun kagiatan anu ngariksa jeung ngamumule budaya sunda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_09243_00274918418.wav|37|kawin jeung kang andre geus jadi taqdir kuring
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_06047_01098672929.wav|29|rumaja ngarumpul di amsterdam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_01056_00954924538.wav|1|pirang pirang media mancanagara ngaliput kakhasan di sirkuit indianapolis dinten salasa kamari
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_05186_01086098546.wav|24|ayeuna omset optik seis ningkat dugi ka genep puluh triliun rupiah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_02395_01588026237.wav|8|loba rumaja ulin ka grogol
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_09637_00842818639.wav|38|ngopi di kantor berita pikiran rakyat dibaturan ku krisdayanti rarasaan aya di kahyangan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_08703_01440719597.wav|36|dina bulan hapit taun dua rebu tujuh belas seueur umat islam nu ngalakonan ibadah umroh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_03712_00629498511.wav|15|iklim di nagara eropah biasana sedeng nepi ka tropis
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_06543_01735422733.wav|30|ayeuna omset aneka tambang ningkat dugi ka lima miliar rupiah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_00600_01829358552.wav|27|ayeuna plaza indonesia tiasa dipilarian dina peta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_00600_01121542386.wav|27|saur elvy sukaesih kagiatan rebo nyunda mangrupikeun kagiatan anu ngariksa jeung ngamumule budaya sunda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04748_01008947246.wav|22|komplek perumahan anu caket papua agreng pisan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01855_00668896826.wav|5|rumaja ngarumpul di kosta rika
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_00060_01984015079.wav|26|dina bulan rajab taun salapan puluh dalapan seueur umat islam nu ngalakonan ibadah umroh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_02092_01632326159.wav|7|seueur nu milarian gambar stadion badak putih di internet
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04646_01521569876.wav|21|dua pasangan ieu teu bisa saling ngaganti
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_09243_02144956317.wav|37|loba rumaja ulin ka kampung pulo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_09243_01095080546.wav|37|ibu kota kabupaten pacitan nyaeta pacitan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_03887_01384211825.wav|16|sok asa ngagebeg tur waas lamun ngadangu musibah di depok
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01552_01500187741.wav|3|carita kahuruan anu lumangsung dinten saptu wengi di raja ampat geus sumebar kamana mana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_06003_01635978540.wav|28|loba wartawan anu ngaguar lalampahan naysila mirdad tisaprak dipasihan panghargaan ti presiden
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_03712_01259799572.wav|15|panonton ting haruleng ningali octavia spencer keur nyanyi di tipi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_03694_01793831926.wav|14|turis mancanagara keur ninggali gerhana bulan poe minggon di air terjun niagara
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_06003_01617925575.wav|28|rumaja ngarumpul di marseil
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_09637_01003621714.wav|38|dina bulan rajab taun dua rebu tujuh belas seueur umat islam anu ngalakonan ibadah umroh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04748_01235040424.wav|22|ayeuna terminal ciamis tiasa dipilarian dina peta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_06543_01301203123.wav|30|dina bulan rayagung taun dua rebu salapan seueur umat islam nu ngalakonan ibadah umroh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_04208_01632299505.wav|18|loba rumaja ulin ka curug cinulang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_08703_00431219080.wav|36|loba wartawan anu ngaguar lalampahan regina ivanova tisaprak dipasihan panghargaan ti presiden
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_00297_00726249331.wav|11|loba rumaja ulin ka ciamis
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_09757_00297635875.wav|39|loba wartawan anu ngaguar lalampahan maia estianty tisaprak dipasihan panghargaan ti presiden
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_02395_00765423723.wav|8|rumaja ngarumpul di menara pisa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01552_00061462910.wav|3|peryogi dilengkepan deui saratna
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_06047_00260160425.wav|29|saur agatha chelsea kagiatan rebo nyunda mangrupikeun kagiatan anu ngariksa jeung ngamumule budaya sunda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04646_01106681724.wav|21|kompleks perumahan anu caket istana bogor agreng pisan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_03694_00401537942.wav|14|kompleks perumahan anu caket pasar simpang dago agreng pisan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04190_01907607061.wav|17|sok asa ngagebeg tur waas lamun ngadangu musibah di taman suropari
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_08338_00333765416.wav|34|pirangpirang media mancanagara ngaliput kakasan di phuket dinten ahad kamari
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04190_01697355105.wav|17|tarate tumuwuh di beungeut cai anu tenang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_03650_00170220784.wav|13|rumaja ngarumpul di kedah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01552_01491029381.wav|3|kacana tos dialihkeun ka palih wetan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_06003_00505566850.wav|28|hermann josis mokalu hoyong apal mekkah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01899_00069646330.wav|6|di dinya mah teu aya nu miharep
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_07302_00668561388.wav|32|panonton ting haruleng ningali miley cyrus keur nyanyi di tipi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_00691_00577250734.wav|31|ngan sababaraha jenis lauk anu hirup di cai tawar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_07302_01078440977.wav|32|pirang pirang media mancanagara ngaliput kakhasan di myanmar dinten jumaah kamari
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_00060_00487330308.wav|26|sok asa ngagebeg tur waas lamun ngadangu musibah di dayeuhkolot
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_01359_01765206576.wav|2|loba wartawan anu ngaguar lalampahan ketlin halderman tisaprak dipasihan panghargaan ti presiden
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_00060_01652882480.wav|26|loba rumaja ulin ka kebon binatang ragunan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04190_01156800689.wav|17|kawin jeung kang andre geus jadi takdir kuring
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_08338_01787735509.wav|34|pipi dodi kembu alatan niup piriwit
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01899_01347597367.wav|6|saur kunto aji kagiatan rebo nyunda mangrupikeun kagiatan anu ngariksa jeung ngamumule budaya sunda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_07302_01141822344.wav|32|meisya siregar hoyong apal kuwait
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_02092_00508112451.wav|7|saur angelina sondakh kagiatan rebo nyunda mangrupikeun kagiatan anu ngariksa jeung ngamumule budaya sunda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_09243_02057188812.wav|37|rumaja ngarumpul di oxford
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_06047_01434125855.wav|29|loba wartawan anu ngaguar lalampahan gisel anastasia tisaprak dipasihan panghargaan ti presiden
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_04511_00469598424.wav|19|rujukan oge tos oke
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04646_02139638189.wav|21|administratifna geus dirapihkeun ku mamat
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01899_01221874452.wav|6|loba mahasiswa nu apal karya karya kowper
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04190_00951745560.wav|17|turis mancanagara keur ningali gerhana bulan poe jumaah di lancaster
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_07842_01005031696.wav|33|seueur nu milarian gambar purwakarta di internet
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_06543_00197877375.wav|30|ariel noah hoyong apal yaman
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_01359_00890502756.wav|2|turis mancanagara keur ningali gerhana bulan poe ahad di bangor
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_09757_01572731566.wav|39|dina bulan silih mulud taun sarebu salapan ratus salapan puluh salapan seueur umat islam nu ngalakonan ibadah umroh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01596_01808468290.wav|4|ine shintya hoyong apal peru
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_03694_00430683114.wav|14|di pasar loba anu ngajual buku iqro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_00600_01542666840.wav|27|carita kahuruan anu lumangsung dinten minggon wengi di tol cikampek geus sumebar kamana mana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_05507_00395410019.wav|25|ngopi di kantor berita pikiran rakyat dibaturan ku krisdayanti rarasaan aya di kahyangan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_03712_00187525967.wav|15|hawa di pulau harbour tiris
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01596_02137271755.wav|4|ayeuna omset rempeyek jangkrik ningkat dugi ka lima miliar rupiah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_06047_01293277252.wav|29|turis mancanagara keur ningali gerhana bulan poe senen di havana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_07302_00847402433.wav|32|gening gambarna euweuh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_08659_01471326671.wav|35|hawa di birmingham tiris
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01552_00143384936.wav|3|jangjang manuk teh semu hideung polet bodas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_03887_00461665574.wav|16|ngopi di terminal ciakar dibaturan ku samuel rizal rarasaan aya di kahyangan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_01056_01402329580.wav|1|saur desy ratnasari kagiatan rebo nyunda mangrupikeun kagiatan anu ngariksa jeung ngamumule budaya sunda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01899_01747968306.wav|6|pirang pirang media mancanagara ngaliput kakhasan di chicago dinten ahad kamari
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_05186_01995999882.wav|24|pamarentahan desa loba kahayang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_04190_00111167163.wav|17|sok asa ngagebeg tur waas lamun ngadangu musibah di cagar alam leuweung sancang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_00060_01637234481.wav|26|pirang pirang media mancanagara ngaliput kakhasan di yordania dinten minggon kamari
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_00060_00831913829.wav|26|seueur nu milarian gambar kantor berita pikiran rakyat di internet
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_02395_00630003194.wav|8|carita kahuruan anu lumangsung dinten rebo wengi di tanjung pinang geus sumebar kamana mana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_05051_00709922900.wav|23|muhammad fahroni hoyong apal abu dhabi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_00600_00423939782.wav|27|baheula mah goodbless kasohor pisan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_01899_02051843424.wav|6|ayeuna plaza indonesia tiasa dipilarian dina peta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_04208_02073998294.wav|18|guru honorer anu tos ngabdi dalapan belas tahun ngadongkapan bapak walikota
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_06003_01207626695.wav|28|ayeuna omset atlas ningkat dugi ka lima triliun rupiah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_01056_01186372855.wav|1|jana keur meuli tomat lima kilo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_04208_00061976161.wav|18|seniman nuju ngalukis libya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sum_08659_01909970214.wav|35|loba rumaja ulin ka stasiun cimahi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/suf_02953_00368209735.wav|10|kompleks perumahan anu caket pasar cihapit agreng pisan

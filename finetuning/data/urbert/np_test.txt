@@ -1,0 +1,588 @@
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_4159988042.wav|7|san duii hajaar caarako griissmakaaliin olampikamaa palaau
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_1428206488.wav|6|jarsibaatt narman lekhak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_5048690176.wav|1|spenamaa dherai vyaktiharuu samaajavaadamaa vishvaas gardachan bhane kehiile pumjiivaadamaa pani vishvaas gardachan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_6392881485.wav|14|yadyapi calacitrakaa kendriiy paatra bhane tiin janaa naayakamadhye ramit ddhumgaanaa ek hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_4815781687.wav|1|uhaamle abhinay gareko pahilo tteliphilma mahako pahilo calacitra shambhuko nirdeshanamaa baneko santaan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_9739435873.wav|6|bigramdo svaasthya kimakaa baaremaa dherai kathan paainchan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_8242890605.wav|6|solukhumvu jillaa aspataalamaa aaekaa biraamiiharuuko upacaaramaa khattiekaa karmacaariiharuu nikai mehanatii hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_5687_9759257572.wav|10|padma ratna vidyaamandir kalej sarlaahii jillaako malanggavaamaa avasthit euttaa kalej ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_5118823400.wav|6|varssiiyaa kirann kumaarii raay yaadav samaanupaatik tarpha hunuhuncha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_8526588911.wav|9|bimalaa raavalako janma suduurapashcim nepaalako bajhaang jillaamaa bhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0258_6050104400.wav|3|durgaadevii joshiiko janma suduurapashcim nepaalako bajhaang jillaamaa bhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_5523246251.wav|9|ittaaliyan dosro vishvayuddhako laddaaku vimaan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_1094966976.wav|7|kyaanaddaako manittobaako raajadhaanii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_2511921214.wav|7|ubunttumaa aadhaarit linaksa sanycaalan prannaalii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_3578754092.wav|14|brittis vakil ra bhuushaasastrii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_5184310421.wav|9|jarmaniimaa raheko tthaaum
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_6998432618.wav|9|raajaale unalaaii dherai dhan jaggaa jamin inaamamaa dine bacan die
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_7733176302.wav|9|krssnnaarpan bhojanaalayale ahileko paryattan vyavasaayamaa nikai tthulo yogadaan gareko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_2878948778.wav|9|lumbinii anycal aayurved aussadhaalayale yas kssetrakaa janataalaaii nikai raamro sevaa puryaaeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2139_0379892834.wav|2|dherai gair sarakaarii samsthaaharuule sangkhuvaasabhaa jillaa aspataalalaaii upakarann pradaan garekaa chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_9146635246.wav|6|yo sthaan praaciin kaalako nadii sarasvatii kaalaantar sukh garna lupta bhaeko tattamaa avasthit thiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6587_3814855747.wav|13|sisko sisttam inka lagaayatakaa kampaniisamg saajhedaarii gariraheko pani unale jaanakaarii die
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_1347765846.wav|6|yas aghi yas jillaalaaii tibriikott bhaninthyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_9407_4315096359.wav|17|nepaalii bhaassaamaa gaaliikaa laagi prayog hune shabda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_0247685392.wav|9|jarmaniiko ttriyaramaa raheko roman kyaatholik girjaaghar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_1301503575.wav|6|kaalo caamcar nepaalamaa paaine ek prakaarako caraako naam ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_3393123313.wav|6|samgamakaaliin saahityakaaraharuumaa anek keralakaa saahityakaar chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_4195074543.wav|6|mithenabaatt alkaail vyutpanna
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6587_2894055232.wav|13|velapointtamaa kaam garisakepachi unale aaphno sahii dishaa praapta gare
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_2348756632.wav|7|samyukta raajyako kyaaliphorniyaamaa raheko basobaas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_2583853926.wav|1|duii hajaar aatthako agassttamaa kimako duii hajaar tiinamai mrtyu bhaeko kuraa chaapeko thiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_8836482229.wav|14|dakssinn esiyaako pramukh nadii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_0925608594.wav|6|ddiyaravaak sarbhisej sadhaim tapaaiimharuuko sevaamaa haajir cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_9924076759.wav|7|meriddaako raajadhaaniisamgai raheko spenii svaayatta samudaay
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_1648288763.wav|9|unnaais say chayaanabbe ra santaanabbemaa kolambiyaalii phuttabal vyaavasaayikako pahilo shrennii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_4389248200.wav|6|pleg shabdako tyatibelaa vishess artha thien
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_4927536600.wav|14|dayaa baidya nepaalii calacitrakii ek carcit abhinetrii hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_9407_9974252924.wav|17|mero vargako samaajale malaaii samskaar dieko
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_5687427261.wav|1|aphgaanistaanako yo praantamas aphgaanistaanakas mukhya prashaasanik vibhaagaharuu chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_9879937579.wav|9|dossapuurnna vikaas vaa angga vaa utakako janmajaat abhaav
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3997_2551698149.wav|8|navil baingka limittedd nepaal raassttra baimkabaatt ijaajat praapta baingka ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_2761512626.wav|1|myaaseddoniyaa saharako praaciin mahattva cha kinabhane maanav sabhyataako yo euttaa namunaa thiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_8617169941.wav|6|yas pachi yo jaati kramash puurvatarpha laageko anumaan garna sakincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_1747009279.wav|7|yahaambaatt dhaulaagiriidekhi gannesh himaalasammako manamohak drshya dekhincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_2837931470.wav|14|nirmalaa paaliiko janma suduurapashcim nepaalako ddottii jillaamaa bhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_0612402328.wav|7|rusako oblaasttamaa raheko nagar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_7970327760.wav|9|ddac posttaimpresanistta citrakaar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_9339309717.wav|9|kehii prakaarakaa ttelibhijan ttyunar jasale kampttayuttaradvaaraa ttelibhijanamaa signal praapta garna anumati dincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_6001568678.wav|6|sabaibhandaa najiikako havaaiiaddddaa baagaddogaraa ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_4981924781.wav|6|euttaa nepaalii bhaassaako nibandha sanggrah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_6048396103.wav|1|gaaumko cheucheumaa rahekaa duiivattaa devataa raakhne gharamaa cha mahinaako pharakamaa kaaleshvar mahaadevakaa muurtilaaii raakhne garincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_8457748492.wav|9|soddiyam kloraaiddako khanij avasthaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2027_8976817293.wav|0|sarakaarale janakapur anycal aayurved aussadhaalayalaaii aadhunik pravidhiyukta garaaune pratibaddhataa prakatt gareko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_0898719550.wav|11|iraanako ttyaabrijamaa raheko bajaar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_8192975347.wav|14|hirannya ddhakaal ra aamaa jaanukaadevii ddhakaalako kokhabaatt janmekaa hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_7894055004.wav|11|unnaais say sataasiimaa kolambiyaalii phuttabal vyaavasaayikako pahilo shrennii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_6261866777.wav|6|kendriiy rusamaa raheko sahar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_5741033366.wav|1|graaham belako janma skattalyaanddako enddinabargamaa san tiin maarca san satra say satcaalisamaa bhaeko thiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_0760148551.wav|9|kaabelii vikaas baingka limittedd nepaal raassttra baingkako vargiikarann anusaar kha vargamaa parne euttaa baingka ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_5687_2569395956.wav|10|jaapaanij kican kujunaamaa jaapaanii parikaaraharuu svaad lin dherai tthaaum baatt maanisaharuu aaune gardachan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_4176068194.wav|1|yas jillaamaa ek upamahaanagarapaalikaa ek nagarapaalikaa tricaalis gaavis chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_3924497885.wav|14|ttokiyomaa eghaaravattaa nagar chan yasakaa atirikta ttokiyoko landdan samyukta adhiraajyasamg ek bhaagidaarii samajhautaa pani cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_3907065265.wav|6|yo khomc vishvakai sababhandaa gahiro khomc maanincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_7189813470.wav|1|ragat bhojan gareko kehii din pachi upiyaamko madhya pett lagaataar vibhaajan bhaer jiivaannukaa kaarann thunincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_0894887834.wav|9|yasalaaii anggrejiimaa blyaakaheddedd muniyaa bhanincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_1045072190.wav|1|duii hajaar chayaalisadekhi raajaniitimaa samlagna rahamdai aaunubhaekii kirann yaadav prajaataantrik aandolanamaa vibhinna samayamaa pakraau parnubhayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_8968461916.wav|15|phraanselii gannatantrako atthaaraum raassttrapati
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_0065310479.wav|1|kaalo garudd nepaalamaa paaine ek prakaarako caraako naam ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_5640068622.wav|9|rusako jillaamaa raheko saharii ilaakaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_3743234271.wav|9|pahile kamajor bhaisakekaa uttarakaa phasalako avasthaa jhan khaskiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_0974456682.wav|1|spenii klab baarsilonaa ra kroesiyaa raassttriy ttimakaa laagi kendriy vaa aakraamak middaphilddarako ruupamaa khelne gardachan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2139_5970015519.wav|2|baingka aph kaatthamaannddu limitteddale nepaalako aarthik vikaas tathaa vittiiy kssetramaa raamro kaarya gareko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_6804594335.wav|1|yasalaaii anggrejiimaa blyaakakyaapdda kingaphisar bhanincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_8370370643.wav|1|yasarii pyaangako chuttttai pahicaan banaaisakeko tii naacako paramparaa samayako kaalakhannddamaa astitvamai nabhaeko duhkhalaagdo vissay bhayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0258_9885710280.wav|3|yas calacitrakaa nirdeshak pradiip shressttha hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_5513570329.wav|7|je es haarddaveyar euttaa saano pasalabaatt suru bhaeko thiyo tar ahile yati vishaal bhaeko cha ki vishvaas garneai gaahro cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_4455093713.wav|14|dakssinn rusamaa raheko nagar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_0774817985.wav|6|kaalii hindu devii paarvatiiko bhayamkar ruup ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_8703102877.wav|1|yas matthako muul samracanaa aantarik jhagaddaamaa nasstta bhaeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_5252626197.wav|1|kimako nidhanamaa samavedanaa vyakta gardai amerikaale aaphuu dakssinn koriyaa jaapaanako samparkamaa raheko bataaeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_8782196788.wav|6|pauraannik grantha mahaabhaaratamaa ullekh cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_5306026609.wav|6|yo caraa nepaal baahek bhuttaan ciin bhaarat laaos myaanamaar thaailyaandda bhiyatanaamako raithaane caraa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0258_0838627393.wav|3|aadhikaarik ruupamaa pahilo nepaalii calacitra naayak shiv shamkar maanandharalaaii maanincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_1137013150.wav|6|aitihaasik raajakumaaradvaaraa shaasit raajya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_5122650091.wav|14|rusako dakssinnii dagestaanamaa raheko aatth gaaumharuumaa basobaas garne jaatiiy samuuh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_3686219859.wav|9|dherai samayaavadhimaa puurva kolamvii maso amerikaako itihaas bhaagaharuu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6587_1044229323.wav|13|iaai ddu pontta dde nimoursa endda kampanii euttaa tthulo kampanii ho bhanna mildach
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_1107857989.wav|15|taato tthulo taaraako prakaar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_7195186643.wav|9|ratnanagar nagarapaalikaako pashcimamaa parne yo gaavis duii say gharaharuu chan ra paamc hajaar janaako basobaas raheko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_1128361506.wav|6|yo jivaannuko kaarann kehii alag kisimakaa mahaamaarii phailiekaa thie
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_3831239915.wav|6|samyukta raajya sarakaar sevakaaii vibhaag
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_7389359808.wav|1|kaalo mrtyuko mahaamaariile yuropako itihaasamaa gambhiir dhaarmik saamaajik aarthik uthalaputhal lyaayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_8455496039.wav|14|ttiaaieesiaaraieph euttaa raamro kampanii ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_4580530501.wav|9|lithuaaniyaako saamaajik lokataantrik raajaniitik paarttii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_5113063621.wav|7|jarman samgiitakaar ra kavi atthaar say cavanna dekhi unnaais say teis samma
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_9120729926.wav|11|mishrako paamcaum raassttrapati
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_4759164239.wav|9|lingkan ucca maadhyamik vidyaalay kaatthamaaddaum upatyakaako euttaa lokapriy vidyaalay ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_1623165518.wav|9|ekacaalisaum ephaaaies alpaain ski vishva kap mausam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_6197169372.wav|6|ciniyaam raajakul ek karodd eghaar laakh unnaais hajaar duii say cautiis
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_8656246995.wav|6|yas varssa dharaan aayurved svaasthyakendrale utkrsstta puraskaar praapta gareko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_9709728566.wav|9|sloveniyaaii vanaspativijnya ra aanuvaamshikataa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0283_0816115484.wav|4|sudip buksa endda sttesanariilaaii becer unale arko pasal suru gare
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_8797760503.wav|11|ddenis saamaajik prajaatantravaadii raajaniitijnya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_3660091245.wav|1|vikaas baingka ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_7315342551.wav|1|uttar koriyaako sabaibhandaa ghanisstta samvandha ciinale kimako nidhanamaa gahiro duhkh vyakta gareko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_5573354506.wav|7|rusako sangghiiy vissay rusako gannatantra
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_4895345784.wav|6|rakssaa niyog uttar koriyaako mahattvapuurnna sarakaarii amg maanincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_6838666637.wav|6|rusako polyaanddamaa raheko nadii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_7676046381.wav|9|yues amerikii jvaalaamukhii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3154_8810949217.wav|5|jeneral ddaanaamiksa karporesanale bajaaramaa lyaaekaa utpaadanaharuu prashasta chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_0932150072.wav|1|paganaath dailekh jillaako euttaa gaavisako naam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_6303294475.wav|9|kiyaanii lei janma unnaais say bayaasii ashliil calacitra abhinetrii hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_8455289154.wav|9|misan aspataal amaragaddhiiko sthaapanaapachi tyahaamkaa janasaadhaarannale raamro upacaar sevaa praapta gardai aaekaa chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_4853610763.wav|9|dherai raamro taaraa klasttar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0258_4633570599.wav|3|ganneshabahaadur simhako janma suduurapashcim nepaalako bajhaang jillaamaa bhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_2261012064.wav|1|khaasagarii pokharaa upatyakaa bharaabhariidekhi kotrekholaasamma anya vijayapur dobhaan syaangakhudii kholaaharuuko tallo bhaag jyaadai vistrt cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0258_7944550785.wav|3|nandakrssnna joshii deuddaa gaayak hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_9699780935.wav|1|singgaapur dakssinn puurvii esiyaako ek vikaasit raassttra ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_7829580309.wav|14|nedaralyaanddsako beddamamaa janmiekaa unii saanaidekhi daayaam binggsamaa khelthe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_6989474730.wav|1|nirdeshak dampatiikaa anusaar kimale apaharannakaa laagi maaphii maagdai aaphno philma banaaidin aagrah garnu bhaeko
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_8962137317.wav|14|moddal tathaa kaaryakram prastotaa suraj girii ra saahanaa bajraacaarya pheri ekapattak prahariiko phandaamaa parekaa chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_6567686476.wav|9|meddikal kalej shikssann aspataalamaa mero choraale pahilo pattakamai naam nikaalyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2139_2379382302.wav|2|ttokhaa aspataalale tyas kssetrakaa sarvasaadhaarannalaaii raamro sevaa pradaan gardai aaeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_8846826662.wav|9|soloman dvipako mudraa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_4744680160.wav|1|bhattttaraaiile duii hajaar ekasatttthii saalamaa yo pustak prakaashit garekaa thie
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_8852910206.wav|15|samyukta raajya amerikaamaa vyaavasaayik saaikalistta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_3114608421.wav|6|phraanselii ragbii samgh lig
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_8138430097.wav|6|uniiharuulaaii paamc varssasamma alag alag raakhiyo ek samaarohakaa bic punarmilan garaaiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_3397318151.wav|9|yuttisiiko dasako samay aphasett sucak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_7224142619.wav|7|atthaar say ekahattaramaa uttarii dhravamaa pugna yaatraa asaphal
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_5393422179.wav|6|tehra say ekaaunna sammamaa ek say pacaas saanaa yahudii samudaayaharuu nasstta paarie
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_5618542901.wav|1|bhaaratako bihaar pradeshamaa ganggaako maidaanabaatt dakssinn puurvatarpha moddincha ra pattanaa najikai ganggaa nadiisamg mildach
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_6231233885.wav|14|morakko barakenamaa raheko samudra tatt
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_8049723356.wav|9|slobheniyaaii naak kaan ra ghaamttiiko rog
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_1657730053.wav|9|tii madhye ek prajaatimaa jiivaannuko samkramann pachi rog laagdain jiivaannulaaii jiivanta raakhne kaam garcha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3154_5555817988.wav|5|bhyaankubhar kyaanaddaako audyogik sahar ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_7974214122.wav|1|dakssinnakoriyaako middiyaakaa anusaar unale lagaaune gareko tthulo casmaa haliuddakaa abhinetrii humdai vishvabhar carcit bhayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_2412033581.wav|7|duii hajaar eghaarako juliyan phaarinodvaaraa nirdeshit philma
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2027_5665575707.wav|0|mustaang himaalii jillaa ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_2272015924.wav|1|dhaatu maattokaa khelaunaa mohanajodaaddo haddappaakaa jhaim yahaambaatt praapta bhaekaa chan baccaaharuukaa manoranyjan prani aakarssann huncha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_9501174649.wav|11|antarraassttriy aais hakii pratiyogitaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_9595432537.wav|9|amerikii abhinetaa ra aavaaj abhinetaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_9047604439.wav|15|uttarii ittaaliiko piddamonttamaa raheko sahar ra samudaay
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0258_3756247064.wav|3|caamdanii mallako janma suduurapashcim nepaalako daarculaa jillaamaa bhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_1075589513.wav|9|maile kasailaaii shikssaa diem aaphno rang thoparne duraagrah raakheko chain
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_4081652153.wav|7|rusii mahilaa aatth pattak olampik daudd
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_1141874281.wav|7|araniko haarddaveyarako pasal mero ghar najikai cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_9407_7594762595.wav|17|yasalaaii anggrejiimaa ddak bhanine garincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2139_4013578184.wav|2|prthvii raajamaargale pashcimamaa pokharaa ra puurvamaa kaatthamaaddaum kssetralaaii jodddach
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_0172878977.wav|6|shressttha kiraanaa pasal mero gharako najikai thiyo tar ahile anta sareko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_9407_6761600954.wav|17|yas gaavisamaa kul ek say atthaar gharadhurii rahekaa chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_2423665507.wav|9|puspaa boharaako janma suduurapashcim nepaalako daarculaa jillaamaa bhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_5978916767.wav|6|jamaaikan ttryaak ra phildda daudd khelaaddii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_0818076783.wav|6|yuesaamerikan rak en rol samgiitakaar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_9407_5725574039.wav|17|kimaddaamddaa arghaakhaamcii jillaa avasthit gaaum vikaas samiti
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_2214582900.wav|14|naargaajun haarddaveyar ddekoresan saplaayarsa praa liko pasal agaaddi tthulo durghattanaa bhayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0883_6440912992.wav|16|anttaarkttikaa euttaa tthulo mahaadesh ho arthaat yo euttaa bhuumiko tthulo bhaag ho yo mahaadesh vishvako dakssinn kssetramaa sthit cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_2190381285.wav|9|asttreliyaalii pharmulaa van cyaampiyan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_4462375379.wav|9|kaatthamaaddaum sthit naksaalako praaciin naam jonjonding tathya pusstti bhayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_8209964856.wav|9|jarman samudra tatt bhalibal khelaaddii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_4011657020.wav|14|liyaao raajavamshakaa samraatt
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_4489115324.wav|14|ingalyaanddako libharapulamaa aadhaarit phuttabal klab sanggha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_2412999975.wav|14|puurva kolambiyaalii meso amerikaamaa prayog kyaalenddaraharuuko prannaalii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_4119953298.wav|15|unnaais say sattariimaa kolambiyaalii phuttabal vyaavasaayikako pahilo shrennii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_8482838687.wav|9|nayaam baaneshvar kaatthamaaddaum saharako euttaa mahattvapuurnna vyaapaarik kendra ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_6276798317.wav|7|ddac phuttabal khelaaddii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_3387522618.wav|6|phaaroii dvipako jhanddaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_7806448108.wav|9|tyasabiic linggo ddhaalincha jaatraako visarjan huncha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_1751539393.wav|9|baahraum shataabdiikaa phraanselii lekhak ra dharmashaastrii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_9614318013.wav|6|ttikaapur bahumukhii kyaampas kailaalii jillaamaa raheko euttaa kyaampas ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_7961269094.wav|6|sobhiyat sangghako prashaasanik samracanaamaa mukhya bhaag
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0258_3696950667.wav|3|kumaar basnet nepaalakaa lokapriy lok gaayak hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_0879024364.wav|11|ittaalelii resakaar caalak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_3525354061.wav|6|khulaa jnyaan ddettaabes pariyojanaa vikimiiddiyaadvaaraa aayojit ra svayamsevakaharuudvaaraa sampaadit
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_9407_7958778449.wav|17|nyuunaruupamaa kar shaahavamshii raajaalaaii bujhaaunu pardathyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_9009740875.wav|9|panycatantra chottaachottaa kathaaharuuko samgaalo ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_1286848129.wav|11|jarmaniiko loar saksoniiko jillaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_1113953471.wav|1|yas ropavekaa kaarann samathar patthaar kaalingpongadekhi biis kilomittarako duriimaa siliiguddii jaane baattomaa avasthit cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_9407_8609403285.wav|17|uttaraadhikaarii unabaaremaa tyati jaanakaarii baahir aaeko chain
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_1549994457.wav|6|polis puurva baaskettabal khelaaddii ra baaskettabal prashikssak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_7174466874.wav|15|uttar amerikaako sabai bhandaa tthulo taalaharuu madhyeko ek
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_5687_4798262543.wav|10|nepaasaphtta salusansale lyaaekaa anuprayogaharuu graahakaharuumaajh nikai lokapriy chan bhanincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3154_4933069146.wav|5|aitihaasik mahattva bokeko yo darabaar bhaktapur saharako bhaktapur darabaar kssetramaa raheko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_6689854482.wav|15|blaaye ra ttrubeddarakaa raajakumaar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_4013351462.wav|9|renu bisstta kesii nepaalii gaayikaa hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6587_1284156315.wav|13|maile pani da golddamyaan saaksa grup inkamaa kaam garne nivedan haaleko thiem
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_5919356064.wav|1|yahaam saaiprasakaa baaremaa nikai carcaa ra chalaphal bhaeko kuraa ullekh cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_0037896619.wav|14|vipanaa thaapaa nirutaa simh mausamii malla trpti naaddakar jastaa naayikaaharuu nepaalii sinenagariimaa kunai belaa nikai calekaa naayikaa thie
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_2953992562.wav|9|gaayan kssetramaa ramesh sunaarako mahattvapuurnna yogadaan cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0258_7059288409.wav|3|mohan bajuliyaa deuddaa giitakaa prakhar gaayak hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_7597189861.wav|14|hikmat boharaale aaphno sanggiit kampanii raamrosamg sanycaalan garekaa thie
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_7082599536.wav|9|kankaaii buksa mero ghar najikai cha tar ma kahilyai tyahaam gaeko chain
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_9407_3978206055.wav|17|jayasavaalale atttthaais janaale saat say varssa bhanii ullekh garekaa chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_6005511921.wav|7|uhaam sivil malamaa pugdaa ma tyahaambaatt himddisakeko thiem
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_3020378588.wav|9|cetabahaadur taamraakaarako janma suduurapashcim nepaalako ddottii jillaamaa bhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0258_8444696734.wav|3|nrp svaarako janma suduurapashcim nepaalako achaam jillaamaa bhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_4492131142.wav|1|yuropelii sarakaaraharuule sangkatt nidaanako kunai kadam caalenan rogako kaarann phailaavatt sambandhii kehii jaanakaarii kasailaaii thien
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_2565346684.wav|6|saaudii arebii sahar ra makkaah praantako raajadhaanii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_6329630131.wav|7|sentta maaurittiasako angga
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_7629032009.wav|9|malayaalam bhaassaa utpatikaa baaremaa anek siddhaanta prastut gariekaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_9372773397.wav|14|jagadish bhattttako janma suduurapashcim nepaalako daarculaa jillaamaa bhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_9407_7452562092.wav|17|yo patrikaako prakaashak samskrt chaatra sanggha shaakhaa ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_2308716689.wav|1|yasako sup banaaincha yo khaan sakincha anya tarakaariimaa misaaincha yasale chuttttai svaad
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_2306441679.wav|15|men beltta shishu grah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_0150100916.wav|1|yahaam haddappaa sabhyataakaa dherai caaso mahattvapuurnna avashess bhettiekaa chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_4709121220.wav|14|pahilo dharmayuddhako itihaasakaar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_8758215239.wav|6|samyukta raajyako kyaaliphorniyaako orenja kaaunttiimaa raheko samudra cheumaa sahar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_6549375208.wav|6|svaamii prapannaacaaryale kiraamt aarya samudaayakai bhaeko tthahar gare
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_7210379651.wav|7|rasuvaa jillaa aspataalale tyas kssetrakaa janataalaaii pradaan gardai aaeko sevaa bhuusamracanaako kaarannale prayaapta chain
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_0011062271.wav|11|ijipttako biisaum raajavamshako paamcaum shaasak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_2094802767.wav|14|san unnaais say tihattar maa philipinsako raajadhaanii manilaamaa aayojit ttrayaak endda phildda pratiyogitaamaa sahabhaagii hunubhayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_2047264990.wav|7|sarbiyan vamshako sloveniyaaii pashushaastrii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_0385367299.wav|15|amerikii aavaaj vaa sttej abhinetrii ra gaayikaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_6039823279.wav|1|tyasai saalako pharavariimaa sttaasabargakaa janataale yahudiiharuuko hatyaa gare
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_7893307167.wav|11|svittjaralyaanddako barnii alpsamaa raheko parvat
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_1828967194.wav|9|mahaakaalii anycal aayurved aussadhaalayamaa cikitsak sevaa suru nikai varssa bhaisakeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3154_3397306352.wav|5|tenjing hilaarii vimaanasthal vaa luklaa vimaanasthal nepaalako puurvaanycal vikaas kssetramaa parne vimaanasthal ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_7668030767.wav|6|kimalaaii ahile nai muttu rog bhaeko bataaieko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_6783914335.wav|1|kim kulig jarman phuttabal khelaaddii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_3550199647.wav|14|yasai kramamaa ukta ttoliile atthaar say cauraanabbemaamaa hangakang bhramann gareko thiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_8711816408.wav|1|cunaavadvaaraa kamyunistta paarttii sattaamaa aaunu vibhinna paarttiiharuukaa morcaaharuuko raajaniitik prayog pahilo paltta keralamaa bhae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2139_0795001642.wav|2|durghattanaakaa sabai ghaaiteharuulaaii viir aspataalamaa bharnaa gariyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_1636939995.wav|9|baainarii taaraaharuuko varga
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_1717899039.wav|15|anggrejii lekhak ra saamaajik samaalocak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_7819509842.wav|14|shaanti pantakaa giitaharuu pashcimii samaajamaa nikai lokapriy chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_8411565863.wav|9|puraa kyaanaddaa bhitra raheko tthulo taal
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_5718316519.wav|6|jamaaikan ttryaak ra phildda daudd
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_9896531367.wav|6|lejar prakaash vaa vidyut tarangaharuu prayog garne ddiska ddraaibh
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_2611595302.wav|14|lithuaaniyaa laattabhiyaa ra esttoniyaamaa bhaekaa vibhinna yuddhaharuumaa dheraiko mrtyu bhayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_0420145571.wav|9|kamalanayanaacaaryako naamai anauttho cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_9094396655.wav|7|daangamaa thaaruuharuuko nikai tthulo janasangkhyaa raheko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_9053762273.wav|7|phraanselii phuttabal khelaaddii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_6045810218.wav|14|hyamaanaa inkakaa kaaryakaarinnii pramukh nikai vidvaan tathaa jaaniphakaar hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0649_1055199537.wav|12|spen porcugal parsiyaakaa kehii kssetraharuumaa sthaapit islaam dharma khilaaphatako thaalanii say cha say caaliis ii taakaa bhaeko thiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_6155198316.wav|15|kaagajaat maarkaap bhaassaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_0721157241.wav|14|jarman khelakud klab
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_6115236718.wav|6|raamalaal golchaa aamkhaa aspataal biraattanagar laagieko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0283_1353776465.wav|4|pokharaa phevaa taal aasapaasako kssetramaa yo vanaspati prashastamaatraamaa paaincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_1627945346.wav|9|rusako sangghiiy vissay rusako kraai
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_6477856191.wav|9|ittaaliyan kavi upanyaasakaar saahityik samaalocak ra anuvaadak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_9407_3266682112.wav|17|praaciinakaalamaa keral tamilakamako bhaag samjhiinthyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_2743516060.wav|9|svastik aaittiile anumati lieko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_7650570354.wav|15|jarmaniimaa raheko girjaaghar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6587_9532577851.wav|13|bhyaalero inarjiile uurjaa kssetramaa puryaaeko yogadaanalaaii kasaile birsanuhumdain
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_5105684274.wav|6|pokharaako phevaa taal aasapaasako kssetramaa yo vanaspati prashasta maatraamaa paaincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_6501222973.wav|14|mukta raam aacaarya nepaalii calacitra kssetrakaa ek carcit naayak hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0258_2658340102.wav|3|sete nepaalii shrotaamaajh bhijekaa gaayak hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_1412591150.wav|6|jarman bhalibal klab
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_8941342606.wav|14|aakaash girii nepaalii calacitra kssetrako ek carcit abhinetaa hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_3060858337.wav|6|mojaarttadvaaraa gitii naattya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_7353852861.wav|9|anggrejii carann ra philma abhinetrii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6587_8276079438.wav|13|ecasie holddingsa inkakaa kaamadaaraharuu dherai dinadekhi dharnaamaa basekaa chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_3502546382.wav|9|kuntii tthagunnaako janma suduurapashcim nepaalako daarculaa jillaamaa bhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_3393324258.wav|7|nyujilyaanddako uttar ra dakssinn dvip bicako paaniiko saaghuro bhaag
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_9388019921.wav|1|kim san unnaais say cauraanabbemaa uttar koriyaako sattaamaa aaekaa kim kamyunistta netaako ruupamaa vishvacarcit hunuhuncha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_5802345009.wav|14|yuropelii rusako kendramaa raheko sahar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_8866949755.wav|1|dhaalisako dherai maatraamaa utpaadan huncha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_6654089366.wav|11|jiivan luittel nepaalakaa ek carcit abhinetaa hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_7179302770.wav|15|amerikii abhinetaa haasya abhinetaa ra vyaavasaayik skettabordda garne
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2027_4847233647.wav|0|le sherpaa bhanne kampaniile yasako sthaapanaa dekhi nai nirantar pragati gariraheko paaincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_5292495263.wav|9|jillaa aayurved svaasthyakendra paattanale aaphno ekaaiharuuko ruupamaa graamiinn bhegamaa shaakhaaharuu kholne bhaeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_4278647033.wav|14|mumbai bhaaratako philmii sittiikaa ruupamaa laamo samayadekhi rahamdai aaeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_3669566875.wav|9|sanggiit jagatakaa prasiddha sanggiitakaar bhaktaraaj aacaarya bhaekaa thie
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6587_1450741792.wav|13|yunaaittedd paarsal sarbhis pacaas hajaar kaamadaar paricaalan gareko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_3077077279.wav|7|pokharaako phevaa taal aasapaasako kssetramaa yo vanaspati prashasta maatraamaa paaincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_8818260568.wav|7|pisaav ra disaa pachi saphaaiikaa laagi prayog garine kaagaj
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_1623725320.wav|9|aais hakii cyaampiyanasip
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_7696662134.wav|9|jin raajavamshakaa samraatt janminu pahile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_0153703750.wav|1|vaideshik vyaapaar dharaasaayii praakrtik prakop bhokamariibaatt laakhaum maanisale jyaan gumaaunupareko thiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_8565971468.wav|1|yo kendra daarjiling jaane baattomaa avasthit cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_6706814045.wav|15|nisskriy vidyut cumbakiiy chadd jasale tanaav ra vartamaan bic ek nirantar anupaat pradaan gardach
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_9062136918.wav|9|viraatt raajaako darabaaramaa paannddavaharuu vibhinna naamale guptabaas basdaa kiccakako kudrsstti draupadii maathi parech
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_7865588733.wav|14|rus puurvii yuraalamaa raheko ilaakaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2139_4091987104.wav|2|sohii samayamaa kaatthamaaddaum vishvavidyaalayale pani suru gareko thiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_8029002129.wav|9|porcugaliiharuule bhaaratako govaalaaii upanivesh banaaepachi makaaule pani tyasako anusarann gardai dakssinnii ciinamaa aaphno upanivesh banaayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_3147741410.wav|14|san satra say chayahattaramaa sviddenakaa raajaa gustaav trtiiyako aaphno deshakaa laagi svaan ribhar upanivesh banaaune aakaangkssaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_9740563659.wav|14|antarvinimay laagi ddijaain garieko maanav patthaniiy paatthamaa aadhaarit khulaa maanak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_7098642175.wav|6|spenii citrakaar muurtikaar printtar mekar maattoko saamaagrii nirmaann garne ra carann ddijaainar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_1567992918.wav|9|amerikii caritra abhinetaa ra aavaaj abhinetaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_4289668561.wav|14|naayak shriikrssnna shresstthasamg vivaahako kehii samayamai pati viyogako piiddaamaa parekii naayikaa svetaa khaddkaale vivaah aghi nai shriimaan biraamii bhaeko bataain
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_9407_1014345868.wav|17|yas jillaalaaii kaaliikott pani bhaninthyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_6379008467.wav|9|aarmiikai laalabahaadur thaapaa dosro ra epiephakaa naaraayann thaapaa tesro bhae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3154_2192005983.wav|5|kaatthamaaddaum vishvavidyaalay ucca maadhyaamik vidyaalayale laamo samayadekhi aaphno kabjaamaa raakheko sthaan gumaaeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_5716140709.wav|15|nuaakaattaa dvipamaa boline asttronesiyaalii bhaassaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_1118947558.wav|1|bhaaratiiy kamyunistta paarttii janataadal es muslim lig keral kaanggres em keral kaanggres je aadi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_5511884812.wav|7|amerikii abhinetaa ra samgiitakaar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_7516045693.wav|9|polis baaskettabal khelaaddii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_4255776847.wav|7|ma kehii varssa agaaddisamma phrenddas kaatthamaaddaummaa kaam garthem tar acaanak choddnu paryo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_2289266069.wav|9|amerikii vyavasaayii ra raajaniitijnya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_6181612980.wav|6|tehraum shataabdiiko antatir samaapta bhayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_9004197512.wav|6|unii hocaa thie juttaamaa caar incako hil raakhna lagaaumthe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0883_6745833485.wav|16|ekapattak rasiyaako masko kimale lagjarii relakaarabaattai yaatraa garekaa thie
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_1535070415.wav|9|daamodar kunndda nepaalako pashcimaanycal vikaas kssetrako dhaulaagirii anycalako mustaang jillaamaa avasthit hindu dharmaavalambiiharuuko nikai mahattvapuurnna maanine kunndda ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_4518604406.wav|1|lasiikaa granthii mahaamaarii prakriyaa duii jaatikaa krtak musaa lokharke aadimaa aadhaarit bhaeko paaiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_0535318929.wav|11|calacitramaa tulasii ghimire mithilaa sharmaa ashok sharmaalagaayatako abhinay cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_0223462553.wav|6|yasako paaniiko kaarann duvai raajyaharuumaa vivaad
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_2586374559.wav|9|bihiibaar suru hune saadhaarann varssa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6587_1357551544.wav|13|nesanavaaidd myucual insyorensa kam euttaa raamro ra tthulo bimaa kampanii ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_8949548380.wav|1|san unnais say pacaasiiko surumaa janmiekaa unalaaii baalyakaalamaa baabuko uttaraadhikaariikaa ruupamaa herieko thien
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_3911026041.wav|9|kiccak vadhako utkhananamaa puraataatvik saamaagrii phelaa parekole euttaa sabhyataako vinaas arko sabhyataako vikaas bhaeko bataaincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_4272781089.wav|9|raam haarddaveyar endda mesinarii saplaaryasale nirmaann sambandhii aavashyak sabai khaale saamaan bikrii garcha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_1562490176.wav|15|ittaaliyan punaruddhaar maanavataavaadii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_6322353836.wav|9|dhanaraaj regmiiko janma suduurapashcim nepaalako bajhaang jillaamaa bhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_0988245523.wav|9|naitik kathaa saahityamaa yasako sthaan pahilo maanincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_8467123668.wav|6|sthaaniiy biyar vishessataa jarmaniiko kolonako piisaa cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_2648001614.wav|9|ilekttronaharuu prottanaharuu ra nyuttronaharuu bhandaa anya kehii sangkucit bhaeko taaraako prakaar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3997_0303657102.wav|8|dharaan nepaalako puraanaa saharamadhye euttaa ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_7353901615.wav|1|tyatibelaasamma marekaa janaavaraharuu yatratatra phailiekaa hune jahaamtaahaam maanav parajiiviharuu hune avasthaa ekadamai saamaanya thiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_3415443618.wav|9|ttisttaa nadiimaa romaancak khel raaphttingako suruaat garieko
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_8818291655.wav|7|debaghaattabaatt pahaaddii bhuubhaag chicalcha ra samathar kssetramaa bahan thaalcha yasalaaii naaraayannii bhanincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_2972228580.wav|14|krssttii mainaalii nepaalii calacitra kssetrako ek carcit kalaakaar hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_6748541699.wav|14|vidyut baataciitako laagi yugman nirantar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_8648955519.wav|15|phraansako liyonako pramukh pulaharuuko suucii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_1278709218.wav|14|harinaa saaudale gaaeko yo giit sunna nabirsinuholaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_6330432420.wav|15|ttarkii mahilaa madhyam durii dhaavak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_6362420036.wav|6|rasiyaako kaalininagraadd oblaasttamaa raheko nagar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6587_5033195557.wav|13|phreddddii myaakako vaarssik prativedan aae lagatai yasako seyar baddheko thiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_8051234426.wav|7|phraansako aubemaa raheko basobaas
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_6024469911.wav|9|gamgii balaayarako janma suduurapashcim nepaalako ddottii jillaamaa bhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_7022722399.wav|14|ttventtipharstta sencurii phaksa inkale gareko sevaa prashamsaa yogya cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_3975106825.wav|14|kyubaako maataanjaas praantamaa bhaeko nagar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_7975717296.wav|1|riyaad saaudii arabako sabai bhandaa tthuulo sahar ra yas muluukako raajadhaanii ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_6286172542.wav|11|kolambiyaa vishvavidyaalayale dine antararaassttriy patrakaaritaa puraskaar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_2890130880.wav|9|phraanselii haasyakalaakaar ra abhinetaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_0225459997.wav|1|yas jillaamaa samashitossnnadekhi shitossnna haavaapaanii paaincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0258_0461984530.wav|3|ddigraa deviiko janma suduurapashcim nepaalako bajhaang jillaamaa bhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_0712459277.wav|9|kaatthamaaddaum havaaimaargabaatt pandhra minettako duuriimaa avasthit tathaa simaraa vimaanasthalabaatt atyanta najikaiko sahar viiraganyja ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_2636020806.wav|1|maile samaajakalyaannako laagi saahitya sevaako laagi kasailaaii khusii paarna kehii lekheko chain
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_9590537696.wav|15|ddaattaa bhannddaarann yantra
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3154_0542807742.wav|5|ekson mobaailale bajaarako tthuul amsh ogattisakeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6587_3313159454.wav|13|vittiiy kssetramaa euttaa naam pruddensiyal phaainaansiel inka pani ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6587_1496225299.wav|13|nesanal esosiesan aph hom bilddarsa enaeecabii ra velsa phaargo haaujingamaarkentta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_6500238641.wav|14|narvejiiyaalii alpaain ski resar ra ttibhii prastotaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_6942887349.wav|7|amerikii gaayak giit lekhak samgiitakaar ra rekardding kalaakaar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_6809140675.wav|7|ddac ddraaphtta khelaaddii ra puurva raajanetaa vishva cyaampiyan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_0459263719.wav|11|jarman abhinetrii kyaabarett pradarshak ra gaayak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_1538398867.wav|7|unnaais say paccapannamaa kolambiyaalii phuttabal vyaavasaayikako pahilo shrennii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_9558302314.wav|14|niimaa rumbaa nepaalii calacitra kssetrako ek carcit naayak tathaa pap gaayak hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_7146910945.wav|9|baharin madhyam durii dhaavak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_5687_8565240146.wav|10|baal apaangga aspataalale dherai apaangga baalabaalikaaharuulaaii pradaan gareko sevaale uniiharuuko jiivanayaapanamaa sajilo bhaeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_5752266752.wav|6|paamc pokharii nepaalako sindhupaalcok jillaamaa avasthit cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_1874267170.wav|14|yasako mukhyaalay bhiyanaa asttriyaamaa cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_0104345541.wav|7|nyu bheraaittii buksa endda sttesanariimaa pustak tathaa anya shaikssik saamagriikaa saathai baalabaalikaakaa laagi caahine dherai vastuharuu paaincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_4596578175.wav|15|jarmaniiko saksoniiko sahar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6587_1224503188.wav|13|aaeko ek mahinaa pachi nai hom ddipomaa selsa esosiyattako kaam suru garem
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_0633129103.wav|14|ittaalelii citrakaar ra aarkittektta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_6279153758.wav|7|tyobhandaa pahile nai lingkattrii bajaaramaa aaisakeko thiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_1210926555.wav|1|katipayale uhaam unnaais say ekacaalisamaa saaiberiyaamaa janmiekaa bhaner pani bhanincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_1605678105.wav|15|jarmaniimaa raheko nadii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_0138272667.wav|7|saphttanepale aaj aaphno nayaam vebasaaitt sarvasaadhaarannamaa prastut gareko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_7738562180.wav|14|mero paricay baljit nath yogii khanikhol aatth surkhet haal malesiyaamaa jindagiikaa laagi sanggharssa garnuparcha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_0849854974.wav|14|unale duii hajaar dasamaa jarjiyaamaa suru hune sttarsa tturnaamenttamaa bhaag lin thaale
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_4792342171.wav|9|panycakanyaa madhyamaanycal vikaas kssetra naaraayannii anycalako citavan jillaamaa avasthit gaamu vikaas samiti
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_0558451960.wav|1|yasabhitra kativattaa kathaa spassttasamg chuttyaaun gaahro
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_8487230121.wav|7|sigmaa ucca maadhyamik vidyaalayamaa vidyaarthiiko sangkhyaabhandaa shikssakako sangkhyaa dherai cha bhanne hallaa calyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3997_4606029641.wav|8|raamechaap jillaa aspataalamaa haalasaalai karib say shaiyaa thap garieko thiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_2910899168.wav|1|arjenttinaako raajadhaanii sahar byunarsa aayarsamaa janmiekaa jarjamaariyolaaii san unnaais say unaansattariimaa pujaariiko ruupamaa niyukta garieko thiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_5782981658.wav|7|jarmaniiko uttar raain vesttapheliyaakako ddyuranamaa raheko jillaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_1208267950.wav|7|rusii gannatantra ra sobhiyat sangghamaa raheko sarakaarii samsthaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_4282359735.wav|14|rekhaa thaapaa gaurii malla susmitaa kaarkiidekhi priyaa rijaal jastaa naayikaaharuuko daampatya jiivanakaa paanaaharuu calacitrakaa pardaamaa dekhe jasto sukhad chain
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3154_8967733276.wav|5|ttikaapur bahumukhii kyaampas kailaalii jillaamaa raheko euttaa kyaampas ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2027_6058780194.wav|0|yas varssadekhi yunaaittedd akaaddemiile tribhuvan vishvavidyaalayabaatt sambandhan praapta gareko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2027_8813767402.wav|0|mahendranagar nepaalako pashcimaanycal vikaas kssetramaa parne euttaa mahattvapuurnna naakaa saathai kssetriiy sahar ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_2288897591.wav|7|imyaajin veb solusanale pradaan garekaa dherai kuraale patrapatrikaa nikaalne kaaryamaa sajilo tulyaaeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_6394715456.wav|7|pilgrimsa ttventtiphor restturentta ra baarale caubisai ghanttaa sevaa pradaan gardai aaeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_6768855047.wav|7|haalako baaglunggako gvaalii caurasamma dakssinnamaa dhurkottasamma ra puurvamaa musikott raajyasamma phailieko thiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_9817004063.wav|6|kanggoko lokataantrik gannatantrako mudraa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_9407_4708385865.wav|17|panycakule daang daang jillaako gaaum vikaas samiti
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_0029376226.wav|7|calacitramaa viraaj bhatttta naayak rahe pani romaanttik naayakakaa ruupamaa aaryan sigdel pahilo pattak tthulo pardaamaa dekhaa pardaichan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_5687_2412241353.wav|10|yinii biraattanagarakaa dhaniimaanii maanis hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_5509276340.wav|7|ddhaaddamaa bokine kapaddaako boraa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_0208281988.wav|11|phraanselii havaaii caalak aavisskaarak ra injiniyar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6587_5644705952.wav|13|sisko nigamakaa pramukh prabandhakale raajinaamaa diepachi samasyaa aayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_4446653494.wav|7|vaasingattan ddisiiko uccavrddhi bhavan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_6786807069.wav|14|abhinetrii shriishaa kaarkii ra abhinetrii manissaa koiraalaako jiivaniibaatt sinemaa prabhaavit nahune unale daabii gare
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_9407_0613415585.wav|17|karnnaalii jillaako madhya bhuubhaag humdai uttarabaatt dakssinnatarpha bageko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_8622545561.wav|15|ttiim khel ragbii phuttabalako kodd
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6587_2381108496.wav|13|amerisorsabargan euttaa prakhyaat kampanii ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_2946235127.wav|15|maarka millaradvaaraa likhit haasya pustak siimit shrrmkhalaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_5839248117.wav|1|yii sabai aadhaarabaatt mahissapaal vamshakaa antim raajaa bhuvan simhalaaii paraajit kiraamtaharuule aaphno raajya sthaapanaa gareko dekhincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_0456476554.wav|1|vishva vissayak mantriistariiy antarraassttriy sammelanamaa bhaag lin banglaadeshako raajadhaanii ddhaakaa prasthaan garnuaghi tribhuvan antaraassttriy vimaanasthalamaa sanycaarakarmii bic unale so kuraa bataae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_1380753497.wav|6|debaghaattabaatt pahaaddii bhuubhaag chicalcha ra bahan thaalcha yasalaaii naaraayannii bhanincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_1988178635.wav|15|saarvajanik parivahan pradaan garna ddungaako prayog
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_9233285234.wav|9|om vikram bisstta nepaalii aadhunik giitakaa lokapriy gaayak hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_2177646820.wav|1|sindhupaalcokako nirvaacan kssetra nambar tiin antargat parne yas gaavis jillaako uttarapashcim bhuubhaagamaa pardach
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_9798842871.wav|9|amerikii abhinetrii moddel ra gaayikaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_6727338945.wav|14|yurop ra esiyaa mahaadvipiiy tthulo jaminako bhaagasamgai miler raheko
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_4581779195.wav|6|brittis jaj giitakaar ra samgiitakaar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_0872249457.wav|7|duii hajaar aatthako amerikii eksan thrillar philim
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_2343168829.wav|14|ussaa rajak janma unnaais say pacaasii nepaalii moddel tathaa naayikaa hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_4936747249.wav|15|alpasamkhyak raajaniitik paarttii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_7594482762.wav|6|panycamii bajaar siddhithumkaa ilaam jillaamaa vyapaarik kendra ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_8664466780.wav|9|addiyo ddaattaa sangkucan pravidhi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_2997848038.wav|6|aadhunik jiivanashailii aadhunik khelaharuukaa kaarann lok kriiddaaharuu lop bhaisakekaa chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_8882222908.wav|9|unnaais say nabbemaa kolambiyaalii phuttabal vyaavasaayikako pahilo shrennii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_7960099494.wav|6|dakssinn rusamaa raheko sahar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6587_8915373320.wav|13|kaarddinal heltha kendramaa biraamiiko sadhaim bhidd rahancha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_4461704085.wav|1|saat say antthaanabbemaa nirmaann puraa bhaeko darabaar nirmaannako tiin say varssapachi tatkaaliin nepaal upatyakaamaa bhayaanak bhuukampale bhatkiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_3122821499.wav|15|logaaridamik ekaai bhautik maatraako anupaat vyakta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_8400325336.wav|7|jemsa greddedd inglis meddiyam skul lalitapurako dhaapaakhelamaa avasthit cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_7916985660.wav|9|umesh heyar ddresar sailunamaa vibhinna suvidhaaharuu suru gariekaa chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_3935169881.wav|14|gaiyaa restturentta ra kaphii sapale tyas kssetrakaa pracalit kaphaharuuko svaad aaphnaa graahakaharuulaaii pradaan gardach
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_0314559048.wav|9|ddenis lekhak parii kathaa lekhak ra kavi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_1561356048.wav|6|dhanudhar purussalaaii pani koalii bhanincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_9450977405.wav|9|khelaunaa pangtimaa enimesan ttelibhijan shrrmkhalaamaa aadhaarit
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_0763662476.wav|7|roman sttoik daarshanik karmacaarii ra naattakakaar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_4273865064.wav|1|kaalegaamddaa achaam jillaamaa avasthit gaaum vikaas samiti
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_8245842517.wav|1|nayaam dilliilaaii aphagaanistaanamaa aaphno upasthiti thap baliyo paarna prerit gariraheko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_6982404324.wav|11|spenii citrakaar ra mudrann banaaune vyakti ek karodd caurahattar laakh ekasatttthii hajaar aatth say atttthaais
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_1590032422.wav|14|uttar amerikaamaa raheko parvatamaa shrennii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3997_5611658734.wav|8|ttaaimsa skvaayar malale aaphnaa graahakaharuulaaii vishess suvidhaa dine janaaeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_9199393687.wav|1|mantriile raajakumaaraharuulaaii vissnnu sharmaako jimmaa lagaaun raajaalaaii sallaah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_4775131288.wav|11|ciliimaa raheko sahar ra samudaay
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_9709151348.wav|14|manggalavaar suru hune saadhaarann varssa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_2327087649.wav|6|baalttik saagaramaa raheko taajaa paanii dah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_2730850248.wav|9|samyukta raajya amerikaako kyaaliphorniyaako las enjalasamaa raheko nijii anusandhaan vishvavidyaalay
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_6224843014.wav|9|brittis mahilaa caar say mittar olampik daudd
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_5823542172.wav|1|ttelsa aph ittaalii lekhak tathaa upanyaasakaar myaaksim
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_8540994647.wav|1|saamaanyatah bajaaramaa upalabdha pamcatantra kathaakaa pustakaharuumaa caaliis dekhi asii vattaasamma kathaa paainchan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_6280377443.wav|9|ardhacaalak upakarann vistaar ra ilekttronik sangket ra bijulii svic garna prayog garincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_4979236297.wav|1|itihaasavidle licchavi kaalako praarambha caar say iishaapuurva maannuparne tarka raakhekaa chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_2162495145.wav|15|pratham shataabdiimaa sthaapit adaityavaad sambandhii dharma
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_9575830512.wav|6|katipayale kiraamtaharuuko udgamasthal aphrikaalaaii pani maanekaa paaincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_1971629152.wav|6|ciinako saanaksiimaa raheko praanta samatal sahar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_5260978904.wav|14|suniil thaapaa nepaalii calacitra kssetrako ek carcit abhinetaa hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_0233938126.wav|1|keralakaa adhikaamsh maanisako maatrbhaassaa malayaalam cha yo dravidd parivaarako pramukh bhaassaa ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_7390775219.wav|15|vyaavasaayik ittaaliyan sanggha phuttabal ra krikett klab
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0883_8723568174.wav|16|masaajiragol vaa masaajir taal ajarabaijaanako baaku najik kvaaraaddag raayonamaa parne nunilo paaniiko taal ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_4117703500.wav|14|philma nirdeshak naaraayann puriikaa choraa samyam purii yasakaa pratinidhi paatra hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3154_5266792699.wav|5|yahaamko bisahajaarii taal vishva prasiddha simasaar kssetra samet ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_4230818121.wav|11|alpaain ski resar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_3636838174.wav|1|phesan paarakhii unii phesanako kssetramaa ek aaikan thie
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_9501826337.wav|15|oisiiko devataa kyaamabraaiiko devataa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_2246042046.wav|1|yasto avasthaamaa vishessajnyalaaii dekhaanuhos sahii khaalako krim lagaaunuparcha ghaamabaatt bacne upaay apanaaunu parcha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_0356947146.wav|9|uttaramaa solukhumbu jillaa dakssinnamaa udayapur ra sindhulii jillaasamg joddieko yas jillaalaaii pashcimamaa raamechaap jillaasamg likhuu nadiile chuttyaaeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_6109436534.wav|1|saahityako praarambhik avasthaa paricay dine kaavya grantha raamacaritam ho yasalaaii tehraum shataabdiimaa lekhieko bataaincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_3743487292.wav|14|naayak bhuvan kesiikii puurvapatnii susmitaa kesii pani bhaaratabaattai aaekii hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_6723698339.wav|11|nyujiilyaandda philma nirdeshak nirmaataa abhinetaa ra pattakathaa lekhak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_6565054275.wav|9|tyahii muddaako taarekh khepna unii kaatthamaaddaum aaer aaphnai gaaumkaa kaptaan tejabahaadur kaarkiiko gharamaa paahunaa baner kehii din basechan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_8269284289.wav|9|yo patrikaako prakaashak pachyaurii prakaashan lohaakottii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_3473973824.wav|6|sobhiyat sangghamaa raheko gannatantra unnaais say baais dekhi unnaais say bayaanabbe samma ra tyas pachi saarvabhaum raajya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_2902206140.wav|6|ciniyaam sahar ra tibbatako raajadhaanii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2139_4304625926.wav|2|kaamanaa antarraassttriy kalej yas kssetrako nikai prabhaavashaalii kalej ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_5401272194.wav|1|yasako prakaashan daarjilingamaa traimaasik ruupamaa daii hajaar atttthaaisamaa prakaashit bhaeko thiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_8728617166.wav|14|unnaais say tripannamaa kolambiyaalii phuttabal vyaavasaayikako pahilo shrennii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_2627445287.wav|9|euttaa shossit piiddit russtta abhivyaktilaaii tapaaiim sunnos
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_1284228568.wav|9|jarmaniiko uttar raainavesttapheliyaa raheko jillaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_2715493135.wav|6|ittaaliyan ucca uphrane vyakti
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0258_9132039389.wav|3|gaayak raamakrssnna ddhakaal yinalaaii aaphno gaddaphaadar maandachan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_1465070313.wav|6|himaalayan vhaaitt haaus antarraassttriy ucca maadhyamik vidyaalayale yasapaaliko baaskettabal ttraphii jiteko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_3042205946.wav|9|vishess yaantrikataa bhaeko ra khagoliiy jaanakaarii pradarshan garne ghaddii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_5687_7262327008.wav|10|viirendra praharii aspataalamaa bhavan tathaa upakarannaharuuko thap garne kuraa calirahekaa belaamaa yo kuraa baahir aaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_5460988013.wav|14|yaadavale bhaaratako gujaraatasthit saradaar pattel yunibharsittibaatt bii ra thaailyaanddako esiyan instticyutt aph tteknolojiibaatt emaii garnubhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_5775264068.wav|9|jarmaniiko jillaamaa raheko nagarapaalikaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_4143561318.wav|9|ekiikrt kssetriiy cip nihit kampyuttar prosesar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_6790520596.wav|9|jasamaa limbuvaan bhuumimaathi limbu jaatiko maatra adhikaar raheko thiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_0763409147.wav|14|yas philmakaa nirdeshak rameshakumaar raaii nimaartaa suuryaa jiisii hiro diliip raayamaajhii ra hiroin anu shaah hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_6181977750.wav|9|ciliiko prashaasanik vibhaajan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0883_0523982617.wav|16|enttaalyaa saharako puurvapatttti raheko ramanniiy kssetra nai yasako tthuulo srot ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_5687_9381893880.wav|10|bhaaratamaa yo nadiimaa anya sahaayak nadiiharuu tyahaam misinchan ra mahaakaalii nadiilaaii bhaaratamaa shaaradaa nadii bhanincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_6731205801.wav|6|binaa ropave yahaam jaan ek dinako samay laagcha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_3949720655.wav|6|yo ttongaa samudrii senaako phlaagasip
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_5687_2179800725.wav|10|maile cej kyaarolinako baaremaa dherai pahile suneko thiem tar yahaam kahilyai aaeko thiinam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_0516669352.wav|1|sabai vidvaan yo maandachan bhaassaasambandhii parivartanako kaarannale malayaalam utpati bhaeko
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_6345596143.wav|6|amerikii ryaapar ra abhinetaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_5382307140.wav|7|pratiyogitaa laagi kaarako daudd sambandhit mottarakhel
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_8524342476.wav|9|shrii kaalincok ucca maadhyamik vidyaalay dolakhaa jillaako bhimeshvar nagarapaalikaamaa pardach
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_8677691953.wav|14|aaienattiel ephastton inkale aaphnaa karmacaariiharuulaaii raamro munaaph vitarann gareko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_9683958153.wav|14|udit naaraayann jhaa euttaa prasiddha nepaalii paarshva gaayak hunuhuncha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0283_5326639197.wav|4|gaaiighaattamaa avasthit triyog ucca maadhyamik vidyaalayale shikssaa kssetramaa gareko yogadaanako kadar garde kaaryakramako aayojanaa gariyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_7575295537.wav|14|maunnaais say unaansattariimaa beijing gaekaa bosale ciniyaam kamyunisstta paarttiibaatt nau bumde sujhaav naksalavaadii aandolanako itihaasamaa ullekhaniiy cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0258_3000024878.wav|3|bidyaa timilsinaako janma suduurapashcim nepaalako baajuraa jillaamaa bhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_7419844979.wav|6|mahaakaalii aamkhaa aspataalale dherai laamo samay dekhi janasaadhaarannako sevaa gardai aaeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_3117700528.wav|6|ciliiko kansepsiyan praantamaa raheko nadii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_8122250189.wav|9|pachi lokagaayak dharmaraaj thaapaako sahayogale unale isvii samvat unnaais say paisatttthii dekhi reddiyo nepaalamaa gaayakako ruupamaa sevaa suru gare
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_5792891596.wav|9|uhaam philmapremii thie uhaamko pustakaalayamaa hajaaravattaa haliudd philmakaa cakkaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_2300280975.wav|9|viipii koiraalaa svaasthya vijnyaan pratisstthaan puurvaanycalako dharaanamaa avasthit cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_4909848859.wav|1|yaatayaat vidyutikarann aadiko vikaasale gardaa yas kssetrakaa janataako jiivanastaramaa sudhaar humdai gaeko paaincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_2868510042.wav|9|raajaa jnyaanendra shaahale daaijo bakas dieko gharajaggaa jabarajastii sarakaarii ttrasttamaa raakhieko bhandai puurvaadhiraajakumaarii prerannaaraajyalakssmii simh nyaayakaa laagi sarvocca adaalat pugin
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_5435738711.wav|15|puraano phraanselii kavi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_5756420394.wav|1|uhaamlaaii camatkaarik vyaktitvako ruupamaa line garincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_3801556998.wav|6|yahaam euttaa durgaa bhettieko thiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_8757478831.wav|1|kaaliibamgaa gamgaanagar jillaamaa suratagaddhakaa nikatt avasthit cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_5154065910.wav|9|tilico taal vishvako sabaibhandaa baddhii ucaaimaa raheko taalaharuumadhyeko ek ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_4333942251.wav|14|brittis upabhoktaa ilekttraniksa kampanii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_3400996335.wav|1|yasalaaii anggrejiimaa paaidd harbin bhanincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_3636794216.wav|14|pashuharuuko laagi sharannako sthaan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_4403604647.wav|9|lakssmii paaliikaa deuddaa giitaharuu nikai lokapriy chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_2441033927.wav|14|pahilo dharmayuddha ko kronislar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_1428822528.wav|6|shaakya kiraanaa pasalamaa sabaikuraa paaincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_1073747162.wav|7|raajaniitik ikaai ko praathamik sahar desh raajya kaaunttii aadi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_3697427797.wav|14|pepsiko bajaar vishvavyaapii bhaekaa kaarannale yasalekokaakolaasamg pratispardhaa garna sakeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3997_5871870645.wav|8|yas pokhariiko nikaasako paanii cepe nadii banii gorkhaa ra lamajungako simaanaa chuttyaaeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_7421635821.wav|9|spenamaa raheko svaayatta samudaay
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_9407_9646005575.wav|17|kaalingpongamaa dherai raamraa restturentta chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_6539885256.wav|1|kaaliikatt vishvavidyaalay bhaaratako raajya keralako kaaliikattamaa avasthit euttaa vishvavidyaalay ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_0079907626.wav|15|ittaaliyan muurtikaar citrakaar aarkittektta ra kavi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_3751777393.wav|9|slobheniyaaii pashushaastrii ra paaristhitik shaastrii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_0861251147.wav|6|yasako lambaaii aatthasay paamc kilomittar cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_2641669367.wav|9|cubhaas gannatantrako raajadhaaniiko kendriiy rusamaa raheko sahar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_1839688913.wav|9|sthaapanaa kaaladekhi nai saipaal ekeddemiile raassttriy tathaa sthaaniiy sipalaaii baddhaavaa dimdai aaeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_4918834347.wav|11|sevaanivrtta porcugaalii phuttabal khelaaddii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_3691524514.wav|1|pratinidhi sabhaakaa laagi yas jillaamaa tiin nirvaacan kssetra chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_6375493076.wav|9|unnaais say triyaasiiko haasya byangya harar philma
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_2672412961.wav|1|sthaayii himarekhaamaathi anavarat hiumkaa prakriyaa yas kssetrako tallo siimaanta bhuubhaagamaa asthaayii hiumkaa prakriyaa kendrit rahanchan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_5687_3296740400.wav|10|tri vi shikssann aspataalabaatt utpaadan bhaekaa janashaktilaaii deshabhari paricaalan garnuparnemaa yaso nabhai sabai saharii kssetramai kendrit bhaekaa chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_7828553259.wav|14|homiyopyaathik aspataal lalitapurale aaphno sevaa pradaan gareko duii dashak bhaisakeko kuraa janaaeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_5431604112.wav|14|baahraum shataabdiikaa ttrubeddar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_5589893023.wav|6|paakistaanako sindha praantako euttaa sthal ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_9521503901.wav|9|jaapaanii myaangaa shrrngkhalaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_7118697655.wav|7|dakssinnii sviddenako sahar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_1572601480.wav|6|tthamel sahar nepaalako raajadhaanii kaatthamaaddaummaa avasthit paryattakiiy sthal ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_1913044934.wav|6|ittaaliyan sanggha phuttabal klab
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_7055299009.wav|7|vikimiddiyaa pariyojanaako mukhya prssttha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_0459069016.wav|15|paramparaa ra bagaimcaako shailii ra vishva sampadaa suucii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_6042656577.wav|11|rusako prashaasanik kendramaa raheko sahar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_6298591264.wav|15|jarmaniiko kolonako sahar kvaattar nambar caar say tiin
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_4513824476.wav|6|phraanselii atiyathaarthavaadii kalaakaar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_2708621810.wav|9|nepaalii bhaassaakaa nibandha lekhak tathaa madan puraskaar pustakaalayakaa samsthaapak diikssitale banaaras hindu vishvavidyaalayabaatt snaatakaaepaadhi praapta garekaa chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0258_7843539751.wav|3|nandasimh dhaamiiko janma suduurapashcim nepaalako ddottii jillaamaa bhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_7277032953.wav|15|paitaalisaum ephaaaies alpaain ski vishva kap mausam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_5304715258.wav|1|ullekh garieko lakssann tighraako kaapamaa ghaamttii kaakhiimaa niskane ghaau ho phuttepachi piip ragat bagne garcha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_8384971968.wav|9|siddhi gannesh ilekttrik endda haarddaveyarale vibhinna kisimakaa nirmaann saamagriiharuuko bikrii vitarann gardai aaekaa chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_9519946134.wav|7|yuttisiiko aatth pattak aphasett sucak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3997_4457887714.wav|8|samyukta arab imirettsako raajadhaanii sahar dubaai ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_9407_7860795301.wav|17|debaghaattabaatt pahaaddii bhuubhaagamaa chicaler bahan thaalcha yasalaaii naaraayannii bhanincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_6059311831.wav|7|paaraasittoidd janaavaraharuuko phaailam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_0212162804.wav|9|hiraalaal taamraakaar ek naamud gaayak tathaa sanggiitakaar hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_4969960334.wav|7|ddiska bhannddaarann maadhyam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_9426216742.wav|1|uttar amerikaamaa prati varssa lagabhag tiin say paccis baccaaharuu prabhaavit hunchan samayamai thaahaa paaemaa pancaanabbe pratishatako upacaar garna sakincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_9500168444.wav|9|ittaaliiko milaanamaa raheko giitii naattya ghar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_5426389633.wav|7|sagaramaathaa samsaarako sabaibhandaa aglo cucuro nepaalako solukhumbu jillaako khumjungga gaavisamaa parcha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_5307317292.wav|1|sautenii daai unakaa daai jolalaaii uttaraadhikaariikaa ruupamaa vishlessakale herekaa thie
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_3349081644.wav|9|amerikii sainya naattak vaa praharii prakriyaagat kaalpanik ttelibhijan shrrmkhalaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0258_2907711643.wav|3|gopaal bisttako janma suduurapashcim nepaalako baitaddii jillaamaa bhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_4767440530.wav|9|candrabahaadur thaapaako janma suduurapashcim nepaalako bajhaang jillaamaa bhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0883_3724821053.wav|16|yahaamko jimnaasttsalaaii tettiisaum ttyulitt pittar smaarak kap duii hajaar saat hanggeriimaa duii svarnna padak praapta bhaeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_6117297526.wav|9|skattis abhinetaa ra nirmaataa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_1825458924.wav|7|kendriiy spenamaa raheko nagarapaalikaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_1875717509.wav|9|calacitraharuuko vishlessann ra muulyaangkan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_7485154746.wav|1|uhaam pachillo samay aaphnaa buvaakaa videsh aantarik bhramannamaa samgai rahane garnubhaeko thiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0258_5936619539.wav|3|sabitaa bhattttale suduurapashcimakaa giitaharuu gaaekii chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_0489803071.wav|1|tanahum kssetrabaatt samvidhaan sabhaa sabhaasad nirvaacit gurung saalako aam cunaavamaa sohii kssetrabaatt vijayii hunubhaeko thiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_7766238939.wav|14|jevikaa kaarkii nepaalii calacitra kssetrako naayikaa tathaa moddal hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_5687_5730630925.wav|10|phaatt kaatthakaa karmacaariiharuulaaii samayamaa talab tathaa paarishramik din nasakdaa samasyaa dekhaa pareko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_6393951137.wav|6|amerikii philma ra ttelibhijan abhinetrii ra kanttripap gaayikaa giitakaar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_0030976353.wav|11|shriilangkaamaa raheko sahar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_7240187105.wav|1|maattokaa vibhinna prakaarakaa saanaatthulaa bhaamddaakumddaa praapta bhaekaa chan citraamk garieko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_0903595337.wav|7|phraansako liyonako romadvaaraa nirmit kendrit samracanaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_6330862393.wav|11|taapakramasamg vyaktigat kann staramaa shaariirik nirantarataa sambandhit uurjaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_7957_0754329079.wav|15|vishva yuddha uddaan ekkaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_9447623973.wav|9|kaabru euttaa himaalii parvatamaalaa ho jun uttarii nepaal ra bhaaratako simaanaamaa avasthit cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_9407_4546759808.wav|17|yo patrikaako prakaashak aadarsha kanyaa niketan haaiskul ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_2296423149.wav|1|braajilako gaaummaa basnemaariyaa aaphno bhaagya khojdai svittjaralyaandda pugche tar vaastavikataa socebhandaa pharak bhaepachi jenebhaamaa veshyaavrttimaa laagna pugche
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3154_4472632026.wav|5|senttiyaago saharabaatt suru bhaeko khel aaj samsaarabharii phailieko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_2327279343.wav|9|kolambiyaalii lekhak ra patrakaar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_6151409964.wav|14|lalit boharaako janma suduurapashcim nepaalako baajuraa jillaamaa bhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3154_9925599632.wav|5|dakokaakolaa kampanii aaj samsaarako ek vishaal kampanii bhaeko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_2639367134.wav|1|pacapannajhyaale darabaarako nirmaann raajaa bhuupatindra mallale nepaal samvat bayaasiimaa garekaa thie
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_5687_3206436855.wav|10|pramukh taalako ruupamaa phevaataal pandhra varga kimii beganaas taal das varga kimii ruupaataal ek varga kimii raheko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6834_1201806783.wav|14|maii atthaar say baahunnamaa anek belaayat aayaralyaandda mahaadviipiiy yurop uttarii amerikaa ra ciinakaa anek apravaasii asttreliyaa aae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_8423611413.wav|9|phoksomaa havaaiimaargaharuuko kasaai
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_3914303101.wav|6|maaddiiko pramukh hernalaayak tthaaumharuumadhye paac paannddav gupta vaas baseko kssetra someshvar kaaliikaa mandir hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_7753581863.wav|9|duii hajaar saatamaa bhaeko mrtyu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6329_6020853550.wav|11|samudrii kiraaharuuko phaailam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_8034655678.wav|1|suraudii kholaako besii maadii nadiiko besii modii nadiiko besii jillaakaa maidaanii bhaag hun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_4459809718.wav|1|aphagaanistaan vijayii upaadhisamgai pacaas hajaar amerikii ddalar bhaarat paccis nepaal ra maaldibhsalaaii das hajaar amerikii ddalar pradaan gariyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_3498602749.wav|9|jarmaniiko uttar raainavesttapheliyaako jillaamaa raheko nagar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0258_5963754000.wav|3|naaraayann bisttako janma suduurapashcim nepaalako bajhaang jillaamaa bhaeko ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_3837061999.wav|7|dakssinn pashcim phraansa ra uttarii spenamaa raheko nadii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_7455362678.wav|9|vinddojako laagi paatth sampaadak ra strot kodd sampaadak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_7603661286.wav|6|nepaal kredditt enndda kamarsa baingka limitteddale ddottiiko dipaayalamaa ettiem sevaa vistaar gareko cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_3869979792.wav|9|dakssinn aphrikaako pashcimii kepamaa raheko sahar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3154_3142270938.wav|5|krogarakaa dherai utpadanaharuu bajaaramaa aaekaa chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_8679284505.wav|6|milkii ve aakaashagamgaako taaraaharuu ekamaatra sabaibhandaa ujyaalo bhaner bujhincha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_5687_7970892197.wav|10|netaako aamkhaamaa cott laagdaa laayansa aamkhaa upacaar kendramaa upacaar garaaiyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_5054938752.wav|1|ahilesamma yahaam biis mantrimannddal baahra mukhyamantrii bhaekaa chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6587_9866347749.wav|13|pheddeksa karporesanako pramukh kaaryakaarinniiko surakssaamaa tthulo rakam kharcinu paryo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_1101290916.wav|9|kaalpanik rolapleing khel
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3997_5459742202.wav|8|jokhar taal suduurapashcimaanycal vikaas kssetrako kailaalii jillaa antargat parne ek ramanniiy taal ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_5059471688.wav|9|kiccakavadh vikaasako guruyojanaa tayaar garne kssetralaaii aantarik baahya paryattakako gantabya sthal banaaun sakine nishcit cha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_9500452194.wav|6|beninako kaupho vibhaagamaa raheko eronddismentta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_0546_7563454464.wav|9|gottihavaa kapilavastu jillaamaa parne euttaa gaaum vikaas samiti ho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_6587_1762361006.wav|13|phyaanniimaayakaa utpaadanaharuu bajaaramaa sajilai bikrii vitarann bhaekaa chan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_4304595755.wav|6|dosro vishvayuddha dekhi ittaaliyan laddaaku vimaan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3614_5616611467.wav|6|vidyaalay shikssak ra dharmashaastrii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_3960_1696957704.wav|7|spenamaa raheko ekal praanta svaayatta samudaay
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/nep_2099_8217204773.wav|1|jaatiko ruupamaa shabdako prayog shuklayajurved arthavaved vaalmiiki raamaayann mahaabhaaratakaa vibhinna prasanggamaa

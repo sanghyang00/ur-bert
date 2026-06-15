@@ -1,0 +1,50 @@
+log_dir: "checkpoints"
+mixed_precision: "bf16"                    # "fp16", "bf16", "no"
+batch_size: 64                             # 64 per gpu
+gradient_accumulation_steps: 16             # 16 * 64 = 1024; 8 for 2 GPUs
+save_interval: 10000                       
+log_interval: 50
+num_steps: 150000
+
+text_mlm_on: true                          # TextMLM task (uroman MLM)
+audio_distill_on: false                     # AudioDistill task
+
+dataset:
+  data_dir: "data"
+  romanized_column: "romanized transcription"  # uroman transcription col name
+  acoustic_column: "acoustic_id"               # Acoustic ID col name
+  max_seq_length: 512
+                      
+validation:
+  enabled: true                        
+  interval: 10000                      
+  data_dir: "data"                     
+  batch_size: 64
+
+model:
+  vocab_size: 30                          # uroman char-level vocab size 30
+  acoustic_vocab_size: 257                # Acoustic ID vocab size : candidate1: 256, candidate2: 512 + 0 for spacing
+  base_model: "bert-base-uncased"
+  hidden_size: 768
+  num_attention_heads: 12
+  intermediate_size: 3072
+  max_position_embeddings: 514
+  num_hidden_layers: 12
+  dropout: 0.1
+
+# Optimizer & Scheduler
+optimizer:
+  init_learning_rate: 0.000005                    #  5e-6
+  peak_learning_rate: 0.0001
+  final_learning_rate: 0.000005
+  weight_decay: 0.01
+  warmup_ratio: 0.1
+  hold_ratio: 0.5
+  w_text: 1.0
+  w_audio: 1.0                        
+
+wandb:
+  project: "URBERT (Interspeech2026)"
+  entity: null                                                
+
+seed: 42                                   

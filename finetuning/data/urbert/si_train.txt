@@ -1,0 +1,633 @@
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_7906646426.wav|7|mul davasvala nam matta ee siddiya daraa ganna baeri vunaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_1393061918.wav|11|naagarika sanvardana adikaariya gaalumuvadorapittiya paudgalika samaagamakatta badudiimatta kattayutu suudaanam karana ladii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_8058843174.wav|6|pukkusayeni ee purusayaa hatta mee adahasa aetivuuyee ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_1445348599.wav|4|gaayakayek vidihatta nam saehena hodayi kiyanna puluvan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_4626105367.wav|7|meya duka naeti kiriimen labannaa vu vimuktiyayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_9456062405.wav|6|haebaeyi oyaava ee aduren galavaaganna vidiyat mama dannavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_7306015716.wav|1|atipujaniiya kiribatgodda nyaanaananda svaamin vahanseetta maagee namaskaaraya veevaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_6121428367.wav|5|beljiyama haa nedarlanta deesasiimaavee avan halaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_4735509282.wav|5|ganudenuva ikmanin pahasuven haa aaraksaakaariiva sidukerunaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_7907738815.wav|9|haebaeyi putoo velada pola kiyana eka hadanna puluvan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_6364063835.wav|10|meevaa ekinekatta ven kara hadunaa gaeniima duskaraya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_6107916017.wav|3|meekatta saariputta maharahatan vahansee upamaavak vadaalaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_0945568681.wav|1|miitta kalin hittapu minissu meccara caattar unee nae neva
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_0259733284.wav|1|matpaen dumvaetti genvaa gannaa piyavaru sittiti
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_5494912525.wav|10|metaenadii venat aturu tarkayakut paenanaginavaa needa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_3139393731.wav|5|mul avastaaveedii vaeddi kalabalayak nomaetiva niiti sammata kara gannavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_9304867830.wav|0|selaan samaga iitta visaala venasak notibunat kamarsal baenkuvatta etaram milak aettee mandaeyi hitaa gannavat baehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_0777684888.wav|2|miitta vaeddiya minissuntta hitanna tava kopamana deeval tiyenavaada
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_7029336488.wav|0|mema stuupaya gajabaa raju visin devana varatta visaala kotta badavaa aeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_8961468609.wav|3|mee tattvayatta vaga kivayutu vannee da mavupiyanmaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_4087064079.wav|9|lankaavee buddaagamatta venat vikalpa tibuneema naeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_6885399424.wav|0|raavanaa rajatumaa gaena taram saaksi kisima rajatumek gaena sadahan nae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_6728712105.wav|11|mema aaraamaya pilibadava paehaedili kiriimak karanna
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_8029600446.wav|10|diivara aampanna haa boottttu enjin aanayanayeedii adaala baddu addu karanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_8751799377.wav|6|vaaddivelaa indaeddii vaaddivelaa innavaa kiyala daenagannavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_8732113728.wav|8|kokaa koolaa notibuna kaaleka tibuna hoda rasak kokaa koolaa pamanak bona ayatta daeneeda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_2408005668.wav|2|ubatta aemerikaavee puravaesibaavaya aran aemarikaanuvek venna puluvan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_8215214417.wav|8|meevaa bohooma saralava paehaedili karagata haeki deeval
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_3578473944.wav|10|nattal davase ekatta dekak ma aran aevilla tiyenne
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_2279157368.wav|9|perahaera tula ali aetuntta himivannee suviseesii staanayak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_6194067080.wav|4|mema vatta daa geya maeda stuupayaka nattabun dis veyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_5941293912.wav|11|etaen pattan desatiyak yanaturu kataabas kalee nae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_4157088146.wav|0|unanduven udyoogayen meevaayee nirata viya haeka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_4754043665.wav|0|mekii tattvaya rattak lesa kisi lesakin vat hitakara vuuvak novee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_7018445712.wav|2|ehi muulastaanaya svisttarlantayee jinivaa nuvara pihittaa aeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_3018591447.wav|9|ruupavaahinii nalu niliyan lesa hida gata yutu naeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_4631175806.wav|7|yudapittiyee bera vaadakayin horanaekaruvan haa nalaakaruvan viya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_4214967642.wav|11|pansal paarenut paaratta yaabada dola paarakin dekatta bedii tibee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_6767204904.wav|1|metanadii loku haeddayak hittinna loku baesmakatta batta daemmee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_3846552453.wav|2|inpasuva hikkadduvatta gos aettee miitta dina gananakatta peraya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_0390930205.wav|11|aeya gaayanayatta suviseesii haekiyaavak aeti silpiniyaka vana bava ovun iduraama pavasana deyaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_4964585344.wav|7|doddanvala pavulee saamaajikayu visin ehi himikaaritvaya darayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_0787987415.wav|5|mema dumriya enjima anganayee navataa tibuu dumriya pettttiya ehaa mehaa genayannaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_4512522063.wav|6|sikuraadaada tavat katandarayak balaaporottu vanna
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_9764401127.wav|11|aajanttinaavee buvanoos ayars hiidi metumaanan lovatta bihiviya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_1394382437.wav|6|lookaya tatu paridden daknaa hetema akampaa da veyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_5983855127.wav|0|aatma saktiya maenavin goddanaegena maasayak da vee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_7036331207.wav|5|burumayee raengun nuvarada kada kumaru vandaniiya mahaa deevaalayaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_7708203456.wav|9|yannat kusalatta maeli noviya yutu bavat ehi daekvenavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_4856684728.wav|3|kaabul nagaraya aefganistaanayee aganagaraya haa visaalatama nagaraya vana atara eya kaabul palaatee pihittaa aeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_6884104471.wav|5|ehet mee vanavitta mema guvantottupola baavita karannee flayi ddubaayi guvan seevayatta ayat ek yaanayak pamani
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_7671384662.wav|6|ek dahas navasiya asuu hatee pebaravaari hatara kavadda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_1541742979.wav|11|mee nisaa hetema saariirika veedanaa pamanak vidiyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_8427486285.wav|1|polonnaruvee gal vihaarayee hidi pilimaya mevaennaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_1922998178.wav|2|aayet itin digattama ehenam upasiraesi demu needa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_0691125093.wav|7|baediim monataram siyum daeyi teerum gata haekiya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_3200468726.wav|6|raekiiraksaa sambandayen subavaadii tattvayak pennum karayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_0511906574.wav|10|mul kaalayee mama edesa no balaa sittiimatta vaeyam kalemi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_9083362090.wav|5|mee lookayee devivaru minissu haemooma saepayatta kaematiyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_8684680327.wav|9|mokada gamee aya oya sambandayen viroodayak pala karanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_0713456696.wav|9|paenideni kattugastotta bas eka nam nodanii kakaa mahattayoo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_6597045746.wav|2|muuna hariyattama unmattakayekuge vagee velaa tibuna
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_2634715980.wav|6|haebaeyi mee kollaa tamilnaadduvee demala kollek
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_7614744824.wav|3|ebaevin sama ayitiin illaa sattan vaediima nispalaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_4843312551.wav|9|haadayaa cuulage deesapaalana tarahakaarayek vage matta peenne
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_9439951380.wav|8|yam artaya pinisa sadaa punynyan pavaddddati kiyana ladii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_3864108836.wav|7|mema panata gaenavat kisima deyak karana ekak naehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_2277161271.wav|11|mokada vaeradunot naeti vennee roogiyaagee jiivitee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_2493768429.wav|9|hittihaettiyee ovungen ayekugee atamitta saruvii tibina
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_5238976798.wav|8|issaravelaa haamuduruvantta garu karanna purudu veyan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_1886625053.wav|10|anek evaeni ma rattak vanuyee boliiviyaavayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_3234625842.wav|2|ivara venavaa kiyala daenenakotta poddi dukakut enavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_2467060992.wav|9|mokada mee manussayat ehema kenek venna puluvan hindaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_2249162087.wav|7|nissanka vijayaratna vivaaha vuuyee rabukkana valavvee niittaa duullaeva menaviya samaga ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_2693792562.wav|6|mona heetuvakattavat eka satektta viseesaka dakvandda baehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_0822363844.wav|11|avasaana vasayen vaeddeetta bohoma stutiyi kivvaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_6220500143.wav|9|rajamahaa vihaarastaanayee daayaka sabaavee sabaapati vayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_4246299478.wav|0|aadaayama satuttudaayaka mattttamaka pavatina atara aagamika kattayutu kerehi unanduvak dakvana davasaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_8684102059.wav|3|akilagee appacci haerunu kotta anek haemooma hittiyaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_3619134479.wav|4|metaenadii mee dennaa atara amanaapaya vaeddi velaa tiyanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_8978142607.wav|9|skanda kiyannee kaalaya haa avakaasaya tula pavatina dee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_3154512466.wav|0|meccara kal nobalaa sittiyee kaalaya hoyaaganna baeriva
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_6710117333.wav|9|movungee pahara heetuven darunu tuvaala siduvee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_7455360274.wav|3|api palaveni kottas dahaya gaena itaama saekavin matak karagammu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_7041832968.wav|3|in mii maessan paeni ganiidaeyi kiyaanam nodanimi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_5037140247.wav|1|mee madda vagurehi sittina taenaettaa maddehi ereyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_7669456196.wav|0|dagalannee naetuva idapan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_1065190155.wav|3|meyin rajatumaa ahasin vaeddi bava daena gattee ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_4633549482.wav|1|indiyaava samaharavitta sadaakaalika haturek vennat tibunaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_8770635976.wav|6|pudgala siksanayatta unvahansee labaadun avavaadaya mahatya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_9328316557.wav|11|mema jiiviin paeminena yaanaa pilibada yam paehaedili kiriimak kalahot
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_1628421309.wav|11|meekaa lankaa kitunuvan saha sinhalayan kottavana kattu levakannek
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_3424249530.wav|1|aegee daes kadulen tet vii tibunada aee nohaedduvaaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_1687488546.wav|8|paapayehi saha kusalayehi siduvana amutu paladimak da naeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_9837514932.wav|10|mehi dii baellatta da ballaatta men ma nidahasa himi ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_7767142350.wav|7|mee vaeddapilivela digattama karagena yanna hitenne naehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_7644203225.wav|11|poduvee anun venuven vaeddipura viyadam yedena vasaraki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_6118792471.wav|2|an keliya sadahaa suba naekatin henakada sittuvayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_6634420867.wav|6|moottar sayikal himiyantta epamana visaala mudalak vaeya karanna baehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_4090790944.wav|8|issaranam dakina dakina viccuurana kaema jaati kanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_4310038373.wav|6|ragapaemen yam kisi hoda deyak kiriima mudalatta vaddaa agayanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_6974906822.wav|8|seen voon visin daraa tibuu ema vaartaava muralidaran visin abibavana ladi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_8986516519.wav|11|meevaa haera mee sirurin kavadaavat suvadak hamannee naehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_0691721431.wav|2|mema siddaantaya anuva dukehi upata panyca upaadaanakkandayee upatayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_9881914233.wav|5|mulu jiivitee ma aetaem aya kaepa karannee ruupaya venuven
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_9921254975.wav|11|medaa saeree saakaccaavak vidiyatta neveyi needa pala karala tiyenne
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_8981275962.wav|11|mema pirisa looka aartikayee saelakiya yutu parimaavaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_5303263487.wav|9|svaamiinii man eya vikunannatta salpilatta geniccaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_1145258435.wav|5|muladii obee nirmaanaya apilivela vannatta puluvani
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_9383219515.wav|11|mee kiyannee eeka paarsavika aadarayak gaena venddoona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_1877425939.wav|10|upa viduhalpati nikam ledda daaganii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_4911457039.wav|0|upaadidaariintta pariganaka puhunuva
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_6481028570.wav|0|mula sittama aaraksaava vunee idiriyatta dena ekama tamayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_9031956683.wav|11|mema tiiranaya pilibada podu janataava tula paehaedili saakaccaavak tavamat godda naegii naehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_2274399168.wav|0|iiyee api kilinocciyee sitta peleyivalatta dumriya raegena giyaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_4651330355.wav|5|meccara kal velaavak naetuva tibbee mee kataava balanna
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_3279734120.wav|10|mema gamaneedii maranayatta patvana aya saedaehaetiyan atara viya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_9678229376.wav|0|menna mee vagee vidimat katikaavakin apa kaattat hadenna haekiyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_5737322470.wav|0|oogollantta kadavuru gahannat metana haekiyaava tiyenavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_7593401073.wav|5|anka ganitaya ugaenviimatta yana ohutta viija ganitaya vaeradii aeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_5035538213.wav|9|lookaya kerehi aeliimat gaettiimat dekama tarahava aetiviimehilaa balapaayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_0729525242.wav|1|jaatika lotaraeyi manddalayee niiroogaa lotaraeyi aleviyen lada adaayamen jaatika vakugaddu aramudalatta rupiyal koottiyaka mudalak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_2413242041.wav|3|mun iddam alla ganna maara plaen ekak dennee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_8001913076.wav|9|hari ohoma tava kiloomiittar hatak vitara issarahatta yamukoo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_7269780178.wav|0|meevaatta virudda janataava sanvidaanaya vii paa gaman giyaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_0000084396.wav|11|metana kanda naegala uddatta giyaama vatteema hodatta peenavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_1604796429.wav|10|meekee tiyena tahanam kalaapayatta kaattavat yanna baehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_0667638746.wav|9|mokada ohu deeva duutakavarayak lesa kuraanayee sadahan velaa tiyanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_9497535654.wav|2|mesee daknaa vidasun nuvanama yahapat daekiima veyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_1743187045.wav|10|mulinma aavee mamayi tava kollekuyi kelloo tun hatara denekuyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_3395968539.wav|3|pudgalayin siv denaku pamana paemina aetaeyi pariiksanavaladii heli vii aeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_7179153359.wav|2|mama kavadaavat saemsan mahattayaa hamba vendda giyee naehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_8335397693.wav|2|metaena di mama adahas karanne sinhala kaviin pilibadava
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_6416493457.wav|8|lookayama hinassavana karunu kiyana eka darma daanaya novee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_1919677435.wav|9|miitta amatarava itaaliyee paarlimeentuvee asun gaeniimattada ovun samat vii avasaanayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_5175819098.wav|11|aasiri ekee liyavunu mee kataavee magee anuvaadaya hiten kiyavamin innee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_2957072095.wav|7|aayuda puhunava naetat meya sidu karannee hamudaava visin
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_5478392200.wav|0|pasa tula ahitakara baekttiiriyaa diliira vardanaya viima
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_6196191419.wav|6|mokada jiip ratayakin pahasuvenma ee dura yanna puluvan veyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_9544689759.wav|9|rajatumaa eya veeluvanaaraamaya namin budurajaanan vahanseetta puujaa kalaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_5545272033.wav|0|sttaefardd moottars aayatanaya magin eya ittu kara diimatta maga saelaes vuuyee vimaladaasa pereeraaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_9704365016.wav|0|adahas dakvana yaaluvo haemoottamat bohoma stuutiyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_6487104375.wav|2|jaatika aganagaraya vanuyee jakartaa nuvarayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_1215841989.wav|5|rattaran sereppu dekak paavicci karapu kenek
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_4855879268.wav|1|meya indiyaavee miyanmaar dorattuva namaeti staanayee pihittaa aeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_0662909042.wav|10|obattama idiri lipiyakin hodan paehaedili kala haeki bava matta teerenava
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_6298695142.wav|3|mee karunuvalin obatta manaava vaettahennee kumak da
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_9782933972.wav|5|mema podu sankalpaya radaa pavatinnee kumak mata da
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_9943120712.wav|2|mee bava siyalu vicaarakayin buddimatun penvaa deti
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_3748554233.wav|10|aetulkoottttee handiya gaena maagee daeniima nam eccarama naehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_8967768400.wav|11|mema kiyaman tula aeti yataartaya vimasaa baeluva hot
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_0968916306.wav|3|kaeniyon viduli balaagaaraya pasugiya daa vasaa damaa aeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_4339758274.wav|4|aeya kelinma devram vihaarayatta yanna pittat vunaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_3633687792.wav|8|meeka sancaarayak vageema vandanaa gamanak vasayen hadunvannat pupavan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_5742734946.wav|5|paerani sen pansal dekaka lamaa sisun dedenek viya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_9753595406.wav|5|aatar sii klaark mahataa miitta kalakatta pera mee tatvaya gaena anaavaeki palakalaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_0544106533.wav|11|mun mee ada kaalee kuddaapola haamuduruvaru venna yanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_5270106644.wav|5|daatuun vahanseelaa taenpat kotta aeti karadduva gillee ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_3223517619.wav|7|illalaa dunnee naetnam eeka horakan karagena yanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_4637059138.wav|8|mokada kaarimika silpiintta adaala daenuma naeti nisaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_0127964130.wav|3|mee duka yaeyi hetema yataabuuta vasayen avabooda karaganiyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_6192665313.wav|1|metek kal hiru udaava siduvunee samanala kandatta tevarak namaskaara karamin
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_5352421809.wav|8|moritteeniyaava aahaara saepayuma atin duppat rattaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_6404597642.wav|9|miitta amatarava matpaen bootal visaala kandak lesa hoottalaya pittupasa goddagasaa tibee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_7055077656.wav|8|mee bavayatta aelum karanneet aasaa karanneet naehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_4838985833.wav|6|yaanaava toraturu evanne kaemaraavalin gattuvaa nemeyida
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_8104288206.wav|5|paramparaaven paramparaavatta kiyala dena evva koccara tiyanavada
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_0164870955.wav|10|issara gaman biman giyee payin naetnam karattayen
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_7925875570.wav|2|apee ii ddabliv adikaaram tuman gee sitivili pot kiya vuu matta etuman anaagaami vuuveku kiyaa situni
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_7098951172.wav|6|miitta amatarava minihaa anungee redi hoodana vaeddet karanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_2504124849.wav|10|meeka dannee mayiyokkaa gahak galavapu kenek tamayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_0535813044.wav|4|meya paevaetvennee visnu deevaala buumiyehi ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_1508828251.wav|2|mema gaastu nirnaya kara tibennee mona padanaminda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_2346694094.wav|8|haema deyinma anga sampuurna supiri nirmaanayak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_4900163700.wav|2|sambudurajaanan vahanseelaa pas namak pahala vena kalpayayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_1443100646.wav|2|agee kattahaddehi aviniscita baavayak gaevii tibini
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_1204673182.wav|2|metaram vayasatta gihinut mee taenaettaa vaedda karanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_8380884362.wav|1|mema dvitva gaatanayee pariiksana kattayutu mona aakaarayakada pavatinnee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_1110951919.wav|0|usaaviyakadii vuvat kiyana kaaranaavak oppu kala yutuya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_2674146933.wav|1|moohaya aayemat matuvelaa maava nomaga yavanna hadanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_2806172428.wav|7|bugooliiya vasayen baeluu kalada saanta kiittas haa neevis yanu liivardd duupat hi kottasak vee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_6687866056.wav|9|yam velaavaka apee boodisatvayan vahansee lumbini uyanehi upannada
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_2209321723.wav|5|kolaba kottuvee caetam viidiya haa janaadipati maavata asala handiyehi pihittuvaa aeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_7435438483.wav|8|paerani sen pansal dekaka lamaa sisun dedenek viya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_6612127123.wav|6|mokada mama mulinma niveedakayek vidiyatta vaedda kalaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_6859628153.wav|8|miitta amatarava aayurveeda lit pandahasakda rattapuraa bedaahaeriimatta niyamitayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_5235420010.wav|7|enam ehi yam samaaja deesapaalana tarkanayak gaebva pavati
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_7160780618.wav|11|miitta avurudu pansiiyakatta kalin hittiyaa nam eet eccarayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_4851077487.wav|6|yasoodaraa deeviyangee vaeddimahal sahoodarayaa vunee deevadatta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_6253386847.wav|2|metek kaalekatta mama nam evaeni deyak kiyala nae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_8571540826.wav|2|meegavarna rajugee navavaeni varsayehi daattaavansaya liyana ladii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_4840614757.wav|2|ayislantaya uturu atlaantik saagarayee pihittaa aeti rattaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_2575118167.wav|7|lookayee oonaema staanayakatta gos sattan kala haeki saktiyak tibenavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_1308003688.wav|3|ehi daknatta laebena visituru vuu situvam nisaaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_0497964451.wav|5|balamu meevagen kohomada api gaelavilaa innee kiyalaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_8512832125.wav|1|mee vidihatta ohugee jiivitaya panas pas avuruddak gevunaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_1620917825.wav|1|matta hituna aayet koocciya peraluna taenatta yanna oona kiyala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_0096808080.wav|3|mema kiyaman tula aeti yataartaya vimasaa baeluva hot
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_4221422564.wav|2|mee pilibadava oba vahanseegen karunu daena gaeniimatta kaemaetiyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_3847244983.wav|10|metanatta kelinma sett vennee nae kiyalayi matta nan hitennee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_1623679904.wav|3|ttiyunis aganuvara pavaa viroodataa utsanna vana vitta ben ali rattin palaa giyee ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_2941453008.wav|3|meeket giya paara ekee hittapu nalu niliyoo goddakma innavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_0662656844.wav|6|haebaeyi kohoma hari sanniveedanaya teerum ganna puluvan unaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_3536851957.wav|1|akamaetten vunat taattaat meekatta kaemati venavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_2140134972.wav|1|hitaaganna puluvannee film eka kohomatta aetida kiyalaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_9519354859.wav|1|devaeni adiyara novaembarayee aaramba kiriimatta niyamitaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_8500473878.wav|2|eka atakatta baladdi api daenattamat aasiyaave aascaryak velaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_9177027165.wav|1|aet rajaa aadara baktiyen yutuva tavat sivuratta lan vunaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_8034784743.wav|6|ratnapura maha saman deevaalayee sidu kerena puda puujaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_5095819175.wav|10|oyagollot ddavunloodd karalama balanna kataavee mokakda vennee kiyalaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_9438535153.wav|8|haema rattakama vaagee nitiiyenma dakvalaa tiyenavaa novae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_7180438705.wav|2|mema pavuru sampuurnayenma sakasaa tibennee kabok gal upayoogii kotta gaeniimeni
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_6131765660.wav|0|mema kunaattuva miittar hatak dakvaa usva naegii tibuni
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_7473714488.wav|9|hitaaganna puluvannee film eka kohomatta aetida kiyalaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_5106820524.wav|7|unnaanseelaatta uddin maessekuttavat yanna idda naeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_5540698884.wav|5|mee haaniyatta erehiva naegii aa jana viroodaya ketaram da
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_9766243182.wav|7|memagin budun vahanseegee dasabaladaarii gunaya vidahaa daekvee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_1620834144.wav|7|mema danaya paeminennee meratta baenku paddatiya osseeya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_8878360681.wav|7|mekii visaya paddatiya pilibada unanduva aeti vunee ada iiyeka neveyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_5580411108.wav|1|menna mee hakgeddiyee paehaeyatta haerenavaa aetta saekilla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_8382914210.wav|3|mema sattvayaa yuroopiiya rattavala suratalayatta aetikarana sateki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_6956602368.wav|5|mema aparaadayee viseesatvaya vuuyee mee barapatala aparaadaya kaantaavak atin siduviimaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_3926337952.wav|1|mema paalama sadahaa vaedda aaramba karamin staapita kala samaru palakaya da aturudahanva tibee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_2636289797.wav|7|yaturupaediya mahattayaagee yaaluvakugen illagena aavee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_9767603851.wav|1|ballan hat atta denekugee rancuvakda daekagata haekiviya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_8000964510.wav|9|sahoodaravaruni mee davas vala matta vaedda kattayutu adikayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_3459567898.wav|1|mehidii rajugee kaaryabaaraya salakaa baeliima vaedagat ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_1777621254.wav|11|mul kopi miladii aragena tamangee nama gahagena eevaa vinaasa karanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_4978784926.wav|3|pauraanika vaedagatkamakin yutu mehi adattat paeraeni nattabun daknatta laebee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_4905708888.wav|3|gavayaa minisungee edinedaa jiiviteetta kotaram samiipa sahayak denavada
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_7750500436.wav|3|meevaa samaajayee tiyena kuhakakam valin aetikarana durvalakam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_7348929598.wav|1|mee boosataanan vahansee budu vuuvaatta pasu dakinnatta laebeeda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_7922251719.wav|8|looka sattvayaa hatta tamaagee yayi kiyaa kisivak naehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_8662292740.wav|9|miitta amatarava toraturu ihata durakatanayatta kataa kiriimen labaagata haekiya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_3181295193.wav|3|ballangee ayitivaasikam tava kenek alevi karayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_5098181513.wav|11|ugee siruree diga palala senttimiittar dahayak taramya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_7578494831.wav|6|haalpaaruvaa yanu vel vidaaneegee sahakaruvek venna oonae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_0205065623.wav|5|depaarsavayenma venna oonee yutukam ttikak tiyenavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_4608128553.wav|3|mema paalama idikaranavaa kiyana vitta vipaksayee samahara naayakayoo vihiluvak lesatta saelakuvaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_9540310631.wav|8|paapa mituran hadunaa gaeniimatta taram apa parissam viya yutuya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_8868125608.wav|5|mul kaale nam ninda gihillat hitila tibuna
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_3457048317.wav|11|meyin hindu aagamika sitin aegayumatta lakveyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_0463593922.wav|5|meeka mulinma tiragata velaa tiyennee juuni maasayee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_5317132625.wav|11|miitta vaddaa sita siyum kala yutuyi kiyaa sitanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_0114430080.wav|6|siyaluu maarga jiip vaen bas rata daavanayatta sudusu tattvayen pavatii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_6925269802.wav|4|pot pattara atara gatavuna jiivitaya nam harima sundarayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_6416244727.wav|9|mokada evaeni kalaatmaka deeval vikunaganna amaaruyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_1680024888.wav|7|maddee upan piyuma diya matu pittatta paeminena vikasita veyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_9711623706.wav|10|mema gaataavehi pandditayaa kiyannee rahatan vahanseettayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_8030145669.wav|2|yataartaya visin kalaakaruvaa meheyavaa ganu laebiima yi sidda venne
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_7993990514.wav|11|samahara jarmaanuvan uturu aemerikaavatta paeminiyaha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_5793830130.wav|9|visaala kurullaku kaha kurullaa kavadaavat daeka naeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_6622838331.wav|5|meeka deesapaalanika maanasika roogiin pirisakagee tiinduvak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_8709881905.wav|0|pannipittiye depaanama deevaala paare gihin gala udda pansala kiyalaa aehuvanam ooka kenek kiyayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_4370914307.wav|6|moottar ratayee sitti pirisa dehivala sitta yaapanaya dakvaa gaman karamin sitta aeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_4789881794.wav|10|mun kavadaavat viveecana piligatta jaatiyak nevi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_5182235306.wav|1|avanka deesapaalakayekutta ituruvelaa innee meccarayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_2600791806.wav|7|muvanpaelaessa gattot ee parisaraya hitee maevenavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_1125789254.wav|9|mokada meevaa kisivak api maerenna aran yannee naehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_7364635497.wav|10|mee daruvaagee raekavaranayatta kisima manussayek naehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_8816839818.wav|8|leddatta behet ganna salli naeti minissu innavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_1703704458.wav|8|rattee tattvaya kalaavatta yahapat kiyalaa obatta hitenavada
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_7959803271.wav|0|meevaatta pilituru laebenakotta nam muuna hirivaettenavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_6788697721.wav|11|etakotta ee rattee miitta vaddaa aparaada vaeddi venna oonaa nee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_9104264395.wav|8|boru mahajana paeminilivalin nidahas viimatta haeki viima
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_5692427441.wav|7|mee deesanaava aesuu dusil mahanahu mee saasanaya aiscaryaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_8645155133.wav|10|miitta passee mamat raekiyaavatta blogar kiyalaa daantta hitaagattaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_8201600311.wav|7|mema abiyoogaya jaya gaeniimen torava rattak lesa jaatiyak lesa apatta idiri gamanak naeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_6704020824.wav|7|mema caarikaavehi miilaga dina sattahanen ee gaena kiyannam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_3886616617.wav|11|ivasiimen yutuva daarmikava kaalaya gata kiriima sudusuya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_9788609580.wav|2|meeke innava api danna hadunana kihipa denekma
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_3894490943.wav|2|muurtiya sadahaa sudusuma iriyavva mee yaeyi matta sitee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_5856425003.wav|0|aadivaasiingee sirit virit puda puujaa adat daekagata haekiya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_5654345802.wav|7|ansatu mudal hoo raekiyaavee higa mudalak hoo laebenu aeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_4297768223.wav|10|etaena kii denek hittiyaada kiyalaa kiyanna matta baehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_1829059880.wav|7|aanayanaya karana indanavala viyadamen tunen ekak venkarannee viduliya nipadaviimattayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_0102202529.wav|3|aaye pittarattin aava deyak nam kisima gaettaluvak naehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_2081640982.wav|3|meevaa gooliiya danavaadayatta kisiseetma vikalpayak novee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_8364136186.wav|10|indiyaavattat vaddaa meeka tadin daenennee lankaavatta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_2226071954.wav|10|indiyaava lokayee visaalatama gava gahanaya sittina ratta nemeyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_5360212305.wav|7|miitta kalin haek karapu eevaa nam aayimat dakinna laebune naehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_7352893636.wav|2|meekatta sab karapu ekatta royilitta saha guraatta bohoma stutiyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_9856295112.wav|11|eeka tamayi tambapanni kiyala nama vaettilaa tiyennee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_4486093953.wav|3|mekii siddiya sidu vana dinaya parana avurudda lesa haedinvini
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_1929461291.wav|3|uvamanaa kenekutta naaraaheenpitta kirimanddala maavatee paaram paarika sahal alevi salen miladii gaeniimatta haeka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_7437300865.wav|0|yana gaman maga gaenat poddddak kiyanna puluvanda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_1144218601.wav|1|mekii daruvaa tavat daruvan pirisak samaga sellam karamin
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_7572839883.wav|6|raejina vattaa eekaraasiviima miimaessangee svabaavayak nisaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_7854804711.wav|11|sarala heetu daekviimakin hitaaganna puluvan vunaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_4866488569.wav|9|ruupayaka naetinam sabdayaka ee vidiyatta sita aelenavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_6764052784.wav|6|halaal sahatikaya sahita kukul mas pamanak nipadavana aayatanayak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_3421166864.wav|2|mudu haa maala kihipayak da mee valen soyaa gaenini
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_6458647668.wav|8|yaapaa raalatta eekanaayaka appuhaami namin putek sittiyeeya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_9896411852.wav|5|mee angaya da siila kottasattama ayatvana bava saelakiya yutu ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_2739161025.wav|9|yakoo blog avakaase inne mee vagee patttta mooddayooda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_1340106692.wav|6|situvam pilibadava vacanayen maevuu tavat sittamaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_1983652553.wav|1|meevaa sinhala vikiyattat mehemmama daannat puluvan vagee needa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_6681992600.wav|2|aaranciya laev ginnaksee sarasavi bim peta puraa paetira giyeeya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_7208387668.wav|9|rajatumaa eekee nirmaana vattinaakama daekka ekat niyamayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_2248128461.wav|1|aadivaasiintta nidahasee jiivatvenna iddadenna kiyalaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_0579095098.wav|10|in ek enjimak paehaediliva hadunaagata haekiya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_2530529078.wav|4|mukutma karaganna baeri kenek vitarayi daddeetta ahu vennee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_8672561843.wav|3|itaama saelasum sahagatavayi gaehaenu minissu vaedda karannee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_2008311871.wav|1|metaenadii api sparsaya paavicci karannee avaboodayak pinisayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_4758791947.wav|7|minissuntta tavama deesapaalanaya pilibada muulika sanveediitaavayak nae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_9254826795.wav|8|yaaluvoo hitannee haerii eyaava marala daalaa kiyalaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_9999357802.wav|1|mema nidahas aragalayehi naayakayan vuuyee vilbaavee saha kaeppettipola disaaveeya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_4334139963.wav|6|mokada anek padakkam valatta vattinaakamak naeti venava
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_4738070831.wav|2|medaa paara tiyennee aelangee anaagataya venuven mituran karana vaeddak udesaa yana gamanak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_8016892543.wav|3|mulinma ragapaematta aevit aeksan kiyana kottama hariyatta eya kalaada
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_1297242168.wav|9|vaeddi durattat sangiitaya vidimatva hadaaranna upades dunnaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_0489636757.wav|6|ruuddi mohutta ddoriyan kiyana sahayakayaava hadunvalaa denavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_2763284720.wav|6|ohu jiivat vunee paalampuur hi tibuu daevaenta mandirayakayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_6468424587.wav|7|miiduma sulaga vaessa yana tunama apa tava tavat dirimat kala bava kivvot nivaeradiyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_2044490577.wav|7|mee sadahaa sadaacaara darma da sambanda viya yutumaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_7187342925.wav|6|yaapanayee ayattat edaa pustakaala gini tiyapuvaa amatakayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_2644967010.wav|7|aayet vatura daala api kaeda muuttttiya uduna uddit taebuvaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_0130786402.wav|8|ranjit eekanaayaka mahataagee nivesin asannatta laebee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_4937857846.wav|5|ayiyaa kenekuyi nangi kenekuyi himee gihin tiyanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_3417180693.wav|6|sttaenis kiyanne aettattama bohoma niitigaruka kenek
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_4764554017.wav|8|sttaenligee birida da janaadipativarayaatta lipiyak yavaa tibee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_3801091255.wav|5|egollo eevelaave gedara ttiivii bala balaa idala tiyenne
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_3362532660.wav|7|ekinekaatta viruddava gaman kiriima tarahava vardanaya karayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_9463490913.wav|2|mee kunukaya visituru sadun baajanayak see sarasaa aeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_8067534522.wav|10|balana kotta ttavun hool eka addara tibuna taappayak udda vaaddivelaa dennek innavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_7142142128.wav|8|yakoo kopiya iiyee aavaa ada sinhala upa siraesit diilaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_9295484354.wav|8|saaravat kuburaka sittavapu kunu vecca biijayak vagee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_1297535055.wav|4|eksat jaatiingee maha leekam baen kii muungee da sahaaya iitta himiviya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_3853049089.wav|0|aasiyaanu nispaadanavaadaya pilibada maaksgee adahasayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_3130519046.wav|0|viduhalpatigee kattahadda paasala avatta raev demin paetirini
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_1334120610.wav|2|aatar konan ddoyil upata laebuvee skottlantayee eddinbarg hidiiya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_9771838233.wav|11|maa vimasuuyee evan niitiyak aettee koheeda yannayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_1698850211.wav|1|mehidii naayakayaatta kisiyam aramunak tibiya yutuya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_8523195584.wav|2|gaallee kottuva aetulee tibunaa viiddiyoo senttar ekak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_0719752029.wav|10|oya siddiya gaena maat eccara daenan hittiyee nae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_1412774916.wav|9|haema kenaama tamantta ayiti kaariya daenan hittiyaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_6842032326.wav|10|meekaa kiyannee harak mas naetiva balumas kanna kiyalada
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_9418038410.wav|11|magen vaeradi velaa tiyenavaa nam samaava ganna oonee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_0715400935.wav|0|in adahas vannee vicaaraatmaka vinivida daekiimen tora baelmayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_9939950696.wav|0|mema japaana raajadaaniyee saamaya aaraksaa kalee samuraayi varu visinuyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_7493976599.wav|10|idiriyatta paemini minisunva kiitu kiitu karalaa daemmaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_4703232260.wav|10|davasee kattayutu baadaavakin torava karagena yaamatta haekivee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_5167493334.wav|8|monavaa hari vavanavaa nam vanajiivii eken sattu gam vadina eka navatinavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_5835359007.wav|11|reemayayi vairayayi ataree venasa kes gasakatta samayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_6433798479.wav|9|rahal kumaru buduradun pasu pasa vihaarayattama giyee ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_1975618108.wav|11|mee vihaaraya singappuuruvee daenatta aeti visaala teravaadii vihaarayayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_8657281490.wav|2|mama puvatpat pitta kavara caayaaruupayakatta penii hittiyaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_6685755342.wav|9|mama film eka baeluvee kollupittiyee libartti sinamaa saalaavedi tamayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_9240173159.wav|2|mema nava basa nirmaanaya kiriimeedii ohutta aeti abiyoogaya sankiirna ekaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_8894467231.wav|3|menna aapahu matakaya alut kara ganna hindama baanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_7294344227.wav|3|mehi tibena vaddaatma pauraanika vaedagatkama vanuyee dahayiyaa pilimayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_0894513578.wav|0|ituru velaa tibunee guneegee pintuuraya vitarayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_9170939058.wav|0|yuddaya kiyanneema maanava himikam naetivena avastaavak nee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_9278982647.wav|8|laankika samaajayeeda mavupiyantta himi vannee advitiiya staanayaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_2052589294.wav|11|aetta aeti saettiyen kataa kalot mehi siduvii aettee meyayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_1908274099.wav|6|sarvabaladaarii deviyan yattapat kiriimatta utsaahayak gata yutu naeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_9391757337.wav|10|mudal pasumbiyee vuu haedunumpatin ohu kavudaeyi hadunaa gaenuni
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_7833005294.wav|4|magee sitee ee sadahaa kisidu domnasak hatta gattee naehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_6631088849.wav|5|antarjaatika bihiri taraga mulin ma aaramba vuyee paeriisiyeediiya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_2798225647.wav|3|accuveelii poliisiya vaeddidura pariiksana kattayutu meheyavayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_0427588271.wav|2|mema utsavaya vaeddidurattat aematuu janaadipativarayaa meseeda paevasiiya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_5950315485.wav|3|meeken daen kisi kenekutta aeti vaeddakut naehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_6844018980.wav|7|mema samiiksanaya aemarikaanu samaajaya padanam karaganimin kerunu samiiksanayaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_2169391183.wav|9|perahaera tula naekaet sadahaa viseesa staanayak himivenavaa needa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_8026184333.wav|7|meccara kal lookee hapankam kalee yuroopayayi aemerikaavayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_6164526854.wav|0|mee situvilla anun kerehi paturuvaa harinnaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_6173212296.wav|0|tavada kottaa paara saha bauddaalooka maavata yana maargayanhi vaahana tadabadayak nomaeti bava polisiya kiyaa sittiyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_4050269744.wav|3|ohugee baaryaava niliyak haa looka ruu raejiniya vu ayisvaryaa raayi vee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_8643512444.wav|1|sampat baenkuvee aarambaka mudala avama namut pavatvaagaeniimee vaarsika mudala ihala nisaa mul laabaya in naetivii yanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_1160192708.wav|0|adi maanasika balayak tibee yaeyi kiyana siyallanttamaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_6256610560.wav|5|carita goddak ekka hena pissu tibuna kaattun siiriis ekak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_0822826887.wav|7|agni jaatiyee teejoo balaya addapana vana ekama davasa eekayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_7392637158.wav|2|uba dannavada lankaavee raja kaalee tibunu niiti gaena
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_0310903589.wav|5|meekatta sinhala ekatu kalaatta bohoma stuutiyi samiira
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_0440026025.wav|8|mokada min pera kiipa vataavee ehema kiyaa tibenavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_8606783045.wav|10|idiaappa dusim dekak kiyanne gaevennavat madi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_8011781797.wav|6|rancuven pittastara pavulak nam un sittinnee venamaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_4418447383.wav|8|haebaeyi taman karana dee hariyanavaa kiyana tada visvaasayen
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_3947084014.wav|11|meya tamaa visinma nuvanin vimasaa baeliya yuttaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_3903763157.wav|4|nataasaa naendaa apitta lanuvakut kokkakut dunnaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_8578172520.wav|5|meeket hittiye hurupurudu supiri naluvek tamayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_4189345734.wav|7|matta amataka vunaa mee tiyennee eyaa gaena man issara liyapu lipiyaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_2042123057.wav|11|meya haema vittama ittuvii tibee yaeyi sitiya nohaekiya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_4418548412.wav|7|menna obee mul kaviyee antargatayee maa dakina vaeradi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_2570397926.wav|6|mokada ohugee sangiitayee naehae kisima indiyaanu sangiitayak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_4905897274.wav|10|agoostu vala puccapu heena vapurannee mona kaalayeeda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_4688851321.wav|2|oncillaa tottili koyindoo dukaa harima apuuruyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_8575476426.wav|3|miitta vaedda vattinaa upades dunna minissu lankaavee idalama naedda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_2876065138.wav|3|siigiriya avatta diya agal valin aavaranaya kara tibee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_0989331302.wav|2|eya janataa vimukti peramunatta pamanak himi vuuvak novee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_0357780168.wav|9|mokada apee deeval api nodanna ekakatta denna vena eka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_0701577369.wav|0|aartika cintanaya haa saamaajiiya diyunuva aeti kala haekivanuyee pudgala aartika diyunuva salasaa diimenya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_0914770956.wav|0|oyaagee naettumvalatta maduri ddiksit paradanavaa kiyalaa vihilu karanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_0169818551.wav|5|in anaturuva ovun idiripat karannee adbuuta toraturuya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_8564267184.wav|2|deesapaalana haa samaaja vattapittaavada salakaa baeliya yutuya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_3969914223.wav|10|mulinma ee lamayaa gee pariganaka daenuma soyaa baeliya yutuyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_0756046600.wav|10|udaara pudgalayaa siyalu denaagee yahapatatta kaemaetiyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_5194761742.wav|5|meeke sattu balaakiyaa ganna kollekuyi kellekuyi innavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_8989452783.wav|8|rajamaaligaavee siyaluu denaagee vihiluvatta lakvunaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_1316379703.wav|9|skott ekaga unaatta haemadaama aelisanva hambavenna yanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_8894132403.wav|1|balannakoo mee mama liyapu komentt eka gaena mattama laejjayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_1635215896.wav|6|rattee puravaesiyan raekiyaa kala yuttee meratta misak araabiyee novee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_2690846268.wav|0|meeka muulika vasayen samaajavaadii manasak tiyena rattak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_6147562901.wav|11|meekatta kiyanavaa paccattan veeditabba vinynyuuhi kiyala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_8651232647.wav|3|meekatta visadumak denna lankaavatta baaradennayi tibune
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_8479331000.wav|3|mee siyalla siduvannee anun kala deeval nisaama novee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_3360366490.wav|8|haebaeyi karunaakaralaa candaya illannam laesti venna epaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_4280364884.wav|5|mee anuva buduvarun devargayak gaena karunu tibee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_2109872394.wav|9|rajatumaa tamanva maaligayatta kaedavana bava daenum dunnaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_8395429615.wav|7|paenideni kattugastotta bas eka nam nodanii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_9226752254.wav|5|amarasiri mahataagee meheyaviimen pariiksana sidu keree
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_2039776138.wav|3|addi pahak hayak vitara aeetin pirimi lamayin kattttiya vatta velaa hittiye
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_6379066828.wav|10|ek daladaa vahansee namak gandaara purayehi pidum labat
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_8838028505.wav|4|ee sambandayen venama katikaavatak gena aa yutuyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_2477991331.wav|2|mema durayatta patvana himinamatta siya jiivita kaalaya puraavatta tanaturee vaedda vaasaya kala haeka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_6614296513.wav|2|menisaa demaapiyan daruvaatta melova penvaadena aya vasayen saelakeyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_2455158637.wav|0|mulinma putek laebunu eka hodayi kiyalaa daen hitenavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_0504658032.wav|3|mee lamayaa haema deyakma ikmanin ma igena gattaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_4738767661.wav|11|peraharee mulinma gaman karannee polis pera gaman ratayak viimada tavat viseesatvayaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_4370008255.wav|0|puhudun taenaettaa niraturuva dakinnee palaya pamani
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_9192617433.wav|2|kaddupittiyagee saebaema nama buddadaasa vitaanaaaracciya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_9656525366.wav|0|aaraksaka ansayatta sambanda goddak aya mee horuntta ahuvenavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_5814661875.wav|8|haebaeyi mama vaedagat parana lipi okkomat kiyavanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_5531575649.wav|0|apa nidahas maavata digee gos aturu paarakatta haerunemu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_6958731775.wav|9|raekiyaa kattayutu pilibada idiri gamanak pennum karayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_8765322300.wav|1|meya kalakadii samasta kitunu lookayeema visisttatama deevastaanaya viya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_0472859551.wav|1|irattu kuurak amuven kaemati haeddayakatta naeviya haeki ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_2091699786.wav|6|mokada ovuntta ovunvama epaavana dinayak lagadiima enu aeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_9879367314.wav|10|namut eyaatta saartaka asvaennak nelaaganna bae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_7979120429.wav|5|mee dantadaatu mandiraya mulumaninma nimavaa aettee sat ruvanini
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_6534612621.wav|0|mee piliibadava janayaagee viroodaya viveecanaya paena naeguuha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_7390248979.wav|3|meeka sinhala bauddayintta liyala diipu rattak neveyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_5773984354.wav|9|rattee minisuntta aandduvat samaga gaettaluvak tiyenavaa tamayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_9778863723.wav|7|aettenma hadavatatta daenena vidiyatta gayana gaayakayek tamaa eyaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_6183767482.wav|5|mema gilanpasa puujaavan baaragat pinvatunda sittii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_9041495812.wav|3|amaradeevalaa mahagamaseekaralaa indiyaanu deeval baavitaa karanna aeti
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_0062885355.wav|9|mohu daen pissu roogaya vaeladuna sunaka pootakayek haa samaanaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_4672980455.wav|9|dumbara addaviyee pamanak jiivat vana lankaavatta aaveenika miridiya kakulu viseesa hatarak da vee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_3867484031.wav|8|yaksa kumbaandda aadiin apa deviyan kiyaa hoo nosalakamu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_0827187887.wav|6|yahapat naayakayek viimatta meya vattinaama heetuvak vee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_8567461997.wav|10|minisuntta jiivita saenasiimee udaara atdaekiim laebina
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_5549595987.wav|7|mevaeni paaharayakugen iitta vaddaa monavaa balaaporottu vennada
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_6060066583.wav|5|devaeni ekat hindi ekakma denna kiyalaa illanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_9610307082.wav|2|akamaetten unat ee vacane paavicci karanna venavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_6888322321.wav|5|adduma tarame itti kolayak hari daala katta baedaganna oone
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_7406526301.wav|9|ratta tula mahat kaelabili sahagata tatvayak aeti viimayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_8991876040.wav|2|mema parataraya piyavaa denuyee pittarattavalatta gos vahal seevayee nirata vana pirisya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_8063490411.wav|8|yanaadii duskara gaettalu veta apagee avadaanaya yomu viya yutuyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_8834553309.wav|8|yanuven jiivaka upaasakatumaa budurajaanan vahanseegen vimasuveeya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_7973250797.wav|9|raagaadii keles samuuhaya kleesa maara yannen haedinvee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_2404482576.wav|9|yaanayee pasupasa dorat vaesikili dorat atara dura miittara dekakvat nae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_3615086775.wav|10|danavatma pavulaka daraevakutta aera eya karannatta haekiyaavak naehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_8863316074.wav|10|lankaave peettantt ekak denne kohomada
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_0370270269.wav|6|mokakda yakoo vikttar ratnaayakagee looketta parakaasee kiyannee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_5939934305.wav|0|etanin passe joonge jiivitee venasma paettakatta peralenavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_9584890759.wav|3|meeken daruvantta raekavaranaya adduvelaa tibenne
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_7393692311.wav|7|mudal dii balapaema kiriima haa tarjana kiriim enu aeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_8405129617.wav|0|mee sitee itaama maayaakaarii vidihatta mema dveesaya nirmaanaya venavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_2754529027.wav|9|mokada ovungee pandu yaeviima etaram tarjanayak tibunee nae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_5945767569.wav|4|mulin naegala giyat ttika kaalekin vaeddee naevatilaa giyaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_1694299574.wav|3|buundiya mahajanayaatta monayam hoo idiri darsanayak idiripat karanavada
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_8601844133.wav|9|yakun nam vuu minis pirisa aedahuyee malavunya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_5427833618.wav|2|koocciyeedii mee tun denaatta yaaluvek hambenavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_1152540090.wav|5|aenjalin gunatilaka mahatmiyatta mama vaeddihittiyekutta lesa garu karanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_9470191283.wav|11|mulu taenitalaavama sinaa haddin sangiitayen pirunaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_2536453099.wav|3|ema adduvat obatta sapuraaliimatta avastaava laebevaayi patanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_9139060553.wav|8|sahoolaa kiyana nisaa mama salakalaa balannamko ee gaena
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_0404038733.wav|6|miitta amatarava hadagamagee sinamaatmaka baasaavatta hasuvana gaehaeniyak sittii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_9068953722.wav|8|haebaeyi aepakaru baenkuvalatta polu notiyapu kenek venna oone
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_8268722814.wav|5|menna mee pasvelaa yana svabaavayatta ayiti dee oba tula tiyenavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_0174096250.wav|5|mema diyakaddanaya idikiriimatta palamuvaratta vaeli baavitaa kaleeya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_5448058974.wav|5|eeka tamayi oya maesin unu kaevum vagee vikinennee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_7620176346.wav|7|mahaa polovatta ehema uhulanna puluvankamak naehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_5452681774.wav|1|meenisaa ukusu uvaduratta lak karagaeniima apahasu viya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_6923758239.wav|7|aegapata visituru vastaabaranayen sarasanna giyee nae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_5521699462.wav|11|uba kaaloo ponseekaagee kavuruharida kiyala matta saekayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_9783455642.wav|0|api pasugiya kottasa gaena matak karagammu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_4040006888.wav|3|hitavat raviin vaeddi vistara daekvima pilibadava bohooma stutiyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_5364776841.wav|4|mema tee vatu yaaya desa balana vitta eya itaa hodin naddattu karana bavak penee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_1154143520.wav|2|meeka mevara oskaa sammaanayatta nirdeesa vecci ekak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_6384042473.wav|7|mee pavule saamaacikayin ekinekaa abirahas vidiyatta maraa damanava
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_8627105999.wav|6|lookaya varadavaa dakvana penvana paatta kannaaddiyak vaeni ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_5730239991.wav|6|sinhalayee vaeddima varada karannee akuru liviimee diiya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_8104820467.wav|1|mee vihaara itihaasaya anuraadapura yugayee aarambaya tek divayayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_9000314783.wav|5|mema jiiviin gaman gannaa yaanaavala visaalatvaya pudumaya danavana kataavak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_6671030360.wav|8|daen sambuddatva jayantiya elabemin tibee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_3469309617.wav|2|baahirin dakina dee balalaa kisivak tiiranaya karanna epaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_5663442206.wav|5|apee punci sit mesee ehaatta mehotta gaman nokarayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_0425042479.wav|8|haebaeyi meka daenattama balalaa tiyenavaa da dannee naehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_3117231257.wav|9|rajatumaa samaga giya pirisa da avut etumaa pirivaraa gat ha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_0666789284.wav|3|gurutvaakarsana niyamaya vaeradi bavatta saaksi tiyenavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_2669024164.wav|7|mema siddiya vuuvee budun vahansee jiivamaana kaalayeediimayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_0793705773.wav|6|miitta amatarava ruhunu sancaaraka kaaryansaya magin sanvidaanaya kala ruhunupura
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_4449174786.wav|5|muhunupoten da meya bedaa hadaa gannaa bava daekkaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_5518973475.wav|1|mee nisaa sat purusayan lesa jiivat viima vaedagat ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_1774969661.wav|1|meekitta mokakdoo amutu amaaruvak tiyenava maraa gaena
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_6530355936.wav|11|mema caayaaruupayehi penena kaantaava da evaenniyaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_7592524836.wav|7|mehen minissu aturudahan vena eka boruvak neveyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_8843016891.wav|6|mokada ohu potee sadahan caritayatta vaddaa bohoma vaeddimahalu kenek
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_7249602248.wav|0|saettalayitt risiivar ekakut hoyaagatta ddis ekak nae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_8385884802.wav|10|mesee nokalot anaagatayeedii mee yooga hamudaava naddattu kala haekida
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_5574362752.wav|10|gaveesakayaa siya viduli pandama pasekatta yomu kaleeya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_0966613381.wav|8|yanna uvamanava tibuna et tavama yanna baeri unataenak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_3002527648.wav|0|mee saasana saddarmaya avurudu dahasak pavatinnee ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_3041932374.wav|5|vayasa avurudu dahaattee dii pamana ohu aetaens hi paevati ploottoogee aekaddamiyee igenuma pattan ganiyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_9391011329.wav|4|mulu jiivita kaalettama hadapu ekama naekata tamayi oya pooruvee katandaree
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_6170414462.wav|9|ruupaaruupa bavayanhi satvayaa upata labannee mee heetuva nisayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_4358310193.wav|1|miittar hayasiya tishatarak usin yutuva lookayee usama kuluna japaanayee idivemin pavatii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_2144077783.wav|2|mee evan gaemiyekugee muvin pitta vuu vadan vaelaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_8123711214.wav|2|meya arahanta paramaartaya lesa haedinviya haeki ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_0309078700.wav|5|aetulvana vittama aeti saepa puttuvaka tarunayan dedenek dum vaettiyak uramin sittiyee ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_0009386940.wav|10|cek janarajaya saha sloovaekiyaava dakunen maayim vii aeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_7694589002.wav|6|haema jiiviyekuttama jiivat viimatta ayitiyak tiyenavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_0347415167.wav|3|mema akusal siyalu pav yanuven sadahan kala haekiya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_8833594116.wav|0|iddak laebunot mee behetat pittarattatta vikunaa ganiivi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_4911425062.wav|5|miitta vasarakatta dekakatta kalin metana sittiyee alin detun denaku pamani
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_5288236689.wav|11|namut eya apahaasaatmaka bava ikmaninma matta teerunaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_6188454856.wav|8|puda puujaa paevaetviimen pin sidu venava kiyala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_0485732104.wav|8|meeka rejinooldd roos gee pudgalika atdaekiimak uddayi liyavenne
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_4841423790.wav|7|minisaatta kopamana kaaranaa sampuurna vuvat adduvak daenee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_2573992768.wav|6|sttiivan spilbarg gee nam itin ahanna deyak nae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_9196750415.wav|10|meeka miitta issellaat mama sadahan karalaa tiyena deyak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_7880142248.wav|2|mukaya da mada vasayen dat penena lesa piyavii tibee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_8013503575.wav|9|paevidda vanaahi ebadu napuru tattvayak nova keles tunii karana pav addukarana sasara ketti karana tattvayaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_5675672193.wav|3|eka paettakin spiikar daala apitta yanna epaa kiyanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_0931387094.wav|2|meevaa nositiya yutu nam sitiya yuttee monavaa gaena da
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_6970231581.wav|8|rattee saema puravaesiyekuttama yaepiim maargayak tibiya yutuya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_6653438724.wav|7|mema sarpayaagen kumana avastaavaka vinaasaya siduveedaeyi sitiya nohaeka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_7984810771.wav|2|metaena idala tamayi kataava digahaerenna pattan ganne
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_3501793570.wav|8|mee viseesaya lankaavee jalaasavala booviimatta pattan gata hot bohoo tarjana ellaviimatta da idda aeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_6816981497.wav|9|haebaeyi kopamana durakatta saartaka veyida dannee nae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_2144194787.wav|2|meccara deyak teerum ganna puluvannam mak koranna baeriya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_0710860076.wav|8|haebaeyi putoo ehe tiyennee poddi poddi geval
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_6531403825.wav|0|un sinhala baasaavatta siritvirit valatta vaira karanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_8457350842.wav|0|meya haedinviimatta yedena tavat paryaaya padayak vannee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_6890541075.wav|7|safrayi mamayi aa giya taen pavaa mama tusaaritta pennuvaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_3248119210.wav|0|giniyam vuu taettiya mata inna puluvan jagataa kavda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_1748132699.wav|8|sinhayaa minisuntta paharadennee kalaaturakini
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_3724457898.wav|4|mehi vartamaana aganuvara vanaahi rungun nuvarayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_2772133735.wav|4|mudal tibunat hoda potak ganna tiyena amaaruva
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_8079997462.wav|8|saralava nidahasee jiivatvenna tiyanavanam koyitaram deyak da
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_4827208401.wav|6|haema vacanayakma siyayatta siyayak parivartanaya karanna baehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_4214327273.wav|7|miitta pera maheela jayavardana ema anumaetiya labaagena sittiyee ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_7000581434.wav|0|miigamu kalapuva looka uruma parisara paddatiyan taramatta vaedagat vana sanveedii parisara paddatiyaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_7472301414.wav|0|mulu raesviima sadahaa edaa visaala janakaayak paemina sittiyaha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_1184517183.wav|8|raja pavulatta ek vuu mee alut sigittaatta kavurut aadaraya kalaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_7335788423.wav|0|muhudatta ehaa tiyena nagara dekaka vecca siduviimak matak kara gammu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_4740332434.wav|4|guugal kaes matakaya vaeddi kaalayak tiyennee nae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_8696804715.wav|7|ada nispaadakavaru sinamaa saalaa himiyantta baninavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_0704095453.wav|4|mun apava vihiluvakatta gena aeti bava obatta novaettaheeda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_4934980840.wav|6|yana gaman maga gaenat poddddak kiyanna puluvanda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_4577559299.wav|9|yanna kalin kamentt ekak ehema daalaa yannat amataka karanna epaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_6926065923.wav|3|mulinma kaemaraava issarahatta yana velaavee nam poddi tigaesmak tibunaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_5546395189.wav|10|mema gamana parsiyaanu kaviyek da vistara kara aeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_6630767315.wav|6|looka janataava aartika arbudayakatta patva sittina avastaavaki mee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_1230425212.wav|7|mee poddi deeval valatta randdu velaa teerumak naehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_9472922689.wav|0|iilagatta kottasa mama aran ennam puluvan ikmanin
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_9532114718.wav|5|mooddigee maapiyoo battahira gujaraattayee addu kulayakatta ayat vuuvooya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_6940689242.wav|10|meekaa gatta kattatta kiyaapi nae kisima varadak nae kiyalaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_5961160525.wav|0|meevaa kesee nam aitihaasika bautikavaadayat samaga paena naegennee da
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_5440369099.wav|2|aganuvara vana baegddaedd nuvara pihittaa aettee rattehi naegenahira maeda kottasehiya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_6948189928.wav|10|meyin matu kala karunu pilibada darmadarayoo vimasatvaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_1151251583.wav|2|bera vaadanaya itaa siyumva haedaeriya yutu kalaavaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_9964014654.wav|1|meevaatta bohoo vitta balaya sapayannee surya koosa magin
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_2528453855.wav|1|paencaagee ammaagee karadara addu vunaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_2014790642.wav|11|oya film ekat kohomahari horaatta riliis veyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_4349098655.wav|3|namut ee niitimaya raamuva magin karannee kumakda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_0436920105.wav|1|adikarana buumiyeedii pavaa pudgalayin aturudan karanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_0193989478.wav|10|enayin hoda naraka devargayeema nirmaana tibiya yutuya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_2175710795.wav|2|mema silpiyaa pilibadava api madak vimasaa balamu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_6115223649.wav|11|mal genentta dena mudalin addakma sorakam karanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_1094955559.wav|0|anatura sidukala polis niladaariyaada ada ataddanguvatta gena aeta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_3803828690.wav|4|meevaa asannee vicikiccaava aeti kiriima pinisayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_2596614123.wav|9|yahaluvektta pota paas karaddi kollek liyapu ekak
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_5792768206.wav|3|muladii hittagena gaman kala haeki mee maga ttiken ttika kuddaa vana bavak penuni
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_7725344030.wav|6|mokada eyaava magee amma taattaa taramatta visvaasa kalaa eekayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_5410778091.wav|9|monaavunat itin stuutiyi kivvaa upasiraesiyatta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_7576517851.wav|5|idda laebena vidiyatta kalaa kattayutuvalattat daayaka venavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_5771960975.wav|4|sayiman sansaaraya ohee tibunaavee kiyalaa innee nae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_1030047216.wav|11|indu lankaa givisumatta daevuruddak pirunee juuli maasayeediiya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_2476116377.wav|1|upaadidaarii vaeddasattahana sambandayenda tatvaya meyama vee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_1850020742.wav|5|mema staanaya vartamaana abatalee mansandiyee aeti parana paaree ranabima maavata aasannayee paevati bava saelakee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_1205629869.wav|11|muunat ekka taraha velaa nahaya kapaagena tiyenavaa meekaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_5850200247.wav|5|antima kottasat ehenam ikmanatta laebeyi kiyalaa hitanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_5121271731.wav|1|atavaessoo ee veta etumangee adduma kudduma osavaagena giyaha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_6305647977.wav|11|mutuhara sagaraaven tamaa juuls varnava mama hadunaagattee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_0078514037.wav|8|rae veelenut bat piddu pahak ayin kiriimatta haekiya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_4645217423.wav|6|saranapaala mee bingee aetule tundenekutta nidaa ganna puluvanda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_9604135099.wav|11|mee sadahaa diirgakaaliina visadumak labaadiya yutu ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_0957633175.wav|0|dehiattakanddiyee duskara paasalaka saalaavak saediima
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_1605766632.wav|6|svabaavika galak yodaagena mahindaagamanayada nimavaa tibee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_9700806703.wav|8|mokada maenddelaa maerenne naetuva jiivatva innavaanee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_2397230679.wav|3|aasiyaavee mevaeni gittaarayak himi ekama vaadana silpiyaa mamayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_9981559051.wav|2|mee lookavalatta apitta yaa haekkee sita diyunu kiriimenuyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_5934084258.wav|7|mekii siddiin yugalaya harahaa apuuru yamak kiyavaa gata haekiya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_9676879401.wav|11|aetta kivvot meeka oya kaesatt pattayakin kala nohaekiyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_3167012021.wav|2|mema guvan anatura mulinma duttu ayek magee piyaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_2325581318.wav|9|haebaeyi pin kiyanne monaada kiyalaa mulin igena ganna
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_4635590252.wav|9|haebaeyi aandduvee daam aedilla tamayi meekatta mula
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_2757750824.wav|8|yahapat paevaetmatta vaddaa hoda mantarayak mama nam dannee naehae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_6172225788.wav|6|skott saha aelisan iskoole inne naetiva yanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_8969536046.wav|9|raja kaalee aedum valatta goddak viyadam venna idda tiyanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_4500918363.wav|5|mobayil kaneksan gaena kiyaddi mehema deyak matta vunaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_0570641757.wav|11|menna ovun eya paehaedili kotta evaa tibuna lipiya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_1884981022.wav|7|kattttiyattama mee kottasa rasavidinna kiyalaa aaraadanaa karanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_0144984924.wav|8|aatma vancaaven yutuva tamaa visin tamaava ravattaa gannaa pudgalayekmayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_4693210419.wav|11|upasiraesi gonuvee yam doosayak tibii eya niraakaranaya karanu laebuvaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3976_1608479442.wav|4|manci aayatanayat sampat baenkuvat maeliban aayatanayat matta kalaava venuven bohoo upakaara karanavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_5178909305.wav|5|meeka tamayi obatumaatta denna tibena saralama uttaraya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_0243441176.wav|2|galpara atara aevida yaamee dii paegunahot maranaya siduvee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3531_0485817312.wav|2|bera vaadana kalaavatta alutin ekvuu pirisda veti
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_5126626238.wav|10|metek dura apit ekka aapu okkomalatta bohoma stutiyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_8726828333.wav|1|oya saeladd eka hadannakoo mama oyaatta kiri eka hadanakan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_7163162985.wav|0|mee nisaa kusala karma dahayak sapuraa gannatta puluvan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_2724831132.wav|1|tavat bohoo karunu raasiyak baudda vansa kataavatta anuva pela gaesii tibiima viseesitaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4499_5491065672.wav|6|mokada tavamat ovun yuddayen piiddaa vida vida idalaa gaelavunaa vitarane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_6294803348.wav|7|eya daen pavatina aemerikaanu ddolarayakatta ihala apeeksaavaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_7183_7215489298.wav|10|metek dinak raekiyaa pilibadava paevati karadara ivat veyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2282_1322388247.wav|1|ttayigar vuddsttanam vividatvaya eetaram nupurudu venna bae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_3571270656.wav|8|yam pirisak veta elaebee nam visaaradava elabeti
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_7217876804.wav|3|met vaeddiimehi palamuvaeni aanisansaya saepanindayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_3100818596.wav|7|meevaeddavala vagakiim kottasak obatumiit baaraganna oonee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_2481057238.wav|5|mulleegama vanaantaraya paetten ali aetunagee kunca naadaya aeseyi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6897_3009038924.wav|9|mokoo oovaa oppu karalaa pennanna puluvan kiyalaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_1985651127.wav|5|meeka bohoo denek ruupa pettttiyenut narabala aeti
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_5681_3318948272.wav|7|devaeni kondeesiya vuuyee paramparaa tunak aetulata sinhala viyayutu bavayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_1337725493.wav|3|kolonnaava ayat vanuyee vaellampittiya polis vasamattayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_5223568999.wav|3|dan diima pinisa at soodaagattu kenek venavaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_2241_0329430812.wav|0|kookattat man venadaa taram kaale gannaetiva aeda gattaa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_3688_2770052029.wav|3|mevitta ohutta darma maargayee idiriyatta yaematta baadaavak nae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_9228_3494673511.wav|11|mema alut artakatanayehi deesapaalana muvahata itaa tiiranaatmaka ya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_4191_0126770633.wav|5|meevaayen iganagatta nan daen hittan plaena gahata haeki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sin_6314_2940301940.wav|8|jalaya mulumaninma ivatvanasee avvee tabaa veelaaganii

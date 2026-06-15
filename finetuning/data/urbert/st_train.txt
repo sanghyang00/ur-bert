@@ -1,0 +1,1361 @@
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_3190733855.wav|3|motjhine wa ho hlatswa o bohlokwa ho feta hajwale
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_8595229226.wav|7|zimkhitha a tlohela ho matha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_3392417288.wav|8|now our figuring was all right
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4503678058.wav|7|banana bohle motseng moo ba ile ba bitsetswa ha mothonyana ho ya kenela tlhodisano ya ho tlola sekoti
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_8381082277.wav|14|for the first time in his life he was yearning for a scrap
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_3690628956.wav|14|fiftytwo seventyfour fortyseven
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6181403223.wav|16|hosane ke sontaha mme re tlilo ja khabetjhe feela bakeng sa dijo tsa mantsiboya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_4309735812.wav|16|mokwetlisi o ile a kenya sakhile hlongwa sebakeng sa mpho thulo nakong eo ho ntseng ho bapalwa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_9890559937.wav|11|you dont catch me at any such foolishness
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9355445370.wav|3|nako ya boikwetliso e fedile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0145_2734700965.wav|2|kahoo kajeno o ka phomola mme phirimaneng ena ke monyetla wa ka wa ho phetela wena pale
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_3511365946.wav|8|it drowned all sound that brute agony and death may have made
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_1311838866.wav|8|it is also an insidious deceitful sun
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_2870833153.wav|1|taka setshwantsho sa hao mme o ngole mantswe ao ka hara pudulana ya puo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_8802918498.wav|9|they were following the shore of a lake
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_8380415708.wav|7|nonkungu o ile a tlameha ho robala ka sakeng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3755940422.wav|1|australia e fihleletse eng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_8456334234.wav|11|and that was the last of francois and perrault
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_8882425753.wav|16|kettli o utlwile mokgwathatsa kamora hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0040311078.wav|7|yaba ka hlokoo tshwara letlwepe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_2799998590.wav|1|mokwetlisi o ile a kenya tawfeeq salie sebakeng sa morne nel papadi e sa qala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_1917103576.wav|8|otherwise no restriction is put upon their seafaring
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_1430723683.wav|11|in short my joyous individualism was dominated by the orthodox bourgeois ethics
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4040527528.wav|3|mme ka labohlano mosuwetsana akinyi o re kopa ho phetela barutwana ba bang ka phaposing dipale tsa rona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_3685964533.wav|8|the questions may have come vaguely in his mind
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_2361427013.wav|16|thinyetsa ka ho le letona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_9631878474.wav|14|thirtyfour zero one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_3929800798.wav|11|a dead man is of no use on a plantation
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_6572897044.wav|7|ha se kaofela dikgele di leng ntsho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_0121528216.wav|9|the singing voice approached rapidly
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_7009956738.wav|16|ke reketse nkgono mamoeng pakete ya ditjhipisi tsa ditapole
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3878851091.wav|1|ba bang re tsheha ditsietsi ha ba bang di re pjhatla jwalo ka ha motho a pjhatla lehe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0445869461.wav|1|ha di utlwa lentswe la hae dikgo tsa qhalana tsa tsamaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_7880040207.wav|14|but in the canyons water was plentiful and also a luxuriant forest growth
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_8317161309.wav|9|ask him i laughed then turned to pasquini
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_4757369839.wav|9|but he did not broach it preferring to mature it carefully
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0806_5926863094.wav|15|mootlwana o ne o tshohile haholo wa itshunya hukung mme wa tsetsela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_4675875159.wav|1|ha ke tsebe hore ke hobaneng a rata ho ngangisana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_9762983711.wav|1|kale hlahlamang letsatsi leo a utlwa a photholohile hore a ka besa mollo hore a tsebe ho futhumala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_0155568058.wav|11|i suppose you picked that lingo up among the indians
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_5202779518.wav|1|fifi bolella mme hore ke entseng kajeno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_2203981749.wav|8|straight out they swam their heads growing smaller and smaller
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0628963757.wav|1|o tla etela mmao neng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_7015899562.wav|16|mashilwane o ile a kgetha pitsa ya ho qetela mme a fumana kgomo e ntle ebile e nonne
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_7331774922.wav|1|domino ya tlolela lekase la diaparo jwalo ka kangaroo e hlanyang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_7499526116.wav|11|they had no fixed values to be altered by adjectives and adverbs
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_5138671190.wav|7|molebedi a fetoha mme a buela ka hara inthakomo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_2999532476.wav|17|and so early in the voyage too
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0514342279.wav|1|kgaka e tshohileng ya kakatletsa mme ya sututsa le ho penya mme ha betseha lehe le le leng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0263714114.wav|3|ha e le wena ke tlo o bjabjaretsa le masapo a na a hao a bonolo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_2251953579.wav|9|zero eightytwo eleven
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_1172210635.wav|7|dintho tsohle tse serapeng sa diphoofolo di ne di kgutsitse ka tsela e sa tlwaelehang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6254953023.wav|16|ako bone hore o ditshila jwang ho rialo mosadi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0266897467.wav|7|ebe dilamunu tsa hao di se di butswitse
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_9794919702.wav|9|theres too much of the schoolboy in me
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2518046962.wav|3|yaba o bona molebedi hekeng e kgolo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_8557074595.wav|3|watford e bapala le bournemouth ka labone ka phirimana willowmoore park
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_4828808724.wav|17|but there was something even more startling than this resemblance
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2360455519.wav|7|bapallang hole le metsi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4214287450.wav|7|mamelodi sundowns e bapetse ka ho lekana le supersport united
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_5270810496.wav|1|tsatsing lena ha ke shebelle le ditshwantsho tsa thelevishene hobane ha ho na motlakase
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_4555490040.wav|16|batho ba sebaka sa hlokomelo ya diphoofolo ba sebetsa ka thata
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_2476570174.wav|1|empa ha ho moo ke boneng ngwananyana e monyane teng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_7835052091.wav|7|mosuwetsana akinyi o tseba dipale tse ngata
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0217068746.wav|3|lelapa le lelapa lese le itulela lele le leng keka hona hajwale ditshwene di itulelang ka dihlopha tse nyenyane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_4589983272.wav|16|empa dinotshi tsa tswa ka mokotleng tsa mo loma letsoho yaba o a howeletsa o re eee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9409714855.wav|16|ha ke batle ho iphumana ke le kgweding
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7912_1514679512.wav|13|ho bjabjaretsa ke ho etsang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_6980118557.wav|11|there was no law on the yukon save what they made for themselves
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_9821397085.wav|1|ke o qhekanyeditse
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4063528472.wav|3|mme o ne a ithimola hampe ho feta batho bohle lefatsheng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_6792778135.wav|1|tjheeee bo ba sisinya dihlooho tsa bona ha re na tsona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0422335526.wav|16|e ne e le letsatsi le futhumetseng empa maru a kwahetse
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0576270105.wav|7|itjhu itjhu itjhuu ha lla mckenzie a phahamisa hlooho ho kga moya nko ya ka e bohloko
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_4962851567.wav|10|tafole e ne e kgabisitswe ka dipaletsa le balunu e ntle e bolou ya ntjhanyana beka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_9210837078.wav|9|i have no idea replied philip
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0338662912.wav|16|swansea city e bapetse ka ho lekana le kaizer chiefs
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_5130890500.wav|18|not at this particular case tom apologized whittemore
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_2730596480.wav|1|mmae a sisinya hlooho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_1305908951.wav|11|i was sick once typhoid
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_8155730913.wav|11|at once would be instituted a dozen cooperative commonwealth states
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_3298760132.wav|7|khalai o feta dipalesa tse hlaha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_0622818122.wav|17|and raoul listened again to the tale of the house
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_6949787505.wav|11|a combination of canadian capital quickly organized and petitioned for the same privileges
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_7553080214.wav|17|he had barely entered this when he saw the glow of a fire
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_3148062284.wav|14|they are coming ashore whoever they are
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_1858043564.wav|14|and heres another idea
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_5572169389.wav|1|mohlokomedi wa diphoofolo o ile a fepa ndiwa ka botlolo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0145_0098351792.wav|2|a bea kgoho e nonneng hodima botlolo ya jeme eo a e rwetseng hloohong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_1533125465.wav|8|since then some mysterious force has been fighting us at every step
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_8112093950.wav|14|you wont die of malnutrition be sure of that
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_0187068187.wav|14|also there was awe in their faces
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_9817195312.wav|7|neo a sheba tshupanako
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0145_7247828077.wav|2|god bless em i hope ill go on seeing them forever
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_7971422798.wav|1|o ne a sa kgathale ho tshepjwa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_9659237966.wav|9|then he stepped back with a low cry of pleasure
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_6690526538.wav|9|there werent any missions and he was the man to know
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_6977903344.wav|17|mccoy found a stifling poisonous atmosphere in the pent cabin
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_9370179037.wav|14|fortytwo eightytwo eighty
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_1359103515.wav|16|ngwana wa lona o tshireleditswe ke nna ho rialo senqanqana hale motsotelle ngwana enwa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_6697861591.wav|7|ajax cape town e bapetse ka ho lekana le juventus
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_6174431100.wav|1|e ne e tshetswe setshelong sa polasetike se bulehileng se neng se phuthetswe ka lesela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2098361425.wav|3|ao bathong ha rialo mpshe e shebeha e hloname ebile e lapile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2518832443.wav|3|ditshomo ke tsa ho qoqwa eseng ho behwa mabokosong a patsi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_8031099933.wav|14|the woman in you is only incidental accidental and irrelevant
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9812122502.wav|16|zimkhitha o dula a tsheha ha rialo mmae le ntatae mmoho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_5244341426.wav|3|empa lethabo moropa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_9877961958.wav|8|a sinewy hand dripping with water was clutching the rail
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_8407061447.wav|14|i just do appreciate it without being able to express my feelings
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3817091102.wav|1|ha letsatsi le dikela rapolasi a nea thukile jeke ya lebese
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_1704037312.wav|17|they are his tongue by which he makes his knowledge articulate
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0954940947.wav|3|ke mang ya tla e etsa a sa hlolwe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_5826924555.wav|11|shall i carry you
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_2015009994.wav|16|qetellong mokganni a emisa renkeng ya ditekesi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2910_8895726643.wav|5|will we ever forget it
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_8960509808.wav|11|the eldorado emptied its occupants into the street to see the test
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_6278645784.wav|14|mercedes screamed cried laughed and manifested the chaotic abandonment of hysteria
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_6486365455.wav|1|o ile a tshepisa hore setshwantsho sa bona se tla be se le koranteng haufinyane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_7104248741.wav|18|mandela o dula hokae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_5495751460.wav|1|na o fetiseditswe moo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_7663663158.wav|11|cherokee identified himself with his instinct
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_4843563916.wav|16|nna le ntjhanyana beka re ya ha nkgono mamoeng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_3729598132.wav|18|god bless em i hope ill go on seeing them forever
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_4030947147.wav|14|seventeen no eighteen days ago
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_9341345992.wav|7|sedubi sa dibakwang sa shebahala se tebisitse monahano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_8874952021.wav|11|and the air was growing chilly
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2444942214.wav|3|leba northwest ka seterata sa albertyn ebe o thinyetsa ka ho le letshehadi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3781616300.wav|16|felleng a sena
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_2414558141.wav|17|illuminating oil was becoming all profit
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0145_3467103543.wav|2|mootlwana o ne o tshohile haholo wa itshunya hukung mme wa tsetsela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0806_2764491046.wav|15|a bea kgoho e nonneng hodima botlolo ya jeme eo a e rwetseng hloohong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_4571520069.wav|8|six four nine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_3056472535.wav|7|watford e bapetse ka ho lekana le supersport united
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_4954483313.wav|10|ke kahoo motjhalla a ileng a fetoha mankgane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0806_8674408545.wav|15|for the twentieth time that evening the two men shook hands
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7876_6126432486.wav|12|not at this particular case tom apologized whittemore
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0805328942.wav|3|na sehlopha se sebeditse hantle
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0173535695.wav|16|mokopu wa ikwaela hape
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_5254083748.wav|7|re hloka metsi a ho nosetsa dijalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3497000557.wav|1|a bea kgoho e nonneng hodima botlolo ya jeme eo a e rwetseng hloohong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_7888321903.wav|8|anyway no one saw her like that
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_3754718642.wav|3|ka yona nako eo phakwe ya fofela tlase mme ya phamola monna wa boroso kaofela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_7480074468.wav|1|kgwedi e fetileng e ne e le e maphatephate sebakeng sa tlhokomelo ya diphoofolo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9240242707.wav|3|roballa fatshe ho dithupa tsena mme ke tla o tsosa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3737907406.wav|16|mong mmutla a sheba monna ya apereng yunifomo e bolou
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0806_1345373694.wav|15|dinaledi tsa kgauta di tswa pele
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_7844778194.wav|16|tshebeletso ya boemo ba lehodimo e hlokomedisitse setjhaba hore pula e ka nna ya na haholo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_9894137956.wav|11|it would give me nervous prostration
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3624575130.wav|16|tjhe tjhe e nngwe ya tseno a mmontsha selae sa tarte
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_4764250307.wav|8|yet in accordance with ernests test of truth it worked
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_7548871896.wav|3|mong samson a tlisetsa sibu galase ya metsi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_2922719868.wav|16|leba borwabotjhabela ka seterata sa church
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7912_0503369845.wav|13|mashilwane a ba bolella hore mashilo o mo lahletse ka pereng ka hore a batla kgomo ya hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_1244473756.wav|8|i never allow what cant be changed to annoy me
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_2730592596.wav|8|but it contributed to the smash
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_3886114656.wav|3|ke lokela ho tshwasolloha sefateng sena hore ke kgone ho kgantsha lefatshe letsatsi ka leng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_7726830813.wav|9|macdougall tapped his forehead suspiciously with a stubby forefinger
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_8223454885.wav|17|eightyfive ninetyfive ninety
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_5447507340.wav|16|lengau a arabela re thetsitse letlwepe la hao mme re a tseba ka leqheka la hao
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_2752129724.wav|14|gregson shoved back his chair and rose to his feet
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_4491801240.wav|16|o ne a sa kgathale ho tshepjwa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_8069909341.wav|1|fluffy ha a tlatse ditshila jareteng mme hohang ha a bohole
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_3175511630.wav|3|enwa ke mosuwetsana wa ka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1266_0246210065.wav|0|mootlwana o ne o tshohile haholo wa itshunya hukung mme wa tsetsela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_2372238262.wav|9|and twenty men could hold it with spears and arrows
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0806_3754491210.wav|15|ho bjabjaretsa ke ho etsang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_8901417323.wav|9|the boy obrien was specially maltreated
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_4714692404.wav|1|yaba magozwe o ya dula phaposing ya ntlo e marulelo a matala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6417993539.wav|16|ke motho ofe eo o mo hlomphang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_7475070171.wav|11|they are to attack your camp tomorrow night
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7876_6634355162.wav|12|gad your letter came just in time
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_4375722009.wav|11|eight two nine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_5257201182.wav|18|ka tsatsi le leng lwazi a fumana setulo sa kgale se sututswang thoteng e haufi le habo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9335212889.wav|3|ke tsena he ha rialo mekheniki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4475791796.wav|7|potlaka ha rialo jabu a tshwere sejana sa motoho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2248020384.wav|3|namukuru le moena wa hae ba itokisetsa ho ya sekolong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_1886615695.wav|14|dont you see im chewing this thing in two
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_7409263850.wav|3|wa hlaha wa ba moholoholo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0360751557.wav|16|le ntahlehetse ha hweshetsa kamuzu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9717849091.wav|16|labohlano haesale e le letsatsi le leholo la dikgau tsa dinaledi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_1244164385.wav|1|ke ka moshanyana ya bang mokganni wa sefofane ha araba magozwe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_1192322932.wav|8|daughtry elaborated on the counting trick by bringing cocky along
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_1643240804.wav|7|e hodimodimo marung ka hodima ngwedi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_8370624599.wav|1|a supa mokopu ka monwananyana wa hae o monyane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_9747914830.wav|1|mme ba sebetse jwalo ka ngatana elengwe ho pjhatla diketane tse ba tlamellang bokgobeng ka hosafeleng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3303797225.wav|1|tseleng ba fihla fenseng ya mapolanka e sa phahamang haholo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_8097089781.wav|16|ke tlameha ho ya batla abuti tsotsi ke hlothe pampiri yane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_8779419983.wav|17|perrault found one with head buried in the grub box
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_9051821571.wav|11|two zero nine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_5740063889.wav|16|metsi a metsi haholo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_2835572431.wav|16|mosireletsi thamsanqa gabuza o ile a lahlela bolo ka lebaleng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_1601156460.wav|7|moletsaphala o ile a abela toka skosana penele
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_7349782072.wav|11|they are not regular oyster pirates nicholas continued
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_2544709960.wav|17|king took every advantage he knew
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_9397046969.wav|17|for a time the exciting thrill of his adventure was gone
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0145_2535989887.wav|2|lord but im glad to see you again phil
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_5395166653.wav|14|also churches and preachers i had never known
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_3005237457.wav|3|thoko a e nahanisisa metsotswana e se mekae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0063124932.wav|3|ho bjabjaretsa ke ho etsang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_4286087405.wav|17|the italian rancho was a bachelor establishment
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2388_4713447274.wav|4|author of the danger trail philip steels etc
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_5674653722.wav|1|tshebeletso ya boemo ba lehodimo e hlokomedisitse setjhaba hore ho ka nna ha tjha hlaha thoteng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4838180957.wav|3|mme ba sebetse jwalo ka ngatana elengwe ho pjhatla diketane tse ba tlamellang bokgobeng ka hosafeleng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0302716342.wav|16|jwale ke mang eo ha botsa morena
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_2654765940.wav|1|david booysen e ne e le karolo ya lebota kgahlanong le bolo e neng e rahwa e sa sitiswe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1266_8079401091.wav|0|for the twentieth time that evening the two men shook hands
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_0744004315.wav|11|zero fortytwo eleven
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9763603744.wav|16|juventus e bapetse ka ho lekana le chelsea
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_2496885273.wav|17|such an act was in direct violation of the laws of the land
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0261605939.wav|1|ka hara sefofane sa serwalankgwana ho ne ho ena le tlou e nyenyane ka tlasa kobo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_5218046431.wav|11|if you mean to insinuate brentwood began hotly
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_7515030228.wav|7|sisanda o molelele ho feta dilemo tsa hae o futsitse ntatae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_6274243693.wav|14|it seems like a strange pointing of the hand of god
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_8895730116.wav|1|na o ka nneletsa letswai
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_0159624546.wav|17|get down and dig in
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_9938642743.wav|7|yaba o thetha sehohlola
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_9382181598.wav|14|the resident commissioner is away in australia
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_8866675688.wav|8|it issued a rate of forty two dollars a car on charcoal
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_0170531119.wav|9|eli harding asked as shunk started to follow
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2854753660.wav|3|re ile ra tshwara moketjana o moholo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_5233016685.wav|14|nine eight seven
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7876_1362996236.wav|12|author of the danger trail philip steels etc
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_0814954003.wav|14|it occurred to me that there would have to be an accounting
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_8211706277.wav|16|mokwetlisi o ile a kenya gabadinho mhango sebakeng sa asavela mbekile papadi e se e fela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_4592_3904245027.wav|6|for the twentieth time that evening the two men shook hands
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_4838824749.wav|8|sixtysix fiftyfour seventyseven
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_3750304101.wav|8|the weeks had gone by and no overt acts had been attempted
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2388_7132331739.wav|4|ke mang eo e bileng seahi sa ntlo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_6713648840.wav|17|so we have to fit the boat throughout with oil lamps as well
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_0658354780.wav|14|nimrod replied with a slight manifestation of sensitiveness
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_1656308690.wav|17|yet he dreams he is immortal i argue feebly
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6166146367.wav|16|sisanda a atamela ho lona haholo kamoo a ka kgonang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4824112320.wav|7|ho hapjwa ke tse tumileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3564794393.wav|16|na papadi e a bapalwa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_7322890510.wav|1|kamoo mong kgudu a kileng a oqhekanyetsa lebelong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_6883479724.wav|14|good business man curly obrien was saying
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_3181477359.wav|11|hell knock you off a few sticks in no time
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6868260590.wav|16|ntja ya thabang e ithusetsa ka koloing
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_7709234132.wav|7|ao bathong ha rialo mpshe e shebeha e hloname ebile e lapile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_9529877980.wav|1|wa bopa e motona le e motshehadi wa ba hlohonolofatsa mme wa ba rea lebitso la motho mohla ba bopjwang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_3824831164.wav|14|its diameter was not more than two hundred yards
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4001251887.wav|7|hela bra tsotsi mong mmutla a rialo mphe pampiri ya ka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_8675994702.wav|16|mong samson a tlisetsa sibu kgalase ya metsi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_6660561154.wav|1|mme bohle ba ne ba thabile ntle feela le leshodu lane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3743357401.wav|1|na ho na le maruarua ka hara kou
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_5087988733.wav|9|was it the rendezvous of those who were striving to work his ruin
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_8034363369.wav|11|what i saw i could not at first believe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_8090918909.wav|17|he was determined now to maintain a more certain hold upon himself
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_3413184783.wav|9|the portuguese boy passed the hawaiian
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_7269161508.wav|14|he had proved it today with his amateurish and sophomoric productions
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_7043198786.wav|11|it will break our hearts and our backs to hoist anchor by hand
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_0858514097.wav|17|eleven ninetyfive zero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2388_2777855094.wav|4|mme ba sebetse jwalo ka ngatana elengwe ho pjhatla diketane tse ba tlamellang bokgobeng ka hosafeleng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1266_9802635088.wav|0|ho bjabjaretsa ke ho etsang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_5352191595.wav|3|ako shebe dijo tsena tse hlabosang di tletse hohle moo di emetse rona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_2737982204.wav|14|he was an enthusiast and a desert dweller
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_1278048705.wav|1|re shebe eng thoko
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4660195243.wav|3|thootse ya wela fatshe moo e ileng ya wela hodima letlapa le ka lehlakoreng la thaba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4418970850.wav|3|ntshaleng morao ho hweshetsa felleng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_2856588575.wav|11|soaked in seawater they offset the heat rays
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_8683120738.wav|1|tshepe ya monyako ya re keteketekete
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7912_3837729155.wav|13|molaolapapadi o file felix obada karete e tshehla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_5194033015.wav|3|ntatae o ya phomolong neng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_3786884829.wav|11|what pascal glimpsed with the vision of a seer i have lived
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3055948865.wav|16|re tla tlameha ho ba kgoponyana jwale a rialo a tiisitse
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_2212196974.wav|14|fiftyfour fortysix seventyseven
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1266_8622473188.wav|0|tafole e ne e kgabisitswe ka dipaletsa le balunu e ntle e bolou ya ntjhanyana beka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_4017414443.wav|11|six six one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_3734666207.wav|17|therefore hurrah for the game
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_4509471073.wav|8|my names ferguson
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2780570530.wav|3|ke mmala ofe oo e leng thatohatsi ya hao
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_2928229278.wav|11|eight seventytwo fortyseven
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6442167483.wav|16|ha e le wena ke tlo o bjabjaretsa le masapo a na a hao a bonolo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6253800048.wav|16|ho a utlwahala a rialo ho sedubi sa dibakwang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0711114072.wav|7|na o tla be o ja
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_6890825458.wav|1|ho bjabjaretsa ke ho etsang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_1029101197.wav|7|motho o lokela ho nahana ka tsela eo botho ba hae bo bopjwang ka yona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0702322988.wav|1|ke mang eo e bileng seahi sa ntlo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_0755144712.wav|14|they are big trees and require plenty of room
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_0395328893.wav|8|two five six
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_4800644067.wav|1|yaba ka hlokoo tshwara letlwepe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0614779760.wav|3|mosadimoholo o ile a laela mashilwane hore a kgethe pitsa e le nngwe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_3142596580.wav|14|its the strap hangers thatll keep us from going under
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_1383589545.wav|14|god bless em i hope ill go on seeing them forever
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4016707521.wav|7|thuhlo a tla le dibotlolo tsa metsi a tshikgunyang a sediba ho theosetsa dijo tse monate
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_4592_4538521957.wav|6|ke mang eo e neng e le molaodi wa provense ya kwazulunatala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_8045570776.wav|7|mong samson a tlisetsa sibu galase ya metsi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_7064130019.wav|8|two gigantic owls were tearing at the carcass
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_0455152168.wav|11|im sure going along with you all elijah
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_8428328752.wav|16|jwale re ka lokisa hoo ha rialo mpshe empa pele le lokela ho tshepisa mme tshepiso ke ntho e sa lokelang ho rojwa le kgale
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3420911344.wav|1|khalai o bua le difatjana tse kampetseng sekolo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_4804188388.wav|16|moletsaphala o ile a abela evans rusike penele
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_5433074602.wav|3|qetellong kolotsana e ne e qetilwe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_2016697188.wav|16|ba bang re tsheha ditsietsi ha ba bang di re pjhatla jwalo ka ha motho a pjhatla lehe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_1068533480.wav|7|ke mokopu wa bohlokwa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_8034652234.wav|17|five six nine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_4629543867.wav|16|jwale hobaneng re sa etse moketjana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_0484037406.wav|11|his infernal chattering worries me even now as i think of it
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_1318442230.wav|14|one seven four
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_6879815170.wav|8|it was his intention to return to eileen and her father
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9870533955.wav|3|jomo cosmos e bapala le liverpool ka labone ka phirimana setadiamong sa themba senamela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0703119363.wav|7|butle butle sekepe sa moyeng sa kotsama ngweding mme diaseteronate tse pedi tsa tswela ka ntle
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_8514265448.wav|9|between the rush of the cascades streaks of rust showed everywhere
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_9860626169.wav|10|and you always want to see it in the superlative degree
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_1159351292.wav|9|it was edged with ice
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_0711744361.wav|17|six eight eight
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2902193494.wav|7|o mong mmutla a rialo a kgutlisetsa sehwete se sa fellang ka pokothong ya hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_5061862761.wav|7|taka setshwantsho sa ketsahalo ena mme ebe o taka pudulana ya puo bakeng sa mosadimoholo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1266_8588950010.wav|0|ho hapjwa ke tse tumileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2004649184.wav|7|ba etsa dintho tse fapaneng tse ka jewang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_8255927866.wav|1|hobaneng ha ba hlotswe lekgetlong la pele
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1266_7256256547.wav|0|ka letsatsi le leng mme maneo a jala mokopu jareteng ya hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_7464932949.wav|3|na mollo o lokela ho tlohelwa feela o sa tingwa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_2688501419.wav|1|o se kgathatsehe letsatsi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_2563965810.wav|11|and you always want to see it in the superlative degree
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_3472240507.wav|10|ke mang eo e bileng seahi sa ntlo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_7445066269.wav|14|how old are you daddy
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0806_3254498432.wav|15|imbudu e ile ya ya harangwane mtonyama yare ke motjhana wa hao nonkungu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_2974274830.wav|17|they continued valiantly to lie but the truth continued to outrun them
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_8973733776.wav|1|a phahamisa tjhelete ya pampiri
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6606217592.wav|16|senqaqana sena sa ahlama tshepo a kgalehile hamonate ka lehanong la senqaqana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_5907336500.wav|14|my im almost homesick for it already
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_4754070330.wav|11|of course that is uninteresting she continued
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_4978365484.wav|8|a wildly exciting time was his during the week preceding thursday the eighteenth
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6514411574.wav|16|motho o lokela ho nahana ka tsela eo botho ba hae bo bopjwang ka yona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6216045852.wav|16|mokopu wa buleha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_4147911740.wav|16|gift gaswin palesa lefaso le kaylee ba fumana dinaledi tse kgubedu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0944083049.wav|16|lebitso la hae ke mosuwetsana akinyi o nthata haholo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6617000494.wav|16|dijalo tsa qala ho omella mme tsa shwa le diphoofolo tsa ota mme tsa tsherema
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_4592_9174429439.wav|6|not at this particular case tom apologized whittemore
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0481511256.wav|1|ba ile ba kopa kunupi sekgo se hlalefileng hore a ba thuse
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_1646921443.wav|17|three three three
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_5978812797.wav|3|empa yare ka phirimana bakeng sa hore a lefshwe a lahlelwa tjhankaneng a ba a amohuwa borashe ba hae ba ho taka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2388_7572941491.wav|4|will we ever forget it
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0197415028.wav|3|o tla hapa thonamente neng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_2377847992.wav|16|o tla be o ja eng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_1687261710.wav|14|a half a case of tobacco was worth three pounds
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_5251880753.wav|16|vusi a mathela ka tlung empa a lebala ho kwala lemati la kitjhene
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_1183096998.wav|11|it is the fire partly she said
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_6173766170.wav|7|hobaneng o tlile mo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_2712365807.wav|8|you want to go over and see his gang throw dirt
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0078460890.wav|7|ho hapjwa ke tse tumileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_4953732223.wav|9|they handled two men already both grubthieves
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7912_1832369027.wav|13|not at this particular case tom apologized whittemore
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9866236989.wav|16|tafole e ne e kgabisitswe ka dipalesa le balunu e ntle e bolou ya ntjhanyana beka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9960943449.wav|16|ke mo baketse kuku e ikgethang empa nke ke ka kgona ho siya lebenkele feela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_2297811189.wav|17|nowhere did the raw earth appear
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_1654976204.wav|11|how much was it
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_1275030068.wav|1|tloo ntate a mmitsa a phamola dinotlolo tsa koloi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_7529535076.wav|18|molaolapapadi o file felix obada karete e tshehla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_4713176368.wav|11|her face was against his breast
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4135799971.wav|7|o ile a fumana motohonyana ka kopinyana feela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_7198753286.wav|17|four zero two
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0536566096.wav|16|o batla eng wena mosadi wa lefatshe le ommeng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_4980150881.wav|14|five four six
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0476232900.wav|3|ha ho na dinonyana tse nkileng ngwana mona ho rialo ntate wa tshepo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0122374184.wav|1|ketti o ne a thabile haholo ho fihlela a bolella batswadi ba hae se etsahetseng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2910_0954475981.wav|5|dinaledi tsa kgauta di tswa pele
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_6506928048.wav|8|tom spink has a harpoon
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_1249381287.wav|16|kgomo pere tonki le katse di ka koloing ya ntate thabang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2952879612.wav|3|antoni ke bomang bale
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_0978744492.wav|9|five two nine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_3950924418.wav|8|she had been thoroughly and efficiently mauled
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_7426958215.wav|3|mtonyama o ile a khutlisetsa nonkungu ha hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_5122422694.wav|18|ho hapjwa ke tse tumileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_6126599361.wav|8|he could feel a new stir in the land
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_1629586526.wav|1|sunderland e bapetse ka ho lekana le southampton
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_7031321692.wav|16|lefokolodi ya e ba yena pele wa ho ba sethibathibane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_5649615448.wav|9|ah we were very close together in that moment
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_3901674350.wav|3|motinyane wa fofela kwana o sa utlwa bohloko empa thootse eo e ne e wetse lepatsong la letlapa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_8442640812.wav|11|only it is so wonderful so almost impossible to believe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3032925747.wav|16|empa lethabo moropa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_3748821195.wav|14|seventysix eightytwo nineteen
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_3519541556.wav|3|empa hanghang nomsa a ba matla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2015327021.wav|7|imbudu e ile ya ya harangwane mtonyama yare ke motjhana wa hao nonkungu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_6477564944.wav|8|and as in denial of guilt the onelegged boy replied
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_8898608094.wav|17|without a doubt some of them have dinner engagements
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2565560241.wav|7|moletsaphala o ile a abela larry horaeb penele
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_0928035503.wav|14|clubs and balls and cities grew to be only memories
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_2855719858.wav|14|he would first hunt up gregson and begin his work there
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_2718073849.wav|9|i was near the cabin and saw you
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0977530285.wav|1|wa theosa ka seterata
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_8232042823.wav|16|free state stars e tla bapala mmoho le chelsea ka mantaha ka phirimana goble park
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4587398479.wav|7|bomokotatsie ba pata tshepo pakeng tsa lehlaka la ntlo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_8430849199.wav|7|oho oho oh joowee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_3450895824.wav|11|each day she became a more vital part of him
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_2217101881.wav|16|tsamaya o ise domino ka jareteng a hoeletsa vusi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_8371983052.wav|9|it was more like sugar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_9218178125.wav|9|he may anticipate the day of his death
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0772084810.wav|7|yaba he motjhalla o monyane o qala ho phura le ho hlahlatha makala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_4987641311.wav|11|its the aurora borealis
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_5080712624.wav|18|imbudu e ile ya ya harangwane mtonyama yare ke motjhana wa hao nonkungu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_5918838204.wav|17|he cried in such genuine dismay that she broke into hearty laughter
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_7082594373.wav|3|mantsiboyeng ao a fa thukile yokate
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_9627260589.wav|1|ho hapjwa ke tse tumileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_4592_7102043443.wav|6|kahoo kajeno o ka phomola mme phirimaneng ena ke monyetla wa ka wa ho phetela wena pale
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_8404176588.wav|7|lehlabula letlang mokopu wa mme maneo wa qhoma wa tjhwatleha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_0399744694.wav|14|thirtyfive twentyfive twentynine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_4690293384.wav|11|why the average review is more nauseating than cod liver oil
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_4598622491.wav|11|nine two six
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_8459596361.wav|1|qetellong ba e fumana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_5527481460.wav|3|mohlomong e tshwasehile sefateng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0527308133.wav|7|bohle ba etsa ditlatse le mahofi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0823187913.wav|3|yaba kuku ya tjhokolete bisikiti phae ya apole le koeksister
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_8593867482.wav|16|e hodimodimo marung ka hodima kgwedi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6186788607.wav|16|palamang ha rialo mokganni
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_7873644179.wav|17|oppressive as the heat had been it was now even more oppressive
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_6833381743.wav|18|he turned sharply and faced gregson across the table
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_9894681270.wav|14|but all my dreams violated this law
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_8998131268.wav|7|hang ha hlaha lentswe le thabileng ka nqane ho heke
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_5315020162.wav|1|tshebeletso ya boemo ba lehodimo e hlokomedisitse setjhaba hore ho ka nna ha foka moya o bohale
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4403551155.wav|3|shebang ke tekesi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_3122822635.wav|17|we fished sharks on niihau together
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4092215591.wav|3|feela ho tlile jwang o le moholo hakaale hore o ka fumana mosadi e monyenyane e motle hakaale
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2586437057.wav|7|yaba kuku ya tjhokolete bisikiti phae ya apole le koeksister
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_5992662541.wav|7|ho pjhatla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_6014537627.wav|1|ntjhanyana beka o ntse a honotha nnatenate nnate nnatenate
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_2446000048.wav|8|mcveigh when he returns from a trip to honolulu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_9049643979.wav|17|massage under tension was the cryptic reply
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3162962157.wav|16|yaba o ya ho mekheniki karatjheng ya granville
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1266_7898041475.wav|0|author of the danger trail philip steels etc
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_3733895877.wav|8|he unfolded a long typewritten letter and handed it to gregson
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_7214483117.wav|16|makoloi a hapjwa ka sheshe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_1094126810.wav|16|jowe mo tshwareng kapele hle ha hoeletsa mmae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_5742882405.wav|7|mme smuts a kgabela le ho seha dilae mataese mme a tshela dinoko a thuswa ke sannie le frikkie
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_8028892924.wav|14|six eight one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_3656190461.wav|14|it was not redeyes way to forego revenge so easily
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2892113289.wav|3|la ho qetela nozibele a qetelletse a bonela kganya hojana le ena
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_1047264462.wav|7|o ne a sebedisa moshanyana enwa ka thata
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_5970881189.wav|8|i saw mr pike nod his head grimly and sarcastically
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_6555219556.wav|8|it was not exactly a deportation
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0806_0135693826.wav|15|and you always want to see it in the superlative degree
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_9277683578.wav|1|thabang o kganna koloi ya hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_6768220136.wav|7|ntate wa ka o reketse rantsipe dikgalase tsa mahlong tse qabolang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_5394453491.wav|3|tshebeletso ya boemo ba lehodimo e hlokomedisitse setjhaba hore ho tla foka moya o matla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_6157236723.wav|11|much replied jeanne as tersely
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_2029789005.wav|1|periperi ya hae e matla haholo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0160908894.wav|1|ekare pompo e robehile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_0552670763.wav|9|yes sir i corrected
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_8981882707.wav|8|pierre obeys me when we are together
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0583297440.wav|16|mokwetlisi o ile a kenya thato motaung bakeng sa lucky nguzana papadi e se e ntse e tlo fela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0145_2430527702.wav|2|mme ba sebetse jwalo ka ngatana elengwe ho pjhatla diketane tse ba tlamellang bokgobeng ka hosafeleng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_3925496040.wav|9|in a flash philip followed its direction
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_9041025992.wav|17|seven fiftyseven fiftysix
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2220752413.wav|7|mme maneo o ne a batla ho ntsha mokopu ona ka tseleng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_5812223395.wav|8|here in the midmorning the first casualty occurred
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_4353457747.wav|8|she nodded and her eyes grew soft and moist
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3014982422.wav|16|ke kahoo motjhalla a ileng a fetoha mankgane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_1491926236.wav|11|i came for information more out of curiosity than anything else
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_8501972320.wav|17|it was this proposition that started the big idea in daughtrys mind
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_1591874108.wav|3|wa kwala tsela e jareteng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3925023531.wav|1|watford e bapetse ka ho lekana le sunderland
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_9470106139.wav|1|makoloi a hapjwa ka sheshe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2910_2821079630.wav|5|ka letsatsi le leng mme maneo a jala mokopu jareteng ya hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_0241986959.wav|11|ninetyeight seventyeight seventeen
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_5183907414.wav|9|this is my fifth voyage
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_5213414341.wav|7|mashilo o bolaile mashilwane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_8620969924.wav|16|mphe mapheo a rialo hore ke tle ke fofele hodimo sepakapakeng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_7266081430.wav|8|and their chief virtue lies in that they will never wear out
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0016174774.wav|16|hobaneng ha o rata ho sebetsa mona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9803168110.wav|16|boithabisong mmutlanyana wa ja wa nwa le ho jaefa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_8647615996.wav|14|he bore no grudges and had few enemies
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_6115756122.wav|7|ba paqama mosikong wa noka ba kupeditswe ke mathe a noha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0728483357.wav|7|thinyetsa ka ho leletona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_7851162900.wav|3|le tla tjhaba haufinyana jwaloka tlwaelo mme re tla kgona ho theohela tlase phuleng ho ya nwa metsi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2294857750.wav|7|aston villa e bapetse ka ho lekana le manchester united
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_0733422486.wav|17|six two three
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_6033681429.wav|11|he was an athlete and a giant
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_6199325340.wav|9|zero zero zero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2910_2117265762.wav|5|mandela o dula hokae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_0142252711.wav|8|i suppose you wonder why she is coming up here
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_5306136675.wav|3|leicester city e bapetse ka ho lekana le club atletico de madrid
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_3892269366.wav|11|out of abstractions ernest had conjured a vision and made them see it
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_1657494286.wav|16|kgomotso koena o ile a kenngwa sebakeng sa kagiso mlambo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_5946683682.wav|7|jwale hobaneng re sa etse moketjana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_3954873376.wav|9|eight thirtyeight ninetytwo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0806_6221415424.wav|15|mashilwane a ba bolella hore mashilo o mo lahletse ka pereng ka hore a batla kgomo ya gagwe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_3411835339.wav|8|that came before my a b cs
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4454964976.wav|3|black aces e bapetse ka ho lekana le fc barcelona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0597043482.wav|7|re tla ba le mekopu e mengatangata eo re tla e ja
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_7541405775.wav|11|what part of the united states is your home
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_1273522723.wav|17|shed make a good wife for the cashier
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_4589406120.wav|14|the gray eyes faltered the flush deepened
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9914230474.wav|3|yaba o ya ho mekheniki karatjheng ya granville
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0389604236.wav|16|mokganni a kenya pampiritjhelete ka letsohong la hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_9993782663.wav|17|redeye swung back and forth on the branch farther down
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7912_6419663579.wav|13|tafole e ne e kgabisitswe ka dipalesa le balunu e ntle e bolou ya ntjhanyana beka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_6316539397.wav|14|for the rest he was a mere automaton
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_1148216563.wav|3|motsemoholo o lefella setadiamo jwang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_3942922522.wav|11|six six seven
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0145_9114591742.wav|2|ka letsatsi le leng mme maneo a jala mokopu jareteng ya hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0806_1096443736.wav|15|lord but im glad to see you again phil
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_3830127389.wav|7|a qetela ka ho ba bjabjaretsa masapo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_1567595675.wav|17|how could he explain his possession of the sketch
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3806808740.wav|16|kgomo e hlabile thabo ka lenaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_5195235945.wav|10|ho bjabjaretsa ke ho etsang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0806_8561715988.wav|15|ke kahoo motjhalla a ileng a fetoha mankgane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_0257008717.wav|11|fiftysix thirtysix eightysix
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2693809102.wav|3|moletsaphala o ile a abela anthony laffor penele
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_3130813482.wav|3|re di shebile tlasa difate
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_1716127520.wav|7|yaba lethabo o ikutlwa a hloname
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_8481813162.wav|3|namukuru o palamisa moena wa hae baesekeleng ya hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_8891144338.wav|11|five zero eight
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9416444045.wav|16|hayley a tletleba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_7666256371.wav|3|batho ba sebedisa dintho tse ngata haholo tse kang dikopi le dipoleiti le dikgaba a rialo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_6144832388.wav|7|taka setshwantsho ho bontsha e nngwe ya diketsahalo tse karolong ya ho qetela ya pale ena
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_9884035603.wav|7|norwich city e bapala le manchester city ka moqebelo thapama olympia park
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_8492510406.wav|11|the river bared its bosom and snorting steamboats challenged the wilderness
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3344342348.wav|16|empa mme ha hoeletsa ngwananyana eo ha a dula tafoleng ha ho dijo poleiting ya ka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_5502583150.wav|3|ke tla o bona hosane sefate sa dilamunu ho rialo khalai
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_9174386886.wav|17|his immaculate appearance was gone
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_3539600846.wav|8|he considered the victory already his and stepped forward to the meat
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_6368937495.wav|11|there was none of the joy of meeting in his face
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_9805922466.wav|17|jerry was so secure in his nook that he did not roll away
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_3951629014.wav|9|this tacit promise of continued acquaintance gave saxon a little joythrill
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_2247018702.wav|14|zero five nine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_6849263958.wav|11|he had been foiled in his attempt to escape
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2388_0563269686.wav|4|mandela o dula hokae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_7388237175.wav|11|two days ago jeanne learned where her fathers men were hiding
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_5857071701.wav|1|tshwene e sadisa hantle ka ho tsoka letsoho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_3534678539.wav|17|a shadow was creeping over pierres eyes
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4698827688.wav|3|lefapha la thuto le hlokomedisitse setjhaba hore ho ka nna ha eba le hlaha tse tukang thoteng tse ka namelang dibakeng tse ngata
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_8623136179.wav|9|he had no excuse for the feelings which were aroused in him
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_1953769062.wav|1|empa yare ka phirimana bakeng sa hore a lefshwe a lahlelwa tjhankaneng a ba a amohuwa borashe ba hae ba ho taka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_1394642891.wav|9|wada louis and the steward are servants of asiatic breed
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2575684318.wav|3|harena hotola ho araba lerato re tlo bapala mono moreting pela metsi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0062825394.wav|7|hayley a tlolela hodimo mme a nyahlatsa monna wa boroso
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_1057175155.wav|16|tsela e lebisang nokeng ke efe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_3905253159.wav|7|fumana dipale tse itseng mme o kgutle le tsona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_7139521376.wav|8|it seemed the ordained order of things that dogs should work
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9647036858.wav|16|hobaneng ha re tla shwa ka ntle ho dinotshi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_1812657046.wav|14|robbery bribery fraud
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3337909644.wav|1|mootlwana o ne o tshohile haholo wa itshunya hukung mme wa tsetsela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4352031147.wav|3|ajax cape town e bapetse ka ho lekana le supersport united
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0040095246.wav|16|bakeng sa mosebetsi ona o ile a lefshwa ka dikhoine tse mmalwa tsa silefera
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_7033584247.wav|9|so hughie and i did the managing ourselves
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6621633522.wav|16|moletsaphala o ile a hlokomedisa andrea fileccia hore o entse phoso
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_5261351179.wav|7|diphoofolo tse ding tsa dumela kahoo tsa tutumolotseha ho ya dibakeng tse fapaneng di ikemiseditse ho fumana letsatsi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_6202751115.wav|3|letsatsi la hae la tswalo le neng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_3010628111.wav|3|makoloi a hapjwa ka sheshe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_3738895385.wav|14|yea so are all the lesser animals of today clean
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_3343899720.wav|14|he began to follow the footprints of the dog
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_8527264417.wav|8|your price my son is just about thirty per week
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_0782770199.wav|8|i saw it when she rolled
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_5831177500.wav|11|she added with genuine sympathy in her face and voice
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_6858287710.wav|7|kgotso o palame tonki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_0627028488.wav|14|the man smiled grimly and brought a hatchet and a club
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_0674202573.wav|17|saxon waited for she knew a fresh idea had struck billy
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_6384573048.wav|3|tshebeletso ya boemo ba lehodimo e hlokomedisitse setjhaba hore ho tla ba le mahadima
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2388_2129899813.wav|4|mashilwane a ba bolella hore mashilo o mo lahletse ka pereng ka hore a batla kgomo ya gagwe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_3741719514.wav|9|no man ate of the seal meat or the oil
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_3605025570.wav|17|they were the presage of storm
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_6959056798.wav|3|mokopu wa pitika letswapong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0145_3631565768.wav|2|molaolapapadi o file felix obada karete e tshehla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_6878240689.wav|14|thats where they cut off the scottish chiefs and killed all hands
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_5836006459.wav|14|nope not the slightest idea
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_9607006970.wav|11|it was not a large lake and almost round
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9490163458.wav|3|kena ho rialo ntja
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_2977524237.wav|14|he would destroy all things that are fixed
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0277911867.wav|7|re tlilo etsa jwang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0598953569.wav|3|thuli mpshe o ile a amohelwa e le ceo wa nakwana wa saa ka phato
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_2759831818.wav|16|ba fihla kgohlwaneng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_8055214421.wav|11|zero three nine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_7959443601.wav|3|a tshela metsinyana ka hodimo ho sehlahla sa bohlwa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_9529050981.wav|7|jwale re ka lokisa hoo ha rialo mpshe empa pele le lokela ho tshepisa mme tshepiso ke ntho e sa lokelang ho rojwa le kgale
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_2489892418.wav|1|na ba tla kgethwa hape dikgethong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_5854527332.wav|14|i may manage to freight a cargo back as well
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_1290179183.wav|10|god bless em i hope ill go on seeing them forever
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_4914470920.wav|17|out of his eighteen hundred he laid aside sixteen hundred each year
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4562808076.wav|3|ke fumane pampitshana ena monyakong wa ka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_5007355823.wav|16|na seo se bolela hore re tla fumana tjhokolete jwale
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1266_6106521430.wav|0|a bea kgoho e nonneng hodima botlolo ya jeme eo a e rwetseng hloohong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_8384927665.wav|10|he turned sharply and faced gregson across the table
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_7999028926.wav|16|tlong tlong bana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_0004462675.wav|11|like a flash he launched himself into the feathered mass of the owl
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_3583989773.wav|7|mma lefokolodi a hweletsa sebedisa matla a hao a ikgethang ngwanaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_6044879113.wav|1|enwa ke khalai
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_5478645343.wav|1|enwa ke mme mapalesa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_2741276749.wav|14|i graduated last of my class
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_4194758603.wav|14|the sharp voice of wolf larsen aroused me
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_0749783081.wav|9|four four one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_5047851479.wav|7|ho tswa hodimodimo marung ditsheho tsa zimkhitha di ne di utlwahala di theohela tlase jwaloka tshepe e nyane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9273543165.wav|3|ka kopo sefate phukalatsa makala a maholo hore re kgone ho balla tlasa moriti wa hao
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_1761192418.wav|17|mrs mcfees jaws brought together with a snap
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_0850767205.wav|9|thirtytwo zero one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3836377166.wav|16|a re ke siile ba phehile mane di tlamehile hore ebe di butswitse jwale
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2910_0002300303.wav|5|ke kahoo motjhalla a ileng a fetoha mankgane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2771062476.wav|3|ya tshepisa ho mamela ka ditsebe tsa yona tse sootho tse bonojana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_5093229197.wav|1|sinazo le vusi ba entse seo nkgono a ba bolelletseng sona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4536611793.wav|3|tlase tlase tlase
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_4564537266.wav|14|this is a common experience with all of us
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_3250222622.wav|8|one zero four
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_7770871958.wav|16|mashilo o ile a bolella mashilwane hore ba tsamaye
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_0342308712.wav|14|it is very plausible to such people a most convincing hypothesis
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9800632638.wav|3|wa bopa e motona le e motshehadi wa ba hlohonolofatsa mme wa ba rea lebitso la motho mohla ba bopjwang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_7138543386.wav|1|empa ha butlenyana dintho tsa qala ho fetoha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_5094948114.wav|9|they were artists not biologists
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3901624007.wav|1|bosiung boo yaba nna le kgwedi re rwala dikepisi tsa rona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_3987035667.wav|10|lord but im glad to see you again phil
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0806_1421099859.wav|15|ka tsatsi le leng lwazi a fumana setulo sa kgale se sututswang thoteng e haufi le habo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_8554851817.wav|1|leba leboyabophirimela ka seterata sa jan smuts
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_7920918856.wav|7|oh ho rialo thukile ke tla etsa jwalo nakong e tlang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4883631560.wav|7|makoloi a hapjwa ka sheshe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_1623160589.wav|16|jake a hoeletsa ha ba se ba fihla seteisheneng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_5771537763.wav|7|fc barcelona e bapetse ka ho lekana le mamelodi sundowns
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0388515110.wav|16|lentswe la ka ha hweshetsa kamuzu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_7616219005.wav|9|and after the bath a shave would not be bad
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_0981811795.wav|8|you mean for this state general alberta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_1820844471.wav|17|five eight three
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0898440465.wav|7|zimkhitha o hoeletsa mmae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_8171269854.wav|14|the eastern heavens were equally spectacular
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0806_5515066954.wav|15|god bless em i hope ill go on seeing them forever
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_2084586197.wav|17|three two one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0057079866.wav|16|free state stars e bapetse ka ho lekana le bournemouth
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_9549369782.wav|14|she was his now forever
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_1125199791.wav|17|i had faith in them
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_0024821170.wav|9|the emotion which she had suppressed burst forth now in a choking sob
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2388_0064780395.wav|4|tafole e ne e kgabisitswe ka dipaletsa le balunu e ntle e bolou ya ntjhanyana beka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_5607116731.wav|1|yaba senqanqana se tsitsinya hlooho ya sona e kgolo se bontsha hore ha se so mmone
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3817575030.wav|1|tloha mona domino
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_1319820645.wav|1|dulang fatshe le shebelle mona a rialo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2910_9337532807.wav|5|kahoo kajeno o ka phomola mme phirimaneng ena ke monyetla wa ka wa ho phetela wena pale
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_1669415420.wav|10|tshebeletso ya boemo ba lehodimo e noha hore pula e ka nna ya na kapa bophirima
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_4307348129.wav|18|ke kahoo motjhalla a ileng a fetoha mankgane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_2562049995.wav|1|a boela a etsetsa nonkungu sefaha se setle sa molala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_1186097027.wav|11|he did not rush in
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9352115911.wav|3|ho entswe eng ho tlotla ho tshwana hoo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0532767095.wav|7|ke rata meketjana ha rialo api
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_4592_1832174660.wav|6|gad your letter came just in time
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_8137988983.wav|11|im playing a single hand in what looks like a losing game
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_0556370289.wav|11|i have been doubly baptized
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_5832878110.wav|16|malebetjh o ya hopola hore na o ne ankga hampe jwang a hopola boitshwaro boo baneng baitshwere ka bona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_9051138222.wav|1|hobaneng ha inthanete ya ka e le lenama hakana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4962564267.wav|7|mokwetlisis o ile a kenya sifiso mbhele bakeng sa bernard parker nakong eo ho ntse ho bapalwa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_1834260559.wav|11|four two one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_6338043175.wav|7|pele ba ile ba qala ka ho bapala tekesitekesi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_0586942619.wav|9|gregson had left the outer door slightly ajar
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_2457146452.wav|14|she was sleeping under his protection as sweetly as a child
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2882749214.wav|7|ketti a sheba hosele kapele mme ka matsoho a thothomelang a qala ho bapala piano ya monwana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_0411224099.wav|9|it lived in perpetual apprehension of that quarter of the compass
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_7944298664.wav|11|you must sleep he urged
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_3560749490.wav|7|re batlile re tshwarwa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_1125594955.wav|16|ha ke so phehele ntja dijo nna ho rialo nozibele
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_8583825425.wav|3|moletsaphala o ile a abela willem mwedihanga monyetla wa ho raha bolo a sa sitiswe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_8895886922.wav|17|youre joking me sir the other managed to articulate
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_8746839118.wav|16|dijalo tsa qala ho sosobana hape mme dikgopo tsa diphoofolo tse lapileng tsa qala ho hlahella le ho feta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_9617003169.wav|7|oho lenong tlhapi ya bohlale ha rialo mosadi ke ntse ke batlana le dipale
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_1770058755.wav|3|motse are mantsibua ka kgwedi ya tshitwe ho ne ho tjhesa haholoholo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0145_6976973494.wav|2|ke mang eo e bileng seahi sa ntlo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_3551841553.wav|9|obrien took off his coat and bared his right arm
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_3508581593.wav|11|the night was calm and snowy
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_2863107501.wav|14|what if she did not come to the rock
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_1390402501.wav|8|when i came to i was waving my hat and murmuring ecstatically
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_2109595115.wav|8|the lines were now very taut
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_4258515073.wav|10|mashilwane a ba bolella hore mashilo o mo lahletse ka pereng ka hore a batla kgomo ya gagwe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_6888911593.wav|3|shebang hore na ke hodimo jwang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_7940428252.wav|9|the fire people like ourselves lived in caves
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_3684091456.wav|9|do you know any good land around here
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_1380253953.wav|9|and now down there eileen was waiting for him
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0145_1561922709.wav|2|not at this particular case tom apologized whittemore
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_6874587282.wav|7|moletsaphala o file moeketsi sekola karete e kgubedu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_5831787441.wav|1|tebogo monyai o ile a fetisetsa bolo pele
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0463078521.wav|3|tlou e kgolohadi ya tjamela ba lelapa ba fetang moo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_3349286851.wav|17|three eight nine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_7067878287.wav|14|there are no kiddies and half grown youths among them
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_3673288637.wav|3|o ne a ntse a se qhoshomisa butlebutle hantle
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9492737144.wav|16|ao bathong ha rialo mpshe e shebeha e hloname ebile e lapile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2730890761.wav|7|thuli mpshe o ile a amohelwa e le ceo ya nakwana ya saa ka phato
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7876_2136712627.wav|12|ho hapjwa ke tse tumileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_3513707768.wav|14|he had worshiped her as dante might have worshiped beatrice
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_7179144385.wav|1|qetang dijo tsa lona bana nkgono a rialo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_2704088577.wav|1|bonang ngwanana enwa o tenne mose wa kgale o tabohileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_1060491345.wav|7|tsa hlaha hantle jareteng e le mekopu e metenya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_5390126101.wav|14|at this moment i felt a stir at my shoulder
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_3786411413.wav|9|daylight found himself charmed and made curious by the little man
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1266_9393002726.wav|0|mandela o dula hokae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_7201982514.wav|17|the butchers and meat cutters refused to handle meat destined for unfair restaurants
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_4119302351.wav|17|surely i will excuse you she cried
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_1516498434.wav|17|and the big persian knew of his existence before he did of hers
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_6434650595.wav|3|na ho ne ho hlile ho hlokeha hantlentle
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4598471900.wav|3|monna e monyane a ema a itlhotlhora
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4074249215.wav|7|kapa ka hara meutlwa ya dipalesa ho honotha ntatae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_7807296078.wav|9|does that look good
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_7404243237.wav|8|i tell you i am disgusted with this adventure tomfoolery and rot
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_6866229321.wav|1|nkanka nkanka bohobe oje
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7876_7548145108.wav|12|ke mang eo e neng e le molaodi wa provense ya kwazulunatala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_3586156457.wav|17|once the jews harp began emitting its barbaric rhythms michael was helpless
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_7109726599.wav|7|bosiung boo baahisane kaofela ba dula mollong mme ba ja setjhu se hlabosang sa sibu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7912_1273286063.wav|13|mme ba sebetse jwalo ka ngatana elengwe ho pjhatla diketane tse ba tlamellang bokgobeng ka hosafeleng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3619801836.wav|1|sala o hlokometse beikhare
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_2934914537.wav|17|mab she said
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_2190791138.wav|16|jo wee ho nahana mme wa lethabo a dutse tafoleng ka kitjhineng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_9523853161.wav|7|ketti a nahana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4503559238.wav|3|kepisi ya ka ya hakwa ke mahlaku a sefate sa kgale sa diperekisi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_3963558738.wav|18|ka letsatsi le leng mme maneo a jala mokopu jareteng ya hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2388_4148208458.wav|4|a bea kgoho e nonneng hodima botlolo ya jeme eo a e rwetseng hloohong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_4094764091.wav|14|in a way he is my protege
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_6826396957.wav|9|i had been born with no organic chemical predisposition toward alcohol
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_0993637923.wav|9|both johnny and his mother shuffled their feet as they walked
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_6530032301.wav|8|but who was eileens double
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_4021907007.wav|17|eight zero one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0823647744.wav|3|tshebeletso ya boemo ba lehodimo e noha hore ho tla foka moya o seng matla kapa botjhabela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7876_6282800263.wav|12|mootlwana o ne o tshohile haholo wa itshunya hukung mme wa tsetsela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_8071738156.wav|1|ke tla sheba webosaete e mpontshang hore nka lokisa jwang metjhine ya ho hlatswa e robehileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_5126500952.wav|16|hobaneng ha a fetiseditswe mola
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9556215429.wav|16|o palamisitse ntja ya hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_8347749807.wav|3|motho o lokela ho nahana ka tsela eo botho ba hae bo bopjwang ka yona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_7694436116.wav|9|he saw all men in the business game doing this
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2388_2219488200.wav|4|ke mang eo e neng e le molaodi wa provense ya kwazulunatala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9461647928.wav|3|moletsaphala o ile a abela liberty chakoroma penele
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0806_1104545457.wav|15|ho hapjwa ke tse tumileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_4616234085.wav|8|he told himself that as he washed himself and groomed his disheveled clothes
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2388_1650233771.wav|4|mootlwana o ne o tshohile haholo wa itshunya hukung mme wa tsetsela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4618701559.wav|7|o utlwa mmutlanyana o ne o itokiseditse ho ya boithabisong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3400862022.wav|1|tshebeletso ya boemo ba lehodimo e hlokomedisitse setjhaba hore ho ka nna ha ba le hlaha tse tukang dithoteng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_8392002282.wav|17|a trickle of fresh blood ran over his face
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_1870998176.wav|1|ee phindulo empa re tla etsang ka mokopu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3348428606.wav|1|empa butle pele
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_0459568458.wav|9|every bone in her aged body seemed broken or dislocated
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_1437863703.wav|18|gad your letter came just in time
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_6442612373.wav|3|taka ditshwantsho tse nyane tsa api tshwene le phindulo mme o di sehe o di ntshe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_8095465669.wav|8|it was simple in its way and no virtue of his
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7912_5230784533.wav|13|imbudu e ile ya ya harangwane mtonyama yare ke motjhana wa hao nonkungu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_1917116334.wav|1|re leka ho tshwara monna wa boroso
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_9233239747.wav|17|enters now the psychology of the situation
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0145_5071783776.wav|2|ho hapjwa ke tse tumileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_1978689585.wav|3|ntja ena eya kwata haholo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_1231195179.wav|1|moletsaphala o ile a fa virgil vries karete e tshehla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_2762970661.wav|14|accept a fathers blessing and with it this
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9218799064.wav|3|o ne a sa kgathale ho tshepjwa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2910_3623525423.wav|5|ke mang eo e bileng seahi sa ntlo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_4519152737.wav|10|mandela o dula hokae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_5401639553.wav|7|bapalang hole le dikwena tsane tse tshabehang tse lapileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_3271066341.wav|11|he cried and swung the club wildly
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4937447229.wav|7|moru o ne o tletse dipina tsa dinonyana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_9437016256.wav|7|ke mang eo e neng e le molaodi wa porofensi ya kwazulunatala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2363542311.wav|3|jwale re ka lokisa hoo ho rialo mpshe empa pele le lokela ho tshepisa mme tshepiso ke ntho e sa lokelang ho rojwa le kgale
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_6353047511.wav|7|na motsemoholo o lefella setadiamo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6295345759.wav|16|a kgohlela hanyane mme yaba o a qala badudimmoho bohle ba morung ona ke le tshwaretse ditaba tsa bohlokwa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_5982644479.wav|1|kettli o utlwile mokgwathatsa kamora hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_7673249941.wav|9|he went down in midstream searching the shadows of both shores
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_6235936746.wav|8|one thirtyfive zero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_6002313269.wav|14|about him everywhere were the evidences of luxury and of age
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_8621845620.wav|16|orlando pirates e bapetse ka ho lekana le bournemouth
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_7742934036.wav|16|lebitso le bolela eng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_1807546802.wav|11|then it is as i said womble announced with finality
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3957825808.wav|16|ba fihleletse qeto eo jwang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_7225197419.wav|7|gift gaswin palesa lefaso le kaylee ba fumana dinaledi tse kgubedu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_0104424495.wav|9|think of investing in such an adventure
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_3564559905.wav|3|e le hore rese re molahlile hofihleletse
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4517131467.wav|3|o ne a rata ho bua le batho haholoholo batho ba phelang diterateng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2388_5045405935.wav|4|molaolapapadi o file felix obada karete e tshehla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0945096498.wav|1|ka mora nako monna eo a tiisetsa moshanyana hore bophelo bo ka ba betere sebakeng se setjha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_4904130871.wav|17|he seemed to fill it with his tremendous vitality
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2303050655.wav|3|mokwetlisi o fihla le mokotla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2910_4652986445.wav|5|ho hapjwa ke tse tumileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_8407907765.wav|3|nkgo ya re bjara
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4946340310.wav|7|batho ba bangata ba tswa mme mokganni wa tekesi a hoeletsa le fensetereng peninsula road
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2557937534.wav|3|yaba o tsukutla dikhoine tseo ka hara letsoho la hae le leholo hore di etse modumo ha di otlana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_7918874926.wav|14|ninetyfive sixtyfive seventy
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_6683291472.wav|3|o lathalatha feela ya moshanyana ya sa tsebeng letho ka feshene
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_6323457223.wav|1|monna wa boroso a tlolela hloohong ya kubu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9010298015.wav|3|ke batla dintho tse ding tse ngata
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_5446579281.wav|18|a bea kgoho e nonneng hodima botlolo ya jeme eo a e rwetseng hloohong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0713542839.wav|3|dipanana ha di butswe di tshehla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_1092650073.wav|8|their forces were already moving into the north country
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_3958481547.wav|3|o tjhesang mosebetsi leha ho le jwalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_9931668312.wav|8|ninetysix thirtysix ninetyfour
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_8613061222.wav|11|lord but im glad to see you again phil
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9991852450.wav|16|thoko mme le nkgono ba qaboha ha monate
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_7011133839.wav|11|for the twentieth time that evening the two men shook hands
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_2773484495.wav|1|ka labone thukile a ya ho mosadi ya etsang yokate
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_0067932065.wav|11|but well just postpone this
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_1927824299.wav|3|ho hapjwa ke tse tumileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_8147058858.wav|17|in the matter of curry she is a sheer genius
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2474307755.wav|3|kgomo podi le ntja tsa ya toropong ka koloi ya tekesi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_2028632823.wav|17|his mouth opened words shaped vainly on his lips
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_1479606927.wav|8|thats what carnegie did
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_9172992528.wav|17|but he no longer cared quite so much for that form of diversion
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_9569860803.wav|11|five two two
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2388_3226557123.wav|4|ka tsatsi le leng lwazi a fumana setulo sa kgale se sututswang thoteng e haufi le habo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_7668097773.wav|8|yes it was a man who asked a stranger
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_8468769670.wav|7|ao bathong ha rialo mpshe e shebeha e hloname ebile e lapile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_2808032052.wav|10|molaolapapadi o file felix obada karete e tshehla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_1515991429.wav|14|and the edinburgh evening news says with editorial gloom
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_4260471644.wav|16|ke ikemiseditse ho ya toropong hona jwale ho ya kgutlisetsa pampitshana ena ya bohlokwa ho mong mandela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3267253897.wav|1|mantsiboyeng a mang le a mang o ne a kgutlisetsa dinku polasing moo di neng di bolokehile teng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2388_1856893394.wav|4|gad your letter came just in time
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2974928948.wav|7|antoni ba tlola kgati
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0352970922.wav|16|mosadi ya mosa a sisinya hlooho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_3425666909.wav|8|he had observed the business life of hawaii and developed a vaulting ambition
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_9130566753.wav|17|the fourth and fifth days passed without any developments
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_2210856746.wav|14|two years ago i gave up civilization for this
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_1822894646.wav|7|ho fihlela lena le hodimo dipela di na le mehatla e mekgutshwane e bokopa jwaloka haruki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4429881076.wav|3|yaba ka bonngwe di tswa lepatsong le leboteng moo di neng di dula teng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_5447513669.wav|16|jwale ba ne ba qakehile haholo ba leka ho fumana tjhelete ya ho reka dijo torotswaneng e haufi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_6395263484.wav|17|the portuguese boy crawled nearer and nearer
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_2329740187.wav|1|ke motsemoholo ofe o tsejwang o le o moholo ka ho fetisisa mona afrika
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_5300774485.wav|16|ba ne ba besitse mollo o moholohadi o neng o tlola ditlhase le malakabe lefifing
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_5776328887.wav|8|as for himself werent the street railway earnings increasing steadily
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_6173813960.wav|7|ba tshepa hore ka tsatsi le leng dikgutsana di tla tseba ho itlhokomela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_7548712671.wav|9|thirtyfour eightyeight eightyeight
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_5127384420.wav|7|hayley a bolella mokganni wa tekesi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9774166224.wav|16|moletsaphala o ile a fa gerald phiri junior karete e kgubedu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_5272510396.wav|1|ya sheba kepisi ya ka sefateng sa kgale sa diperekisi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_1693539555.wav|8|eight seven eight
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_0169465967.wav|9|six three one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4973095462.wav|7|na e ne e le molaodi wa porofensi ya kwazulu natala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_0818599624.wav|11|also she has forbidden them smoking their pipes in the afterroom
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_9433196470.wav|1|e hodimodimo marungka hodima kgwedi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_7335195790.wav|1|kgalekgale motseng o bitswang thoteng ho ne ho dula monna ya bitswang meharo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_2759133709.wav|11|six five one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_0126435328.wav|8|the last refugee had passed
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_1354312897.wav|1|mtonyama o ile a khutlisetsa nonkungu ha hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_9901767922.wav|11|obviously it was a disease that could be contracted by contact
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0591879340.wav|3|bosiung boo ha dimmoto tse nyane di iphuthaphuthile hodima mmatsona lepatsong la lebota felleng a qala ho bua
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_6226913453.wav|14|but it wont continue she said with easy confidence
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_6553345874.wav|7|ke mang ya dutseng a sa fetoha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_0927567580.wav|8|the ringing of the big bell aroused him
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_6539088405.wav|1|ha ba atamela ba bona kgomo e bothile haufi le sediba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2910_6785324070.wav|5|ka tsatsi le leng lwazi a fumana setulo sa kgale se sututswang thoteng e haufi le habo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_2551259305.wav|17|he deluged me overwhelmed me with argument
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_4318826649.wav|11|he obeyed the pressure of her hand
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_9397698735.wav|17|wada and nakata were in a bit of a funk
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_3954945146.wav|8|his face was streaming with blood
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_7218987474.wav|1|yaba kuku ya tjhokolete bisikiti phae ya apole le koeksister
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_2265905936.wav|1|sisanda o ile a nna a etela ledinyane la thuhlo matsatsi a mang kamora sekolo le mafelong a beke
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_9635392807.wav|14|four eightyfour eightyone
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_7834496970.wav|11|sixtyfive eightyfive three
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9837179155.wav|3|yaba maria le ntate smuts ba fapanyetsana jwalo mme ntate smuts a potlakela hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0792518808.wav|7|mtonyama o ile a amohela imbudu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0612345000.wav|1|ke ntho e ntle hore bana ba tswetsweng ke motho ba be bohlaswa tjena
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9036009509.wav|16|ho bjabjaretsa ke ho etsang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_7153230471.wav|7|kettli o utlwile mokgwathatsa kamora hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_2247141525.wav|17|ninetyfour thirtyfour thirtytwo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0530859520.wav|16|ehlile ha rialo mme bohle ba hwanta ba tsamaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_9708347051.wav|8|there was nothing on the rock
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_9367782454.wav|17|i have long noted your thirst unquenchable
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7876_5312272939.wav|12|ke kahoo motjhalla a ileng a fetoha mankgane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4546697219.wav|7|hayley a bula molomo ho loma haholo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_5280766913.wav|9|i followed the line of the proposed railroad looking for chances
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_5019015768.wav|14|and when you come back in a few days bring eileen
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9124654397.wav|3|mokwetlisi o fa bana diaparo tsa sehlopha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_5531946731.wav|8|thats why its boundaries are all gouged and jagged
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_7752569773.wav|8|five five nine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_8863337719.wav|3|na re ka kopana ka nako e itseng thapama
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_8360537882.wav|9|there is not an iota of truth in it certainly not
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_1536999530.wav|16|ntate a kgaruma
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_5932535257.wav|9|they ate dinner at the fifth and rested for two hours
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_9409437742.wav|17|hardly were our plans made public before we were met by powerful opposition
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7912_9337427562.wav|13|for the twentieth time that evening the two men shook hands
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_4836554616.wav|17|the men stared into each others face
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_9115558146.wav|14|his outstretched arm dropped to his side and he paused
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_5682366287.wav|17|this is no place for you
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_8652935682.wav|16|re lokela ho rekela nkgono kuku ya letsatsi la tswalo ho rialo mme
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_4592_5231620983.wav|6|a bea kgoho e nonneng hodima botlolo ya jeme eo a e rwetseng hloohong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2198477051.wav|7|moletsaphala o ile a hlokomedisa justin jacobus hore o fositse
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_9426131791.wav|10|gad your letter came just in time
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_9642868833.wav|14|he turned sharply and faced gregson across the table
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_4554639363.wav|8|ninetyeight ninetytwo thirtyeight
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_7519528774.wav|3|ho hapjwa ke tse tumileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0145_4737525306.wav|2|ke kahoo motjhalla a ileng a fetoha mankgane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_8380045388.wav|16|nna le thando re ntse re iketsetsa metlae feela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_3877926032.wav|17|thus was momentum gained in the younger world
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1266_8698428753.wav|0|not at this particular case tom apologized whittemore
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_6962387543.wav|7|moletsaphala o ile a hlokomedisa sifiso mbhele hore o entse phoso
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7912_6048175711.wav|13|he turned sharply and faced gregson across the table
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_6688231744.wav|9|burnt out like the crater of a volcano
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_4341492672.wav|9|twentytwo zero eleven
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_9842798189.wav|17|fortytwo seventyeight fortyseven
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_6530556538.wav|9|zero thirtysix one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_7452182488.wav|17|he had forgotten to build a fire and thaw out
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_5887006523.wav|1|nkgono a keketeha mme ho ne ho tsheuwa haholo ka tlasa kobo mane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_9838119895.wav|7|ntate noko o dula motseng wa haeso
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2910_5096182154.wav|5|a bea kgoho e nonneng hodima botlolo ya jeme eo a e rwetseng hloohong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_6686641494.wav|18|tshebeletso ya boemo ba lehodimo e noha hore pula e ka nna ya na kapa bophirima
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_1437303326.wav|1|na ho na le mokgwa o mong hape wa ho fihla moo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_2907363167.wav|8|there is more behind this than a mere university ideal
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_3842455262.wav|7|bohle ba mathela mafikeng ho ya itshireletsa puleng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0729117632.wav|3|na nka o thusa monghadi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4413537399.wav|3|ba ne ba dula mpumalanga pele ba fallela johannesburg ho tla dula le rona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0213883289.wav|1|dimmoto ha di je kamehla kahoo dimmoto tse nyane di ne di thabile haholo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_3606214911.wav|17|a cry of joy burst from philips lips
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_6615789754.wav|3|molaolapapadi o file felix obada karete e tshehla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_8315442445.wav|1|tsohle di qadile mohlang mme mathapelo a etsang botlolo ya jeme bakeng sa letsatsi la tswalo la nkgono mamoeng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0964926784.wav|7|ho sebediswa eng ka kakaretso metswakong ya mariha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_8851589459.wav|8|wont you draw up gentlemen
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_0029131636.wav|11|joan looked triumphantly at sheldon who bowed
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_9685762434.wav|11|philip thrust himself against it and entered
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_2148455814.wav|9|i sailed third mate in the little vampire before you were born
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_5748672864.wav|8|he is too keenly intelligent too sharply sensitive successfully to endure
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_4122756094.wav|18|author of the danger trail philip steels etc
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_3656624968.wav|9|encouraged by my conduct bigface became a sudden ally
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0465086687.wav|7|kamorao hang hore nozibele a tsamaye yaba ntja e a fihla ho kgutlela ha yona motlotlwaneng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_1908755770.wav|16|ke mang eo e leng letona la thuto
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0848346311.wav|3|hobaneng dipanana di le tshehla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_1920378083.wav|8|see the length of the body and that elongated neck
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0121417111.wav|16|na khamphani e tla etsa ditshebeletso tsa lehae tse badilweng tsa bajete
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_3751621438.wav|3|tseleng e lebang lapeng thukile o ne a tlameha ho feta pela ntlo ya moruihadi e mong tjena
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_3938834514.wav|9|this also became part of the daily schedule
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0806_5283540134.wav|15|mandela o dula hokae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_2891940173.wav|11|scarcely had he uttered the name when pierres closing eyes shot open
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0389093209.wav|1|ebe ntate smuts wa batho o iphumana a sithabetswe ruri
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_5049321936.wav|11|they could not continue their method of producing surpluses
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0547430933.wav|7|fluffy ha a nyeke sefahleho sa ka kapa ho utswa aesekerime ya ka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_8189049114.wav|9|a burst of laughter was his reward
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_2965802340.wav|16|a beha jwang bo omeletseng haufi le letlwepe la mokoko ya robetseng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_0660953959.wav|10|ka letsatsi le leng mme maneo a jala mokopu jareteng ya hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9017346341.wav|3|tshebeletso ya boemo ba lehodimo e hlokomedisitse setjhaba hore dinoka melatswana le matamo a ka nna a phophoma
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_9946678718.wav|7|ho bjabjaretsa ke ho etsang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_5555984812.wav|1|moletsaphala o abetse siya mngoma penele
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2388_6607815366.wav|4|lord but im glad to see you again phil
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_5471458833.wav|7|ntate meharo a tsoha hoseng ka madungwadungwana a ya makhoseng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_1390013774.wav|11|we must give ourselves and not our money alone
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_6524636093.wav|1|jwaloka ha le iponela santie o manganga
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9446815344.wav|16|qetellong seo a neng a se labalabela lefatsheng sa etsahala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_8563070070.wav|17|i noticed blood spouting from kerfoots left hand
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_4941326685.wav|16|a re ke hobane a batla hore re shebahale jwalo ka barwetsana ba hlomphehang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_5156324401.wav|8|may drought destroy your crops
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1266_5649386417.wav|0|mashilwane a ba bolella hore mashilo o mo lahletse ka pereng ka hore a batla kgomo ya gagwe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_8799227166.wav|17|eight four one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_4504441796.wav|9|he made sure that the magazine was loaded and resumed his paddling
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2388_2054517962.wav|4|for the twentieth time that evening the two men shook hands
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_2771787267.wav|11|one nine zero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4327455642.wav|7|jwale nka hlahelwa ke eng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_5222681875.wav|7|everton e bapetse ka ho lekana le club atlantico de madrid
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_8038525448.wav|16|mokwetlisi o ile a kenya phumlani ntshangase bakeng sa mpho thulo papadi e sa tswa qala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_6927160580.wav|14|the boy at the wheel lost his head
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2139748568.wav|7|bakeng sa mosebetsi ona o ile a lefshwa ka dikhoine tse mmalwa tsa siilefera
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_6775271559.wav|11|six zero one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_7274452472.wav|16|ao bathong ha rialo mpshe e shebeha e hloname ebile e lapile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_5085012283.wav|9|seven one one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9007583688.wav|3|bella le mme wa hae ho hoeletsa afrika
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_2663312504.wav|17|he was wounded in the arm
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_8360823726.wav|7|sehlopha se sebeditse jwang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_6241961582.wav|1|polokwane city e bapetse ka ho lekana le platinum stars
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1266_2495961555.wav|0|imbudu e ile ya ya harangwane mtonyama yare ke motjhana wa hao nonkungu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_4267057722.wav|9|a rising tide of fat had submerged them
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_9655106445.wav|14|each insult added to the value of the claim
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_6332775207.wav|10|imbudu e ile ya ya harangwane mtonyama yare ke motjhana wa hao nonkungu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_1097684065.wav|11|what was the object of your little sensation
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1266_9445888346.wav|0|kahoo kajeno o ka phomola mme phirimaneng ena ke monyetla wa ka wa ho phetela wena pale
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3774127951.wav|1|letsatsing le hlahlamang di ne di maketse
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_1662009986.wav|17|soon shall it be thrust back from off prostrate humanity
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0805542677.wav|1|demane o ne a kgathetse haholo ke hobesale a pheha kgang le ho arabisana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_8236774843.wav|10|for the twentieth time that evening the two men shook hands
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7876_5245052323.wav|12|for the twentieth time that evening the two men shook hands
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_1330058143.wav|11|ninetyeight zero ninetythree
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9379471202.wav|16|ehlile o mpitsitse ha o ne o binela pina yane ka marameng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_7455554438.wav|16|lena ke letsatsi la ka la tswalo le bileng monate ka ho fetisisa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_5116422073.wav|11|then and at supper he tried to fathom her
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9019877811.wav|3|bakeng sa mosebetsi ona o ile a lefshwa ka dikhoine tse mmalwa tsa silifera
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7876_6582923347.wav|12|and you always want to see it in the superlative degree
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_3923976831.wav|3|naledi efe ya kgauta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6216776023.wav|16|mtonyama o ile a khutlisetsa nonkungu ha hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_6880493588.wav|9|to my surprise he began to show actual enthusiasm in my favor
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3571350353.wav|1|ho tloha ka nako eo dikgoho di ile tsa tshaba mangau mme tsa dula le batho ho fumana tshireletso
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_3238448593.wav|9|trillion and billion and million and thousand and hundred and
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7876_0464842666.wav|12|dinaledi tsa kgauta di tswa pele
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_8084383158.wav|11|my right foot feels like that of a chinese debutante
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_8754797859.wav|9|one by one the boys were captured
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_1568137541.wav|7|ha e le wena ke tlo o bjabjaretsa le masapo a na a hao a bonolo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_2212323918.wav|9|seven nine nine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_7869738677.wav|18|ke mang eo e bileng seahi sa ntlo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_4214071960.wav|8|not at this particular case tom apologized whittemore
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_2533478897.wav|9|theres a big english general right now whose name is roberts
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_9159628583.wav|8|twentyfour zero eleven
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_8564744650.wav|11|fiftyeight zero twelve
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2910_1112121600.wav|5|not at this particular case tom apologized whittemore
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_9446008520.wav|1|a bitsa bohlwa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_1744988503.wav|9|he came first a year ago and revealed himself to jeanne
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4221322390.wav|7|makoloi a hapjwa ka sheshe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3200698790.wav|1|kamora moo tekesi ya hlahella hukung
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_2869326190.wav|9|redeye never committed a more outrageous deed
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_8756258871.wav|10|mootlwana o ne o tshohile haholo wa itshunya hukung mme wa tsetsela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_5171340674.wav|18|will we ever forget it
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_4501370523.wav|11|now youre coming down to business phil he exclaimed
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_4117321885.wav|11|but they make the mistake of ignoring their own duality
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_1435743495.wav|3|nkgono a inamoloha moo a ntseng a roka teng yaba mme yena o nyarela hukung
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_6621204547.wav|14|it was the same way with our revolvers and rifles
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_5839150028.wav|10|will we ever forget it
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3751262890.wav|1|ao bathong ha rialo mpshe e shebeha e hloname ebile e lapile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_8757435653.wav|3|makoloi a hapjwa ka sheshe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_8544980296.wav|3|jwale ke mang eo ha botsa morena
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_2566864331.wav|17|hundred and thousand and million and billion and trillion and
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_2393298787.wav|8|without them he could not run his empire
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_4015239945.wav|8|in spite of their absurdity the words affected philip curiously
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3940928036.wav|16|mekotatsie yane ha e bue haholo feela ebile e bua ditsiebadimo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_9771851661.wav|9|you you would not keep the truth from me
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2288274934.wav|3|le keke la fumana tjhokolete kajeno ha kereke e etswa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_7831193051.wav|17|nobody knew his history they of the junta least of all
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9365459246.wav|16|yaba kuku ya tjhokolete bisikiti phae ya apole le koeksister
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2388_4077413706.wav|4|dinaledi tsa kgauta di tswa pele
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_7427930169.wav|1|ke tla o isa ho batho ba lewatle ba tsebang dintho tsohle le dipale tsohle
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1266_7656081192.wav|0|will we ever forget it
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_7288614758.wav|1|o tshwenngwa ke eng wena
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_1126937578.wav|9|from my earliest recollection my sleep was a period of terror
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_4165092315.wav|11|six three seven
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_9041066776.wav|14|it happened to him at the gallina society in oakland one afternoon
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_9222067691.wav|9|one ninetythree zero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_0255399907.wav|10|a bea kgoho e nonneng hodima botlolo ya jeme eo a e rwetseng hloohong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_1193083647.wav|17|wonder if hes a lion dog charles suggested
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_5003339590.wav|7|bra tsotsi a tshoha haholo hoo a ileng a kgangwa ke moro wa periperi mme a kgitlwa ke thabi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_0882168960.wav|9|two three zero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7876_5639318468.wav|12|ho bjabjaretsa ke ho etsang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_5735843021.wav|7|re phetele pale
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_8633901024.wav|3|ke tla kopana le wena hekeng ena hosane hang ha letsatsi le qeta ho tjhaba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_4680411287.wav|1|ditshwantsho di ne di pheta pale ya moshanyana ya ileng a holela ho ba mokganni wa sefofane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_9944425028.wav|1|na o batla ho ya hosane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0145_3237736401.wav|2|he turned sharply and faced gregson across the table
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0669503081.wav|3|ke ka moshanyana ya bang mosuwe ha araba magozwe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6999173354.wav|16|domino o sele hampe ho rialo nkgono wa bona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9145223892.wav|16|mmapalabohareng isaac nhlapo o ile a lahlela bolo ka lebaleng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_6105407505.wav|3|bakeng sa mosebetsi ona o ile a lefshwa ka dikhoine tse mmalwa tsa silefera
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_1306791721.wav|17|thus had the raw wilderness prepared him for this day
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2201791138.wav|3|dimitara tse pedi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0716298156.wav|16|madinyane a lengau le ona a tshwara letlwepe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_4409573840.wav|16|tsatsing le hlahlamang hoseng sisanda a tsoha a ena le mohopolo o itseng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_4970807381.wav|17|her own betrayal of herself was like tonic to philip
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2388_1535178902.wav|4|ke kahoo motjhalla a ileng a fetoha mankgane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7912_0152453905.wav|13|dinaledi tsa kgauta di tswa pele
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3202778026.wav|1|jwale ke mang eo ha botsa morena
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_1208608306.wav|14|to his surprise her answer was flat and uncompromising
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_7815274242.wav|8|they die out of spite
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2249069882.wav|7|yaka a ka qhibidiha ke thabo ha mof mckensie a maneha naledi ya kgauta phatleng ya hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4709153868.wav|3|tshebeletso ya boemo ba lehodimo e noha hore ho ka nna ha foka moya o seng matla mpumalanga
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_2356271362.wav|8|points of view new ideas life
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0632905252.wav|16|thuli mpshe o ile a amohelwa e le ceo ya nakwana ya saa ka phato
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_0279720202.wav|17|do you know that you are shaking my confidence in you
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_4550604586.wav|9|ah it is growing dark and darker
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_1218526054.wav|3|moletsaphala o ile a hlokomedisa kris bright hore o entse phoso
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7876_7950191280.wav|12|mandela o dula hokae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_9051217790.wav|8|its only his indigestion i find fault with
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_8515560834.wav|14|give them their choice between a fine or an official whipping
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_0498650056.wav|9|nosiree
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_0822079502.wav|11|curly rushed her antagonist who struck again and leaped aside
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_7282866219.wav|17|youth had come back to her freed from the yoke of oppression
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_9359727447.wav|1|kgetha ketsahalo paleng moo mosadimoholo a buang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_8351157656.wav|3|maoto le matsoho a bona a kwahetswe ke moriri o lefifi yaba baya hlobola
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_6443018682.wav|8|he says he bought him of jacques le beau
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_9050115730.wav|9|he saw only the effect in a general sketchy way
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_4282755396.wav|8|she had died from cold and starvation
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_2290472789.wav|11|very early in my life i separated from my mother
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_8823746560.wav|14|ninetytwo two twentynine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9077388887.wav|3|moletsaphala o file brandon peterson karete e tshehla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_7152012357.wav|3|ka mora dikgwedi tse ileng tsa latela bashanyana ba hlokang mahae ba tlwaela ho bona thomas moo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_3072573251.wav|7|nkgo ya re bjara
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_1187145503.wav|11|i had been sad too long already
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_3997425768.wav|18|and you always want to see it in the superlative degree
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6178708296.wav|16|phokojwe ke eo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_7304398606.wav|7|jwale ke mang eo ha botsa morena
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_6279626869.wav|7|mme ba sebetse jwalo ka ngatana elengwe ho pjhatla diketane tse ba tlamellang bokgobeng ka hosafeleng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_1799090222.wav|7|yaba o batla hore a ke a phomole moriting hanyenyane tlasa sefate
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_1080937857.wav|1|isa fluffy ka jareteng a bolella sinazo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_5281400448.wav|16|khova ebile yena wa pele wa ho tlohela lebelo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_9741243634.wav|11|i am writing these lines in honolulu hawaii
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_1314313663.wav|1|bakeng sa mosebetsi ona o ile a lefshwa ka dikhoine tse mmalwa tsa silefera
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_7251752092.wav|17|four eight nine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_6418111252.wav|17|they look as though he had been drumming a piano all his life
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_5925132396.wav|17|a big canvas tent was the first thing to come within his vision
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_4823292375.wav|18|mme ba sebetse jwalo ka ngatana elengwe ho pjhatla diketane tse ba tlamellang bokgobeng ka hosafeleng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_1577417429.wav|8|he was smoothshaven and his hair and eyes were black
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_4175645401.wav|9|it was jeanne singing softly over beyond the rocks
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_1041945672.wav|16|monna e monyane a ema a itlhotlhora
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0790483894.wav|3|jwale ke tla re phokojwe e kgutletse morung
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4304514116.wav|7|tshebeletso ya boemo ba lehodimo e hlokomedisitse setjhaba hore ho ka nna ha eba le hlaha tse tukang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_8278753704.wav|3|kopolla mantswe a hae paleng o a ngole ka hara pudulana eo ya mantswe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_1571450971.wav|3|ha ke satlaya bapala senkokomaileng ke le mong hape ke keke ya tjhong jwalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2191853533.wav|3|ho bjabjaretsa ke ho etsang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_0250488007.wav|11|zero sixtyfour one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4164410193.wav|3|antoni ke bolettia antoni ba etsang mola
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_1491827522.wav|14|three two eight
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_8918532236.wav|1|ke tlameha ho theoha ke keke ya tjhong jwalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_2159109029.wav|11|for an instant he saw pierre drawn like a silhouette against the sky
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_3784379972.wav|11|it fairly clubbed me into recognizing it
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_1524059410.wav|9|but martin smiled a superior smile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_5742641803.wav|11|for such countries nothing remained but reorganization
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0806_2328449570.wav|15|author of the danger trail philip steels etc
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0434058828.wav|1|tshebeletso ya boemo ba lehodimo e noha hore pula e ka nna ya na kapa bophirima
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_9848702034.wav|1|bakeng sa mosebetsi ona o ile a lefshwa ka dikhoine tse mmalwa tsa silefera
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_3450821010.wav|9|i have to be careful of them as they tear very easily
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_9774654142.wav|9|you have heard always how he was the lover of the princess naomi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_8833035462.wav|11|ninetyone seven forty
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_2991301062.wav|1|mma lefokolodi o ne a tshwenyehile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0796106517.wav|7|sebakeng seno e ne e le diphoofolo tseo batho hona jwale ba di bitsang ditshwene
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_1075927125.wav|11|he was fond of quoting a fragment from a certain poem
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2939606114.wav|7|re tla leka sena le sane ho mo thibela ho ithimola ha rialo mof magona a tshwere phekse letsohong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_1415221381.wav|11|and macdougall was beyond the trail with three weeks to spare
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_8035960226.wav|1|kamuzu a sheba metswalle ya hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_6346512741.wav|7|ntate shabangu e ne e le sedubi sa dibakwang se ipabolang toropong ya habo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9270695542.wav|16|ho hapjwa ke tse tumileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2031291077.wav|7|hobaneng a buile jwalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_5145021714.wav|3|ha ntate noko a fihla safi ya thaba ya ikotlolla yaba ya mo amohela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4553900822.wav|7|yaba ka mantswe ana o hula mashange o mo isa kgotla ho ya bona moahlodi ngwenya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_5288210835.wav|1|qetellong sisanda a kgaleha a ntse a mametse lentswe la mmae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_1588089671.wav|9|fresh meat they failed to obtain
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_5918873238.wav|17|manuel had one besetting sin
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_9485619890.wav|1|yaba re hlobola dihempe le mese ya rona empa hontse hole jwalo hoba hontse ho tjhesa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_8245565565.wav|7|monna e monyane a ema a itlhotlhora
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_9155358241.wav|1|ha ba fihla mashilo a laela mashilwane hore a mo tshware maoto hore a se wele ka pitseng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_7965728800.wav|14|i think its much nicer to quarrel
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1266_8827992879.wav|0|molaolapapadi o file felix obada karete e tshehla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_1330009982.wav|14|then you dont believe in altruism
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_9442049519.wav|7|dinku di ne di tshohile haholo hoo di ileng tsa baleha kaofela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_7227244318.wav|14|four eight eight
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_8210273188.wav|16|moletsaphala o ile a abela boris savic monyetla wa ho raha bolo a sa sitiswe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_3659454421.wav|14|with my strength i slammed it full into redeyes face
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2918563996.wav|3|thuu twatla hwalakahla phakga
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_4451909999.wav|8|what do you mean by this outrageous conduct
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_6196982533.wav|14|he was a wise hyena
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_3468611291.wav|9|eightyeight twentytwo twentyone
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9640159435.wav|3|re mo utlwisitse bohloko
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_6181956334.wav|8|instead he joined her and they ate like two hungry children
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0141926404.wav|1|keaghan jacobs o ile a kenelwa ke rivaldo coetzee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3681290249.wav|16|empa nkgono wa ketti o ne a ile a hlokahala dilemong tse mmalwa tse fetileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_8653823063.wav|8|why doggone you all shake again
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_2392307849.wav|16|hobaneng letswai le le lesweu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_4803437378.wav|17|production is doubling and quadrupling upon itself
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_5603045397.wav|3|ke nonyetsehile lengole jwale ke hloka metsi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_4641167908.wav|14|perhaps she had already met her fate a little deeper in the forest
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0806_4194190626.wav|15|ke mang eo e neng e le molaodi wa provense ya kwazulunatala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_9759758251.wav|17|the claudine was leaving next morning for honolulu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_6803697367.wav|1|dikgoho di ne di tshohile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3955498231.wav|16|ntjhanyana beka a bokolla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_3953080879.wav|9|i was hump cabin boy on the schooner ghost
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_0766679061.wav|17|bill lingered contemplating his work with artistic appreciation
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0907287288.wav|7|leba leboyabotjhabela ka mmila wa january masilela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0123084010.wav|3|bloem celtic e bapetse ka ho lekana le swansea city
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_1782903965.wav|11|i lost my balance and pitched head foremost into the ooze
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_1039884385.wav|17|trillion billion million thousand hundred
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9820623526.wav|3|sena sa halefisa monna wa morui
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_7191125485.wav|7|dibanse tsena di ntse di futhumetse ke di rekile nakong ya hora le halofo tse fetileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_9056255761.wav|1|newcastle united e bapetse ka ho lekana le manchester united
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_3326554466.wav|14|the fighting had now become intermittent
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_7462441995.wav|1|ke nkga hampempe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_1050669652.wav|17|he will follow us soon
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1266_2646680876.wav|0|god bless em i hope ill go on seeing them forever
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_5778992738.wav|11|those are my oysters he said at last
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_3241995630.wav|7|le pholositse meroho ya ka leshodung lane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_1648091920.wav|3|tsatsi le leng hona kgweding eo sefofane sa serwalankgwana se ile sa tsorama moo sebakeng sa tlhokomelo ya diphoofolo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2388_3285391923.wav|4|god bless em i hope ill go on seeing them forever
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0332077727.wav|7|mme hang a hopola diboroso bakeng sa dijo tsa hoseng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_7114487948.wav|1|a mo phahamisa fatshe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1266_1095408026.wav|0|he turned sharply and faced gregson across the table
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0656607217.wav|1|lelapa lohle la lengau la qala ho tsheha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_1262331514.wav|17|the bigeyed clucking moosebirds were most annoying
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_6178276182.wav|3|diphahlo tsa rona di kae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_3385195280.wav|3|ntate meharo a kgutlela morao thoteng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6411306372.wav|16|setsheho sa lengau sa tsosa mokoko le dikgoho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_6243549361.wav|1|ehlile ke mokopu o moholohadi ono
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_8075906206.wav|16|nonkungu o ile a tseba hore ngwanana enwa ke imbudu ya nnete
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0728584100.wav|7|mme he yaba qetellong ke nako ya dijo tsa mantsiboya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_1870109289.wav|16|yaba ka hloko o tshwara letlwepe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3182357871.wav|1|yaba mma lefokolodi o utlwa lentswe le lesesane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_4227969087.wav|1|habu habu habu ya bohola ntja
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9465253087.wav|16|ke tla etsa tjhelete e ngata haholo hoo ke tlang ho ba moruihadi ya fetang bohle naheng ena kaofela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_7038478768.wav|8|we are both children together
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_5480485984.wav|9|do you know that we weigh every pound of coal we burn
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_9444118141.wav|11|zero ninetysix zero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_9358580041.wav|9|we have plenty of capital ourselves and yet we want more
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_1299715238.wav|17|down there the earth was already swelling with life
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_3256503444.wav|7|pele ke tla bala dikwena tsohle mme le wena o ka bala dipela tsohle
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_4178738872.wav|11|captain west may be a samurai but he is also human
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_8110124950.wav|3|jowee tloha mona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_6708749373.wav|9|the nightglow was treacherous to shoot by
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_1518200217.wav|3|kahoo a etsa leqheka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_3145166523.wav|11|there has been a change she interrupted him
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_5900060976.wav|10|ho hapjwa ke tse tumileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_4586750811.wav|8|philip stood undecided his ears strained to catch the slightest sound
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_9434790275.wav|17|wash your hands of me
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_5549898373.wav|3|mme le nkgono ba sheba moo thoko a supileng teng phatleng ya hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_9506405347.wav|7|empa nna ke mohlalefi e monyane mong mmutla a rialo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_9588743382.wav|11|he had comparatively no advantages at first
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_7998467124.wav|7|kamuzu a lebala hore o lahlehetswe ke lentswe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3712760176.wav|16|ba ile ba fumana tokoloho neng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_7151538285.wav|16|ya qamaka ho leka ho sheba nozibele
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_5995989503.wav|14|eightyfive eleven eleven
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0763476744.wav|1|dithuto tsa motheo ke dife
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_0735733856.wav|9|here the explosion of mirth drowned him out
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_1001385066.wav|14|men of seldens stamp dont stop at women and children
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_2925235958.wav|17|seventyeight twentyeight twentynine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3606925221.wav|16|nka kgona ho behela lehe le le leng feela ka letsatsi ha araba nonyana eo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_8905316473.wav|17|in the picture he saw each moment a greater resemblance to jeanne
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_3351979624.wav|3|thabo a kgelella a ya pele
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_2450289233.wav|14|dunham can your boy go along with jesse
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_3451596017.wav|9|they do not know the length of time of incubation
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_4341210871.wav|1|ha e le wena ke tlo o bjabjaretsa le masapo a na a hao a bonolo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_5494780566.wav|9|zero fortytwo one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9435082509.wav|3|metswalle ya lwazi e mmedi e leng ismail le mckenzie ba feta le moo ha ba eya lebenkeleng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_1739639474.wav|7|moletsaphala o ile a fa itumeleng nkwana karete e kgubedu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_8670649216.wav|11|earth and gravel seemed to fill the pan
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_2428541127.wav|18|ho bjabjaretsa ke ho etsang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3394172512.wav|16|mashilwane ke nyorilwe a re yo nwa metsi mane pitseng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7801_3193980650.wav|10|not at this particular case tom apologized whittemore
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0422251494.wav|7|mohlomong letsatsi le mpa le le botswa kajeno
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_0460969698.wav|17|six zero six
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_4196351204.wav|9|obrien had been a clean living young man with ideals
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_6911481421.wav|3|ba bang re tsheha ditsietsi ha ba bang di re pjhatla tjee ka ha motho a pjhatla lehe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_4239761431.wav|1|lenama le kang wena tjee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_6960615541.wav|7|ho lokile ho rialo thukile ke tla etsa jwalo hosane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_0234391108.wav|7|ba ya phaposing ya ho hlapela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_3348907949.wav|3|ke mang ya tla kgethwa hape dikgethong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_3351059720.wav|9|ill be out of my head in fifteen minutes
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_6232249676.wav|3|tlong tlong kaofela re tsamayeng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_1930023669.wav|11|fiftysix zero twelve
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_7095934565.wav|3|mabidi a teroli a nna a re kikirikiri kikirikiri
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_5662452452.wav|8|halfway around the track one donkey got into an argument with its rider
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_7711777207.wav|16|hobaneng ha dikgoho di ile tsa tshela mmila
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4529217392.wav|3|moletsaphala o ile a fa nhlanhla vilakazi karete e tshehla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_4416106169.wav|3|jwale hobaneng re sa etse moketjana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2716573837.wav|7|mosireletsi thanduyise khuboni o ile a hlaba bolo ka hlooho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_8690766670.wav|1|a mathela ka tlung ho ya apara empa a lebala ho kwala fensetere ya kamore
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_8403843783.wav|7|empa yare ka phirimana bakeng sa hore a lefshwe a lahlelwa tjhankaneng a ba a amohuwa borashe ba hae ba ho taka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_3153604891.wav|3|ka kopo hle monghadi na o ka mpha dinate le dipekere
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_1879542191.wav|16|a ne a shebahala jwaloka dithutswana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2379545552.wav|7|mong mmutla a qetella a supile bane ya chelsea
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_7855505036.wav|3|eitse qetellong ha a fihla lapeng a omana haholo a tletleba ha ho motho ya ileng a tla nthusa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_1935025334.wav|14|they obeyed him and went here and there at his commands
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_3061828613.wav|7|ha safi e kgotsokgotsofetse e qothomela sofeng e be e ya robala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_0969614647.wav|17|fortytwo fortytwo fifty
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6383747590.wav|16|aha dijo tsa mantsiboya ha thaba pumla ha monna a fihla hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_4424290314.wav|14|there is another virtue in these bulkheads
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_4592_4220278331.wav|6|ke kahoo motjhalla a ileng a fetoha mankgane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6560348604.wav|16|ba ile ba fihla motsaneng o mong ba fumana dipitsa tse nne tse kgolo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_2994215617.wav|9|fresh cases still able to walk they clustered about the spokesman
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9800346203.wav|3|ha ntate smuts a feta mmarakanyana wa maria a mo hoeletsa o batla bokae bakeng sa tlhapi eo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_7285572898.wav|9|he saw jeanne falter for a moment
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_7788174820.wav|1|ka potlako e makatsang a tshwara borikgwe ba leshodu mme a bo hula
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_1851090467.wav|7|hobaneng dikgele di le ntsho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0820813006.wav|1|thuu twatla hwalakahla phakga
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_9598107400.wav|7|sekgo sa inamisa hlooho ya sona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_1574660799.wav|14|and the foundation stone of service in his case was obedience
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2106199907.wav|7|nyolohelang mafikeng mane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_4803951077.wav|8|beyond dispute corry hutchinson had married mabel holmes
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_1167081628.wav|16|ho rialo imbudu o ile a supa sefate se leralleng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_4438372095.wav|1|ao bathong ha rialo mpshe e shebeha e hloname ebile e lapile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_7286455467.wav|9|seventy eleven one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_4658637638.wav|8|bob growing disgusted turned back suddenly and attempted to pass mab
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0145_3338284440.wav|2|author of the danger trail philip steels etc
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_9084546038.wav|7|yaba o a hetla ho sheba lemating le bulehileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_5855588463.wav|9|pearces little eyes were fixed on him shrewdly
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_2469625745.wav|14|he was worth nothing to the world
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_1233673121.wav|8|he moved away as quietly as he had come
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3857641929.wav|1|mandela o dula hokae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3171084572.wav|1|thuli mpshe o ile a amohelwa e le ceo ya nakwana ya saa ka phato
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_6930237015.wav|14|but what they want with your toothbrush is more than i can imagine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_7931604702.wav|17|it is not an attempt to smash the market
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_4043833567.wav|7|yaba e phahamisa mapheo a yona a benyang mme hanghang ketti a utlwa ho thwathwaretsa ha leduma
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_4855051142.wav|17|as i say he had tapped the message very rapidly
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_2990517925.wav|7|tonki ya kgotso e putswa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_0156372348.wav|1|ena ke pale ya mohlokomedi wa diphoofolo le sebaka sa hae sa tlhokomelo ya diphoofolo tsa dikgutsana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_5548080291.wav|3|na ntatae o ya matsatsing a phomolo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_0388546381.wav|3|mosuwetsana wa rona ke mosuwetsana wa mantlha lefatsheng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_7236173277.wav|8|eight three one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_6535318927.wav|17|six two two
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_7148869548.wav|7|yare pele ho kgitla diphoofolo tsa bokana di potile mekotatsie
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_6556631597.wav|8|this time he did not yap for mercy
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_1748196586.wav|17|meanwhile ill go out to breathe a spell
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_8984653216.wav|9|what the flaming
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_1974671050.wav|1|ho hapjwa ke tse tumileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_1471745811.wav|8|low bush whipped him in the face and left no sting
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_2431736946.wav|1|kgwedi ke yane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_8951499531.wav|14|but a strange thing happened
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0936560563.wav|16|moletsaphala o ile a abela henrico botes monyetla wa ho raha bolo a sa sitiswe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_3959036822.wav|3|luvhengo mungomeni ya bapalang lepheong o ile a lahlela bolo lebaleng la papadi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_9892_8122379325.wav|18|ke mang eo e neng e le molaodi wa provense ya kwazulunatala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_0699064768.wav|11|five three nine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_6469765749.wav|11|to her the bridge was tambo which is the native for taboo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_2477420754.wav|1|empa ka yona nako eo motlakase wa tima
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_2123298848.wav|16|mme ba sebetse jwalo ka ngatana ele nngwe ho pjhatla diketane tse ba tlamellang bokgobeng ka hosafeleng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_5797937534.wav|17|tomorrow im going after that bear he said
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0184900928.wav|16|jo jo jonna we ha makala batswadi ba zimkhitha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_5313882754.wav|17|jack london waikiki beach honolulu oahu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_6476268875.wav|17|five three eight
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_7893199167.wav|16|bashemane le banana ba kwetliswa mmoho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_0187752800.wav|9|bassett was a fastidious man
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_1470155050.wav|14|he spat it out like so much venom
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_0952555097.wav|11|seventyfive one one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_1904415516.wav|3|moletsaphala o file tiisetso mofokeng karete e tshehla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0806_2292474704.wav|15|gad your letter came just in time
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_2388_6933774385.wav|4|imbudu e ile ya ya harangwane mtonyama yare ke motjhana wa hao nonkungu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_3752844038.wav|14|fourteen seventynine seventyfive
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_1116931712.wav|11|two zero eight
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_7890924235.wav|11|philip made no effort to follow
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_6971077191.wav|1|nonkungu o ile a dumela a tshohile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_7586979040.wav|17|he was pressing beyond the limits of his vocabulary
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0145_5942359368.wav|2|gad your letter came just in time
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_8808934292.wav|3|o nkela khaete ya ka hodimodimo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_4592_0179110500.wav|6|molaolapapadi o file felix obada karete e tshehla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_2590555143.wav|16|ke tla lo kga metsi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_6721582764.wav|8|i was about to do this when cooler judgment prevailed
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_7856418628.wav|16|tjhe kwana nkeke ka kgona ha kakatletsa kgaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_5188858090.wav|1|bomme ba bararo ba sutumetsa ba ba ba sutumetsa mokopu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_8245260513.wav|14|from now on were pals
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_1819871517.wav|1|bana bohle ba ne ba kopane laeboraring bakeng sa letsatsi le ikgethileng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0105555978.wav|16|bosiung boo baahi ba motse ba tshwara pitso
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_3474080000.wav|8|i only read the quotations
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_9449056452.wav|17|now please give a plain statement of what occurred
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_6452766676.wav|9|all an appearance can know is mirage
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_7348587591.wav|17|ah indeed
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_7573883452.wav|1|nkgono a theoha mme thoko a arolelana diphepamente tsa hae le jake
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_4592_7625063794.wav|6|ka letsatsi le leng mme maneo a jala mokopu jareteng ya hae
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_8356883580.wav|3|kahoo kajeno o ka phomola mme phirimaneng ena ke monyetla wa ka wa ho phetela wena pale
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_4892745792.wav|8|the last one i knew was an overseer
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_5041449945.wav|17|eighteen hundred he calculated
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_8870977592.wav|16|shebang ke tekesi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_7664875819.wav|14|men like joe goose dated existence from drunk to drunk
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_2282650318.wav|3|kajeno ke tsatsi la ho qetela mosadimoholo enwa ya manganga a utswa menko ya ka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_1169325323.wav|9|sixtyfour ninetysix nineteen
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_4889337280.wav|14|unconsciously our yells and exclamations yielded to this rhythm
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_6060928603.wav|16|e etsahetse neng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_7035733161.wav|1|tloha mona o nkga hampempe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7876_2248275503.wav|12|tshebeletso ya boemo ba lehodimo e noha hore pula e ka nna ya na kapa bophirima
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_9536906770.wav|1|kunupi o ile a iketla a palama fatshe ka kgareng ya hae e mamarelang a kgutlela lefatsheng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_0976833784.wav|16|nkgo ya re bjara
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_7477224143.wav|11|she turned in at the hotel
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_2968492905.wav|9|nine one three
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_4813120437.wav|14|enjoy it he did but principally for stewards sake
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_8796888978.wav|14|quick was the disappointment in his face yet smiling was the acquiescence
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_9388973979.wav|1|yaba zimkhitha o tlohela ho tsheha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_7216582977.wav|9|the ship should be in within a week or ten days
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_5501332454.wav|3|kunupi a kuka ditshomo ka lethabo a theoha le tsona lehodimong
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9006524985.wav|16|lethabo a sheba ka tlasa bethe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_1873324639.wav|1|jwale o tla kgona ho o bitsa ralenama kapa maoto a makgutshwane bophelo ba hao bohle
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3045636516.wav|16|lebitso la moshanyana ke mang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_6499_9367312611.wav|9|i never saw anything like her in my life
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_7939597041.wav|8|in partnership with daylight the pair raided the san jose interurban
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_5227462523.wav|1|monna wa boroso a etsa jwalo mme ba tswela pele ho tshela phulana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_7640403781.wav|14|sometimes her dreams were filled with visions
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_7285140756.wav|17|two eight two
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_5524204511.wav|7|ejang ntho yane he a supa setshwantsho se tabotsweng se swabantshitsweng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_6496923746.wav|7|hobaneng nka kgutlisa ngwana eo hape ho lona ho rialo senqaqana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_7477877639.wav|16|tsa lebala hore na hana ho buuwa jwang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_9457592912.wav|16|university of pretoria e bapetse ka ho lekana le everton
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_6194900194.wav|7|kgele ha rialo bra tsotsi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_5007936563.wav|16|empa hanghang a utlwa lentswe le mo phoqang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_0365130013.wav|8|no it is a palace wherein there are many servants
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_1861004639.wav|3|aston villa e bapala le chelsea ka labone ka phirimana olympia park
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_1387060579.wav|11|i am going to surprise father and you will go with pierre
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_7933918009.wav|7|neo a phahamisa hlooho ya hae hanyane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_1894769096.wav|3|re tswa afrika e bophirima
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0806_4812915523.wav|15|he turned sharply and faced gregson across the table
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_9483819629.wav|3|tshwene e sesetsa sehlekehlekeng ka hare ho letsha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_5964660190.wav|3|ha re yeng ho mokgodutswane o bohlale
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_6076434002.wav|7|wa bopa e motona le e motshehadi wa ba hlohonolofatsa mme wa ba rea lebitso la motho mohla ba bopjwang
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8777_3183289244.wav|17|the oligarchy wanted violence and it set its agents provocateurs to work
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_4047242766.wav|1|ba etsa nonyana ka kgodu eno ya abuti wa bona ya qhibidisitsweng ke letsatsi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_0985168678.wav|14|four four nine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_5092638536.wav|16|moletsaphala o ile a abela siyanda zwane penele
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_4057171285.wav|1|mong samson a tlisetsa sibu kgalase ya metsi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_5945_1154970756.wav|8|he stopped and philip nodded at the horrified question in his eyes
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1367_3624444495.wav|1|naheng e bitswang gabon motsana o mong tjena o ne o eme qetellong ya moru
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_5848022243.wav|16|moahisane le ena a jikela morao a baleha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_7057881869.wav|3|jowee ha rialo moholwanae o entse phoso e kgolo ka ho fetisisa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7821_0389491148.wav|11|oolong atoll was one hundred and forty miles in circumference
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_7934_3427137685.wav|14|goodbye pierre he shouted
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_8321456404.wav|3|tlolela mokokotlong wa ka mona ha honotha kubu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_5567782888.wav|3|thinyetsa ka ho le letshehadi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_0493_7971978093.wav|7|ba bang re tsheha ditsietsi ha ba bang di re pjhatla tjee ka ha motho a pjhatla lehe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_8596_3571042590.wav|16|thokozani ha araba sisanda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/sso_1801_5030455790.wav|3|tjhentjhe ya hao monghadi

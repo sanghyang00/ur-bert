@@ -1,0 +1,498 @@
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_1625141743.wav|6|yakuqgiba ukuwenza umfanekiso oqingqiweyo yambamba amehlo aze avuleka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_6118136023.wav|9|a wildly exciting time was his during the week preceding thursday the eighteenth
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_2702236572.wav|7|ingaba isixeko siya sihlawulela isitediyamu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_8140828008.wav|0|also she has forbidden them smoking their pipes in the afterroom
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_8237303259.wav|4|they look as though he had been drumming a piano all his life
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_1561416238.wav|1|umdali waziphulaphula ngocoselelo ezi zilwanyana iintlanzi kwakunye neentaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_3232248360.wav|3|ibidvest wits nebloem celtic zidlalile ngolwesibini kusasa egoble park
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_3059224391.wav|1|ikepusi yam yaxhaseka esebeni lomthi omdala wephayphali
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_7125152938.wav|10|zero eightytwo eleven
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_1434877586.wav|4|ah indeed
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_1490590648.wav|1|ekuhambeni kwexesha isityebi sendoda esithile seva ngale brashi yokupeyinta yomlingo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_5033212330.wav|4|the fourth and fifth days passed without any developments
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_1812316666.wav|10|fresh cases still able to walk they clustered about the spokesman
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_9797071229.wav|3|ngoku udibanisa umxube opheleleyo wezinye iintlobo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_7607771825.wav|2|in a way he is my protege
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_2970536470.wav|10|thats the subforeman explained thorpe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_2113504731.wav|9|halfway around the track one donkey got into an argument with its rider
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_6326841191.wav|6|apho evuka wayengekho kodwa wayeshiye ukumoyizela enhliziyweni yakhe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_7996847479.wav|10|the boy obrien was specially maltreated
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_1651336027.wav|2|you wont die of malnutrition be sure of that
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_2181590132.wav|7|phezulu emafini uzimkhitha wabeva
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_6832444337.wav|11|ukhadija patel ubhale ukuthi umbutho uhamba phambili kumoya omtsha wokuhlanganisa izihlwele kwezopolitiko
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_7476672520.wav|8|ikepusi yam yaxhaseka esebeni lomthi omdala wephayphali
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_7232206763.wav|9|the lace was of a delicate ivory color faintly tinted with yellow
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_8624321398.wav|8|malunga nendlela awakuqhatha ngayo umnumzana fudo kugqatso lweembaleki enaninalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_0950266257.wav|5|nanjengoko ke ebengaphethanga piyano edlalwa ngeminwe uye wacula ingoma
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_3120286187.wav|8|xhuma watsho uzhoola
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_1575271823.wav|0|the last refugee had passed
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_1614342072.wav|6|yayikwisikhongozeli esivulekileyo nesithambileyo seplastiki yaza yagqunywa ngelaphu ngaphezulu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_9720026502.wav|4|now please give a plain statement of what occurred
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_9378629383.wav|5|enye yeegusha yenzakele kwaye udyakalashe ubaleke nelinye itakane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_4205065133.wav|10|a maddening joy pounded in his brain
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_4954092550.wav|6|ifc barcelona yadlala ngokulinganayo nemamelodi sundowns
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_1899436722.wav|5|yintoni umongo wezifundo eziphakamileyo zesidanga
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_8076622210.wav|7|ikepusi yam yaxhaseka esebeni lomthi omdala wephayphali
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_2166562450.wav|6|yaxukuza ezandleni zalo ezinkulu imali ewuhlweza ukuze yenze umsindo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_8577969029.wav|11|idiski yegolide esembindini ebonisa iwallaby nespringbok imifanekiso yamaqela amabini
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_9584539479.wav|3|siqala iprojekthi yemother city ngodisemba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_6854281312.wav|10|zero zero zero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_0223505122.wav|2|my im almost homesick for it already
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_3522966043.wav|7|unexesha elingakanani
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_9429945854.wav|1|nantso iglasi yokusela efestileni
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_3680796478.wav|4|eighteen hundred he calculated
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_9492918198.wav|10|fresh meat they failed to obtain
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_0620838208.wav|9|three six nine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_4533453679.wav|5|beva umgqumo omkhulu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_3955476790.wav|2|he spat it out like so much venom
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_4479241889.wav|1|ingathi ndingakhe ndimtswebe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_3516272644.wav|8|ndayilinganisa ikepusi yam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_4659722933.wav|8|lacenga kangangoko kodwa ihagu yala ukutsiba ecingweni
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_5381653221.wav|10|six three one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_4104859205.wav|10|from my earliest recollection my sleep was a period of terror
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_4146713135.wav|10|i was near the cabin and saw you
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_2386354924.wav|10|the singing voice approached rapidly
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_3199051616.wav|6|yathembisa ukuba ifoto yabo iza kupapashwa kwiphephandaba kwakamsinyane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_0251778038.wav|5|gqithisa gqithisa portia modise
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_7735810649.wav|3|yafumana indawo yesithathu kwiqela labalweli benkululeko yezoqoqosho eliyilwe kutsha nje
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_5652920567.wav|6|kodwa ke qhubeka nebali lakho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_6977895022.wav|7|kutheni upeyinte ulwandle
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_5962752103.wav|8|ngobo busuku sobabini inyanga nam sathwala iikepusi zethu sancuma
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_8539718604.wav|6|utitshalakazi akinyi usifundise le mibala bomvu bhlowu luhlaza tyheli nomnyama
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_4429681444.wav|7|inokuba lusizana lomhambi wacinga njalo usizwe ebaleka ukuya emnyango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_4204032351.wav|8|utata wathengela uchintu iindondo ezinomtsalane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_6841800785.wav|11|kodwa yayingubani ofana nqwa noeileen
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_7147717525.wav|3|yabandim kuphela owashiyeka echophile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_7435598651.wav|3|uyawazi umhlaba olungileyo okwakufutshane apha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_8000545065.wav|5|wazama wazama udyakalashe eqhutywa liphango kodwa nkqi wancama
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_1543396152.wav|11|sisihloko somhobe somenzi womhobe ongumbrithani
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_4128955036.wav|3|uyandiqhula mnumzana enye awakwazi ukuyithetha kakuhle nje
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_1889279236.wav|11|kwatsho ingxolo enkulu uxhomindlebe watswina ngomsindo okhawulezileyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_1026980992.wav|4|a big canvas tent was the first thing to come within his vision
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_9062823406.wav|10|zero sixtysix one
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_0577458351.wav|7|umvundla awuphozisanga maseko waqalisa ukuqhayisa ndiyeyona mbaleki yakha yakho ehlabathini
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_2858763885.wav|0|eleven eighty zero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_0779099404.wav|8|isitshingitshane siyinyusela phezulu kakhulu ikayiti yam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_6490855212.wav|2|each insult added to the value of the claim
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_6391371994.wav|8|gqithisa gqithisa portia modise
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_5131685477.wav|0|to her the bridge was tambo which is the native for taboo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_3655115262.wav|1|lazithatha lambonga likhombisa intlonipho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_8063756406.wav|1|maxa wambi babebanjwa maxa wambi bebethwa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_0082753299.wav|8|ingaba elo bali lingam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_8076660578.wav|4|thus was momentum gained in the younger world
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_3445847410.wav|6|jonga ijezi yakho inoboya obumnyama watsho umnumzana samson esolatha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_8731333033.wav|5|usisiphukuphuku bekufuneka uyixwayile loo nyama
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_8070262129.wav|9|it drowned all sound that brute agony and death may have made
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_5455744903.wav|5|jongani indlela endimhle ngayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_4679445588.wav|4|nowhere did the raw earth appear
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_9374761170.wav|10|eightyeight twentytwo twentyone
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_0971922795.wav|0|cherokee identified himself with his instinct
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_6923568090.wav|11|umfama ulima umhlaba evelisa iinkozo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_9889937318.wav|1|ngeli lixa beseklasini inkawu iyafika ngaphandle
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_6641082522.wav|9|ill go over tomorrow afternoon
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_7673087276.wav|3|ndidlala ndedwa kwinto ebonakala ngathi ngumdlalo ongazukuphunyelelwa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_8841078197.wav|8|ngakho umsindo wemali kamashange iyona nhlawulo ozoyithola ngephunga elimnandi alintshontshile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_6473102838.wav|4|seventyeight twentyeight twentynine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_1287780552.wav|0|for such countries nothing remained but reorganization
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_4701653665.wav|1|uze ulumke ke xa uyiqhawula
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_2755366677.wav|10|it lived in perpetual apprehension of that quarter of the compass
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_0825422269.wav|5|ukuba abahlobo bakhe bazama ukuwela umlambo baza kurhaxwa bonke
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_2395294494.wav|11|inqwelomoya iye yantlitheka kwimpuma yeangola
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_7507039602.wav|6|ngubani umphathiswa wezemfundo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_6330103151.wav|5|xa kunjalo isiaram esingutata usmuts sasiye sizive sikhathazeke kakhulu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_6254791720.wav|2|she turned fearing that jacques might see what was in her face
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_9399807226.wav|3|umqeqeshi wafaka uasavela mbekile endaweni kagabadinho mhango sele uzakuphela umdlalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_4925777046.wav|7|iintuku zafuna ukuzigrumbela eyazo imingxuma
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_8672807158.wav|8|utebogo monyai wafumana ikhadi elibomvu kusompempe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_0401459169.wav|9|he considered the victory already his and stepped forward to the meat
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_7365904723.wav|0|there has been a change she interrupted him
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_3501518993.wav|7|wajika wajonga umnyango owawuvuliwe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_6556098507.wav|1|akakho omnye ngumnumzana mvubu emlumkisa ngesixeko sabafundayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_3325917581.wav|0|very early in my life i separated from my mother
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_2282344109.wav|0|theres fort churchill a rifleshot beyond the ridge asleep
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_4728436829.wav|9|now irvine was a man of impulse a poet
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_9470813830.wav|9|i dont know why youre here at all
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_5002628516.wav|3|sisihloko somhobe somenzi womhobe ongumbrithani
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_8796159571.wav|7|emva kweminyaka emithathu yalempatho umagozwe wabaleka wamshiya umalume wakhe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_7556610427.wav|1|ixhegokazi lathi nceda hagu tsiba olu cingo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_5990113915.wav|1|wakukrobela oko kuza kwenziwa yintombi yakhe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_0627344879.wav|6|usifiso mbhele wafumana isilumkiso kusompempe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_1955021274.wav|8|ndilikhangele phantsi kwebhedi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_9628372482.wav|7|iinkonzo zemozulu zikhuphe isilumkiso semililo yamadlelo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_0149296637.wav|2|zero five nine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_1672775173.wav|8|kodwa amantshontshwana akhe ayengamhoyanga
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_8177299444.wav|11|uya kuyiphumelela nini itonamente
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_0989079867.wav|2|and the edinburgh evening news says with editorial gloom
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_5631475675.wav|5|kwilixa lokugqibela ethimla usibu wazivuthulula zonke iintyatyambo zam ezibomvu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_0496366723.wav|5|waqhubeka ekhala umvubu uboya bam butshe baphela tu emlilweni
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_3372100471.wav|7|inkosi yezingwenya ayizange iyikholwe inhlanhla yayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_5398683922.wav|0|it fairly clubbed me into recognizing it
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_3102309215.wav|3|olu luvo luqwalaselwe kwaye lubalulekile malunga nendawo apho iaids igquba khona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_1889565868.wav|7|bakufika ndingathi udyakalashe ubuyele kwasematyholweni
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_0519736570.wav|8|hayi hayi enye yezi watsho embonisa isilaysi sethath yobisi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_4807692281.wav|7|wehlisa induli ke umfama wobisi ephethe ingobozi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_9889232349.wav|1|kwaye zange uyibhaqe indlela uncanda awamshiya ngayo ukuze aluphumelele ugqatso
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_6363592133.wav|9|author of the danger trail philip steels etc
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_6521196379.wav|3|umboniso ufuna ukwazisa ngokhuseleko lweaids xeshikweni ukhuthaza unyamezelwano nokunciphisa isiphako
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_0899800769.wav|10|ah it is growing dark and darker
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_4686241005.wav|8|phezulu naphantsi ngocoselelo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_9817247010.wav|0|eight seventytwo fortyseven
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_3233218038.wav|6|kulo nqwelontaka kwakukho intshontsho lendlovu lombathiswe ngengubo enkulu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_0092133987.wav|4|out of his eighteen hundred he laid aside sixteen hundred each year
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_0566391558.wav|4|jack london waikiki beach honolulu oahu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_5878719106.wav|4|bill lingered contemplating his work with artistic appreciation
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_7922335435.wav|5|umlawuli womyezo wabafota
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_2667907954.wav|7|inewcastle united yafaka amanqaku alinganayo nenorwich city
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_9399803592.wav|0|she turned in at the hotel
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_5809924257.wav|8|waxolisa umvubu kumvundla ndiyaxolisa kakhulu mhlobo wam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_4977104214.wav|10|eli harding asked as shunk started to follow
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_4114800936.wav|0|and that was the last of francois and perrault
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_7163680454.wav|11|uyakusilandela ngokukhawuleza
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_4465133064.wav|9|thats what carnegie did
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_7223303300.wav|3|impumelelo yenkqubo ekhokelwa ziingxelo ezininzi zezizwe ngezizwe zayilwa ukuquka iimelika
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_7823068842.wav|2|also churches and preachers i had never known
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_2469972366.wav|6|umama kanonkungu wenza umbhinqo owodwa ngeribhoni amaqhosha nneentsimbi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_2550473698.wav|4|six two two
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_1783037984.wav|9|i tell you i am disgusted with this adventure tomfoolery and rot
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_1262008793.wav|2|clubs and balls and cities grew to be only memories
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_8518436639.wav|5|ihagu ayifuni kutsiba ecingweni kwaye kuya kusiba mnyama ngoku
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_2791976972.wav|4|it is not an attempt to smash the market
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_9103335959.wav|7|umzimba wam uphola ube myoli myoli myoli
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_6718769388.wav|10|the ship should be in within a week or ten days
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_2972384509.wav|10|pearces little eyes were fixed on him shrewdly
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_2774061004.wav|10|dennins hands were released long enough for him to sign the document
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_6154246651.wav|11|kukho ukwabelana ngekhowudi nesivumelwano sokuququzelela ishedyuli nesouth african airways
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_1466480474.wav|6|utata wakhe uya nini kwiholide
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_8273475195.wav|0|zero three nine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_6044051550.wav|5|tsibela apha kum emqolo yagquma imvubu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_1228283453.wav|0|his infernal chattering worries me even now as i think of it
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_0988432442.wav|7|ngakho umsindo wemali kamashange iyona nhlawulo ozoyithola ngephunga elimnandi alintshontshile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_5722803267.wav|11|inqwelomoya yomthwalo eqhutywa ngumkhosi womoya wasesoviet ebhabha ukuya eluanda idutyulwe yehla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_6113049997.wav|6|ukhalai uyavuka athethe nomthi weeorenji
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_4561573875.wav|5|qhubekani nifundisa abantwana bomzantsi afrika
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_3572716807.wav|8|nantso ke nantso ke mayiye ezipalini
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_8709571683.wav|11|unyana wakhe uvimal nenkosikazi yokuqala bamcela ukuba ehle esikhundleni
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_0467282731.wav|6|imoto yayinyuka iqhina ngesantya esiphezulu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_9527969135.wav|6|wakroba ekoneni yophahla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_6573290326.wav|11|uhlobo lwasedolophini olwaziwa njengesisotho sasepretoria lulwimi olungundoqo lweso sixeko
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_5974858191.wav|6|ukato ohlakaniphileyo nengxaki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_4262157854.wav|0|i was sick once typhoid
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_0995133095.wav|8|baza beva umgqumo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_4489445892.wav|7|tyhini khangela izityalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_3178004101.wav|7|zombini ezi zilwanyana zaziselugqatsweni zahlala zingabahlobo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_9912799548.wav|6|uzimkhitha wajonga elo gquba labantu laliyiyizela lihleka limqhwabela izandla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_2093268326.wav|6|iintuku zafuna ukuzigrumbela eyazo imingxuma
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_7902661588.wav|7|upumla wajonga iqanda waze waqhwanyaqhwanyaza
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_7767670636.wav|7|abakhenkethi ababezidlulela nabo babafota
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_1483407620.wav|1|baza baphinda babhabha neringi yentloko uphawu lomfazi otshatileyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_7965765084.wav|3|watshintshelwa kwintolongo ipollsmoor etokai ekapa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_2607913133.wav|10|i sailed third mate in the little vampire before you were born
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_6340806465.wav|8|inkosi yezingwenya ayizange iyikholwe inhlanhla yayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_7788635482.wav|9|when i came to i was waving my hat and murmuring ecstatically
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_6207125979.wav|1|yho watsho bendicinga ukuba ibiliphupha nje eli
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_7380540111.wav|5|yabona abantwana bengulube bedlala eludakeni
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_3222734472.wav|10|both johnny and his mother shuffled their feet as they walked
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_4544377846.wav|4|suddenly his fingers closed tightly over the handkerchief
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_7687213549.wav|3|ingaba singadibana ngelinye ixesha emva kwemini
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_7868357439.wav|2|they are big trees and require plenty of room
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_8758621172.wav|1|udillon sheppard wafumana ikhadi elityheli kusompempe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_2298017702.wav|4|he leapt again and the club caught him once more
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_0440132373.wav|7|musa ukulibala ukuyifakela iziqhoboshi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_4944160905.wav|6|umdlali wasemva okhuselayo uthamsanqa gabuza waphosa ibhola ngaphakathi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_1783676834.wav|4|once the jews harp began emitting its barbaric rhythms michael was helpless
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_5100995749.wav|0|the date was nearly eighteen years old
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_0452891654.wav|9|low bush whipped him in the face and left no sting
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_7478869320.wav|4|so we have to fit the boat throughout with oil lamps as well
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_4381306319.wav|6|uthoko kunye nobrendan wabhengeza unkosikazi mckensie ejonge kuluhlu lweencwadi ezifundiweyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_1254085999.wav|8|khwelani watsho umqhubi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_9200576769.wav|8|niphinde nijonge indlela elingwevu ngayo ihobe elinguntatu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_7683544332.wav|0|their love burned with increasing brightness
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_2470703865.wav|8|isikhukukazi savutha ngumsindo kuba soyisiwe kumdlalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_3786152966.wav|8|umama kanonkungu wenza umbhinqo owodwa ngeribhoni amaqhosha nneentsimbi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_3632010585.wav|8|upepper wabhekisa kwinjanana yakhe ukhangeleka uzithe luqe ufudumele kamnandi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_7560505403.wav|8|ixhala lakhe lingongoza umini gala wajika wagqotsa ukuya ngasekhaya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_9954679539.wav|6|inokuba lusizana lomhambi wacinga njalo usizwe ebaleka ukuya emnyango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_1238046634.wav|7|zigqithile iiveki ezimbini kungekho nethontsi lemvula
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_8784839012.wav|8|upoorakha irhamba larhubuluza ngokukhawuleza
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_7923975324.wav|1|utselane wangena phakathi endlwini yakhe walungisa ibhedi yakhe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_1694720924.wav|1|ilanga laligqats ubhobhoyi kwihlathi elomileyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_1115377771.wav|6|ukhozi lwahleka ezi zilwanyana zikwazi ukubona izilwanyana ezisemhlabeni kuphela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_7710985729.wav|0|philip thrust himself against it and entered
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_9721993759.wav|0|dont you see i hate you
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_5368272845.wav|7|ngoku hamba uyokutshintsha utshilo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_4584427933.wav|9|there is more behind this than a mere university ideal
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_3098705837.wav|11|isenyeliso ngasinye songeza kwixabiso lebango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_5960861681.wav|11|nje ngoko ndisitsho wabetha umyalezo ngokukhawuleza
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_5189178949.wav|4|the claudine was leaving next morning for honolulu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_7451555891.wav|7|kumkani wenza ntoni emngxunyeni onzulu nomnyama kangaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_3901463868.wav|8|wonke nje umntu uyagramza konwatyelwe ukutya okumnandi usebeze watsho kalusizi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_7392179373.wav|2|its diameter was not more than two hundred yards
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_6741540534.wav|11|unhlanhla vilakazi wafumana ikhadi elibomvu kusompempe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_3608344880.wav|8|ngenxa yokuba wayengakwazi ukufunda umnumzana mvundla wayengenamdla weleta leyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_1535676027.wav|6|umdlali wasemva okhuselayo ukeagan dolly wabetha ibhola ngentloko
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_0364381128.wav|6|kodwa amantshontshwana akhe ayengamhoyanga
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_9350911199.wav|8|kwa oko unomatse omncinane waqalisa ukukrukra amasebe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_7775730273.wav|0|your price my son is just about thirty per week
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_5917078683.wav|6|chapha chapha chapha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_5516108661.wav|9|you mean for this state general alberta
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_7236751613.wav|6|ngaminazana ithile eyayisina imvula isiloli somkhonto sehlosi saba manzi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_0545528010.wav|10|every bone in her aged body seemed broken or dislocated
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_7482032551.wav|5|kwakamsinyane unomatse weva ivumba loboya bakhe burhawuka kwaye buqhuma
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_3386248761.wav|7|ipolokwane city yadlala ngokulinganayo nemanchester city
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_9839909668.wav|0|it would give me nervous prostration
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_0695334296.wav|11|ingaba ubuceba ukubaleka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_0074483837.wav|1|ndicinga ukuba nam lo ndingakogqitha ngokubaleka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_6137241396.wav|6|ikepusi yam yaxhaseka esebeni lomthi omdala wephayphali
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_4568617288.wav|5|yiya emzantsimpuma kwisitalato ichurch
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_6499813609.wav|1|ingaba elo bali lingam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_7045840017.wav|6|ngubani oswelekelwe ngabazali
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_5098476192.wav|7|lazithatha lambonga likhombisa inhlonipho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_5873467535.wav|5|nanko egqadaza eman ukuphepha izicithi esendleleni eya kwisixeko sabafundayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_2116148159.wav|6|umbonise ngokupheleleyo eli rherheba lemali
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_4695066638.wav|5|iintuku zafuna ukuzigrumbela eyazo imingxuma
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_7014559311.wav|2|he had proved it today with his amateurish and sophomoric productions
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_7840920902.wav|6|asiboni mkhondo kadyakalashe watsho omnye
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_0628506276.wav|5|ingonyama yahamba iqhwalela ityhafile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_2735607257.wav|5|owu watsho echulumancile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_5468601641.wav|7|xa ndiyeka ukujikeleza ndiyabhekabheka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_6816442088.wav|3|ngokwangoku ndizakuhamba ndiyokuphefumla umlingo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_6696254887.wav|8|yayibubusuku obubanda kakhulu kukhanyise luzizi inyanga eliceba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_9473214164.wav|8|imithi ingca neentyatyambo zimibalabala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_7802776960.wav|3|umqeqeshi wafaka u shuaib walters endaweni kamotsamai ramatsa usandul ukuqala umdlalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_4154541904.wav|8|xa umoya uvuthuza amaqgabi aphefumula phezulu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_1008559023.wav|8|kwathi qhuzu intsini behleka bonke
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_1272764565.wav|10|two thirtytwo eightyfour
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_2217665894.wav|7|iuniversity of pretoria yadlala ngokulinganayo neeverton
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_4967559582.wav|6|waphakama umfo omkhulu ezixelele ukuba akasoze atyhafe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_5955421807.wav|8|ubongani zungu wadlulisela ibhola kutieho mofokeng
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_4403486315.wav|11|wabona ukuchaphazeleka jikelele ngendlela engacacanga
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_3850381325.wav|5|yintoni eyilwe ngamalungu amathathu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_0101374644.wav|7|inokuba lusizana lomhambi wacinga njalo usizwe ebaleka ukuya emnyango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_4159538427.wav|7|ingaba elo bali lingam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_6156881872.wav|0|but she swung obediently on her heel into the wind
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_5952175953.wav|8|siza kuthetha ngeegusha noodyakalashe nezinye izinto
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_7875265525.wav|7|uitumeleng nkwana wafumana ikhadi elibomvu kusompempe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_9028013155.wav|5|umota nolamboo bafumana igumbi lokufundela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_4431888411.wav|4|and the big persian knew of his existence before he did of hers
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_6375731212.wav|0|such a dog the wise driver kills or turns loose
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_5841319656.wav|6|ungangena uqubhe kunye nam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_5437860007.wav|1|iaston villa nechelsea zadlala kunye ngolwesine ebusuku eolympia park
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_0692024579.wav|7|hlaselani ezi ntsholongwane
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_0813584810.wav|1|rhoqo xa ndigqiba kuhlamba kwibhafu eshushu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_4447298587.wav|5|kwicala elingaphesheya wadibana nentombazana elula inxibe amadlakadlaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_6329582228.wav|10|seven five eight
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_8477744235.wav|1|umama ugala wamxelela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_5665771517.wav|0|six three seven
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_6700285645.wav|1|yintoni efikelwe yiaustralia
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_9374273418.wav|7|hawu hawu hawu wayikhonkotha ikati
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_0325812179.wav|5|ngalo njikalanga untatu wazimela ngaphaya kwetyholo walinda
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_9030388059.wav|8|xa umxelela ukuba makahlale phantsi uyatsibatsiba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_4798387827.wav|1|bahleka bade baqikileka xa bebona indoda ibaleka igqotsile inganxibanga bhulukhwe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_3661184599.wav|7|kopa amazwi alo kwibali uwabhale kwiqampu lentetho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_9276101324.wav|11|ingaba ungaluvula ucango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_0007617689.wav|7|ekugqibeleni umatrayivethi ude wagqitywa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_5908492523.wav|6|inewcastle united neajax cape town zidlale zombini kubusuku bangomvulo egriquas park
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_8677919588.wav|6|ukrobe kancinci emnyango
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_9907044990.wav|10|do you know any good land around here
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_3694350419.wav|10|zero zero zero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_5919632848.wav|2|he was worth nothing to the world
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_0424728780.wav|9|without them he could not run his empire
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_7790331051.wav|4|this is no place for you
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_8045870466.wav|11|kufuneka sigcwalise isikhitshane ngezibane zeoyile kananjalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_9416409995.wav|11|ixabiso lakho nyana wam linga ngeedola ezingamashumi amathathu ngeveki
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_4960371111.wav|8|umlambo uza kumka nawe watsho unomatse okrelekrele eyilumkisa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_1882114864.wav|1|sihibandini senkwenkwe enguthukile watsho umama wakhe ngewuyiphethe kakuhle ngezandla zakho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_4720394146.wav|8|yenzeke nini
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_8242057911.wav|5|kwavela amakhaphetshu angangentloko yosana iimbotyi zona zanyuka ngocingo olubiyileyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_0719037684.wav|9|no it is a palace wherein there are many servants
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_1643879095.wav|4|do you know that you are shaking my confidence in you
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_0008134018.wav|6|wathatha idyasi yakhe nomnqwazi wakhe obomvu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_5412925229.wav|2|the wolfdog thrust his gaunt muzzle toward him
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_0564455601.wav|6|ekugqibeleni waligrenya lonke ixolo kunye nomthi walo owawuphithanise ilanga
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_6636884701.wav|5|wabaleka usizwe wehlisa intsimi yakhe wajonga ngaphaya kocingo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_4429669588.wav|10|behind him lay the thousandyearslong road across all siberia and russia
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_5445229462.wav|5|wonke ubani wayesaxakekile ehlafuna egramza enkwamla esitya ingca
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_4350713660.wav|11|nangona sizifumene sikwisihlalo esiphezulu esinokuninzi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_8732709212.wav|0|then and at supper he tried to fathom her
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_0219622231.wav|10|five two nine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_2748716240.wav|0|a combination of canadian capital quickly organized and petitioned for the same privileges
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_2317611391.wav|10|this also became part of the daily schedule
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_8890600211.wav|7|iinkonzo zezemozulu zikhuphe isilumkiso semililo enwenwayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_3365034175.wav|5|ngentsasa elandelayo umnumzana mvundla wothuswa yingxolokazi etsho kumnyango wakhe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_6322483292.wav|4|five eight three
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_4140757159.wav|7|eneneni wayengenalo neli lokucheba iindevu zakhe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_7647398498.wav|1|akazange abaxelele ngephupho lakhe elenza ukuthi amayizele entliziyweni yakhe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_4472435179.wav|9|he is too keenly intelligent too sharply sensitive successfully to endure
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_5550560487.wav|0|shall i carry you
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_3383563793.wav|9|i had forgotten their existence
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_7600299248.wav|9|sixtyfive thirtyfive eightytwo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_0501077844.wav|8|ngalelo langa usefudi wayelele embhedeni wakhe ebheke ngaphandle kwefasitela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_1348163372.wav|7|kutheni iinthanethi yam icotha kangaka
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_1401167653.wav|7|umario booysen wafumana isilumkiso kusompempe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_0127673825.wav|0|they had no fixed values to be altered by adjectives and adverbs
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_0071682026.wav|7|waza unonkungu wamxelela into eyenzekileyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_3862329454.wav|5|ndikrelekrele kunabo bonke abakhoyo kwisixeko sabafundayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_9370366053.wav|0|he did not rush in
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_6777440238.wav|8|akukho nto intle ukogqitha mna
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_2037310751.wav|7|amabhabhathane athi thina sifuna iintyatyambo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_6127787822.wav|3|umqeqeshi wafaka ujeremy brockie endaweni ka kgomotso koena usaqala umdlalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_5421125979.wav|5|usantie uyazithanda iilokhwe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_9549882173.wav|4|they continued valiantly to lie but the truth continued to outrun them
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_5143989691.wav|8|zayixhakamfula ihagu zayiphosa kude le ezantsi emhlabeni
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_5578348996.wav|8|iajax cape town neplatinum stars zadlala zombini ngolwesibini egoble park
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_4103101180.wav|0|he looked at the handkerchief more closely
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_6452269628.wav|10|daylight found himself charmed and made curious by the little man
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_8022849791.wav|8|emyezweni kwakuzole apha ngendlela engaqhelekanga
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_5944277359.wav|0|but they make the mistake of ignoring their own duality
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_2752719925.wav|1|ke ngoku zaye zamtsala ngeendlebe zade zanwebeka kakhulu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_6712919693.wav|5|kwa oko unomatse omncinane waqalisa ukukrukra amasebe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_3478413491.wav|8|iinkonzo zemozulu zikhuphe isilumkiso semililo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_4009692219.wav|4|her own betrayal of herself was like tonic to philip
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_8427259476.wav|6|kuza kufuneka sibe ngathi sithetha kakubi ukodlula oku watsho egxininisisa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_2073347801.wav|4|they were three hundred yards apart
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_0063043896.wav|8|wathatha idyasi yakhe nomnqwazi wakhe obomvu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_1461435442.wav|6|kungekudala wahlangana nempangele etyebileyo kwindawo elibala ephakathi kwengca ende
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_8646803537.wav|2|to his surprise her answer was flat and uncompromising
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_8893420475.wav|7|mhlawumbi kungcono ahlale esitalatweni wacinga ngolo hlobo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_6292548189.wav|1|ingxaki yayile yokuba ipati le yayikwindawo ekufuphi nelanga
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_9036978555.wav|7|zeva ingxolo enkulu isuka kwipaki ekufutshane apho kulomyezo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_3505043054.wav|1|ngoko ke unonkungu wakhulula umbhinqo neentsimbi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_4750511895.wav|6|ke ngoku bachwechwa babuyela ekhaya bethule
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_2661257564.wav|4|shed make a good wife for the cashier
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_9661603182.wav|2|but it wont continue she said with easy confidence
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_7075823240.wav|2|gregson shoved back his chair and rose to his feet
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_4065086280.wav|0|it was my idea to a tee
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_1721408945.wav|3|umshumayeli omtsha uze nemithetho emitsha esuka ejerusalem
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_4287851829.wav|1|siza kuthetha ngeegusha noodyakalashe nezinye izinto
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_9084117867.wav|1|kakade nje kwakungekho dyakalashe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_9668551697.wav|9|the promoters eyes were heavy with little puffy bags under them
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_6466566773.wav|7|zimkhitha wakhwaza umama wakhe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_3532675477.wav|5|kutheni ufuna ukusebenza apha
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_2493551994.wav|7|emngcwabeni kasizwe umfama wobisi wayengoyena mntu olahlekelweyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_0379325016.wav|3|isithunzi sachwechwa entla kwamehlo kapierre
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_3432292567.wav|11|watshintshelwa kwintolongo ipollsmoor etokai ekapa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_7751025688.wav|2|why hes bought forty pounds of goods from you already
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_0111321673.wav|2|unconsciously our yells and exclamations yielded to this rhythm
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_5173207498.wav|5|usompempe wanika isohlwayo istoke city
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_1105032283.wav|1|emva kwexeshana ubone isikhova
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_3714998633.wav|3|yaziwa njengenye yeepaki ezixabisekileyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_4498115328.wav|2|one seven four
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_9860206875.wav|6|yityani oku kunambitheka kangcono ngenxa yemakharoni yakhona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_7306942968.wav|0|it was a temptation but he resisted it
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_2518175000.wav|7|imbovane encinane yavela necebo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_8824798458.wav|4|in the picture he saw each moment a greater resemblance to jeanne
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_1401896453.wav|8|siza kuwumisa njani lo matrayivethi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_4464352915.wav|8|igama lam ngusimilo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_0072074046.wav|5|apho evuka khona wayengekho kodwa wayeshiye ukumoyizela entliziyweni yakhe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_1158612160.wav|7|bonke baye bavumelana ngamxhelo mnye ukuba bafunde isifundo esibalulekileyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_3659453735.wav|6|mhlawumbi uyakube sele unalo iorenji elivuthiweyo lam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_1412555893.wav|6|wehla apha ke mhlobo wam watsho umqhubi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_2887598500.wav|9|may drought destroy your crops
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_1893937316.wav|5|bekufuneka uyithwale entloko ingqayi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_7313747829.wav|7|ukufika kukamini esizikithini somchankcatho wajonga phantsi wancuma
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_5762893508.wav|7|yintoni oza kuyitya
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_9133686017.wav|1|zaziphi impahla zethu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_6872808512.wav|8|wabeva becula ecaweni
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_0066719613.wav|5|wabona ubuso obumjongileyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_5627848433.wav|7|asiboni mkhondo kadyakalashe watsho omnye
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_7601507923.wav|9|providence had delivered him through the maelstrom
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_4364666157.wav|1|abhabhele phezulu okokhozi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_2282558174.wav|7|lwahlala apho iminyaka emininzi phambi kokuba luntshule
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_2767713805.wav|7|akuthi gxididi ngaphesheya komlambo wavula umlomo wakhe waze wakhwazayimani
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_6368681928.wav|1|uza kudlalwa nini umdlalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_4727454087.wav|6|ndilapha edlelweni ndodwa imini yonke
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_1856377063.wav|11|ndifunda iikowuti kuphela
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_1804944682.wav|10|i was hump cabin boy on the schooner ghost
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_1044974124.wav|8|akazange abatshele ngephupho lakhe elenza ukuthi amoyizele enhliziyweni yakhe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_6850998431.wav|5|owu mini sana lwam watsho umama ugala ngelizwi elithuthuzelayo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_1059497059.wav|1|utolo lwaya kungena nkqo entliziyweni yentaka yaza yatsho ngesikrakra isikhalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_1085077781.wav|7|hmm ulumke watsho udyakalashe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_1563439833.wav|7|wanxiba wanyuka induli waya kwifama yobisi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_0733354889.wav|5|umqeqeshi weqela endaweni kasifiso mbhele wafaka ubernard parker ngexesha lomdlalo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_0049138802.wav|9|he unfolded a long typewritten letter and handed it to gregson
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_4062945788.wav|10|they were less stooped than we less springy in their movements
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_2950134169.wav|0|it was a large canoe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_8132897959.wav|9|straight out they swam their heads growing smaller and smaller
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_7114779778.wav|1|mandikhangele ubra tsotsi ze ndithathe ela phetshana
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_7961160603.wav|9|it seemed nearer to him since he had seen and talked with gregson
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_3124310500.wav|4|as i say he had tapped the message very rapidly
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_2196633238.wav|4|eightyfive ninetyfive ninety
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_6215219783.wav|5|waza waqalisa ke uhambo lwakhe olugodukayo ecothoza
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_1517021281.wav|10|one by one the boys were captured
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_8961004394.wav|6|iilori ezinkulu zafika
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_8585485254.wav|7|watyikitya amehlo akhe waphinda waqwalasela kwakhona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_8761263159.wav|5|tselane mntwana wam
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_4278737608.wav|1|idyasi yakhe enzima yamtsalela ezantsi warhaxwa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_2565077263.wav|11|esi sisidlo sebrakfesi sentsasa yangecawa esonwabelwa nemagi yekofu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_3057021747.wav|8|iyho yho yho iimpundu zam azibuhlungu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_2263256689.wav|9|daughtry elaborated on the counting trick by bringing cocky along
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_9530098537.wav|7|waza unonkungu wanxiba amadlavu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_4915550123.wav|6|wasuka wanyuka kwakhona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_4822066187.wav|2|fiftytwo seventyfour fortyseven
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_4164519359.wav|4|four zero two
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_5982325474.wav|7|gqibani iblakfesi yenu bantwana umakhulu utshilo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_4221735214.wav|10|twentytwo zero eleven
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_9642088638.wav|5|uthe usana lwam malugoduke ngeenyawo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_5494922314.wav|6|kakade nje kwakungekho dyakalashe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_6204431306.wav|6|zonke izilwanyana zazifuna umhlaba othambileyo zingayifuni isamente okanye ikonkriti
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_2774788499.wav|5|kwavakala isithonga sokubhuleka kukadyalakashe esiwa ngomqolo phantsi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_5397374931.wav|5|udomino wayemhlophe enamabala amathathu amnyama emqolo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_4609720022.wav|5|umvubu naye wayelapho ezithele chu emane ukugramza ingca eluhlaza
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_9169837733.wav|8|aye ahambe ke amapolisa eyokhangela ulodipo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_3616_1984473669.wav|2|it was the same way with our revolvers and rifles
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_4275612614.wav|5|qaqadisa yeyiphi ikepusi endiyithwalayo namhlanje
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_4037010740.wav|11|sisindleka iprojekthi yemother city ngodisemba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_8319061890.wav|4|he seemed to fill it with his tremendous vitality
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_5622449678.wav|8|abantakwabo bamlumkisa ke ngenye imini ulangazelelo lwakhula ngamandla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_3900043514.wav|10|you have heard always how he was the lover of the princess naomi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_3771966700.wav|8|emva kokucinga oku ixesha elide yeza necebo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_0511480441.wav|4|three eight nine
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_9760034591.wav|5|ugranwald scott wafumana ikhadi elityheli kusompempe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_4748243171.wav|0|the log on which lopear was lying got adrift
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_2596403564.wav|6|ibloem celtic nenewcastle united zadlala zombini ngomgqibelo kwibala lezemidlalo isoccer city
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_5473656658.wav|10|and twenty men could hold it with spears and arrows
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_8564603094.wav|8|uphi utitshala wethu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_7812407138.wav|9|they were deep in the primeval forest
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_4871249263.wav|1|iindlulamthi ezisemyezweni zazinomdla wokusondela kweli qela labantu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_6255790704.wav|1|impilo yakho iyalana neekati sibu kutsho unkosikazi magona
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_0708936737.wav|8|bonke bomiwa yintsini
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_9526572629.wav|3|iiklabhu neebhola kunye needolophu zakhula kwashiyeka iinkumbulo zodwa
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_3007074171.wav|7|usimaqhinga ongudyakalashe wakhala ekhwaza ncedani
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_4587714577.wav|6|undlulamthi weza neebhotile zamanzi omthombo ahlwahlwazayo ukwehlisa oko kutya kumnandi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_8483181670.wav|11|iqela lababhaki ebloemfontein lithathe isigqibo sokuyila iresipi ekhethekileyo yeemelktert eziyikeyiki eneziqhamo okanye ijem
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_6995936426.wav|9|but there came no promise from the bow of the canoe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_9883220510.wav|7|ngakho umsindo wemali kamashange iyona nhlawulo ozoyithola ngephunga elimnandi alintshontshile
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_4974969918.wav|10|it was edged with ice
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_7742110095.wav|5|kwakuvakala ngathi kukho ingxwabangxwaba
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_5483348441.wav|8|yayigcwele amatye nameva
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_3810083764.wav|8|qhubeka ngokuthe tse
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_1194359429.wav|1|iinkonzo zemozulu ziqikelele imvula entshona koloni
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_2428421422.wav|7|kutheni engasithengelanga iijini okanye ezinye iimpahla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_7041911288.wav|1|beza nayo nantoni na ababenokuyifumana ukuncedisa ukusukela udyakalashe emke
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_5835089918.wav|4|there was no forecasting this strange girls processes
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_8556074674.wav|5|lazithatha lambonga likhombisa inhlonipho
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_9049333477.wav|4|fortytwo fortytwo fifty
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_1394936755.wav|6|ndive ngombhaki watsho utata wakhe
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_6975_2123777849.wav|8|jonga ke into oyenzileyo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_1178871601.wav|4|besides he was paid one case of tobacco per head
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_6602271548.wav|1|oku kuthetha ukuba lixesha lokulala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_9446_2538541803.wav|11|wayeyimbaleki yodumo ephume izandla
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_0117819297.wav|0|i came for information more out of curiosity than anything else
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5680_3268224413.wav|7|zothuka ke ezinye izilwanyana ezineempondo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_9490892304.wav|6|gqithisa gqithisa portia modise
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_5156408329.wav|3|inqwelomoya iye yantlitheka kwimpuma yeangola
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_6195612479.wav|6|xhuma watsho uzhoola
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_1799527890.wav|4|ninetyfour thirtyfour thirtytwo
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0050_8191911479.wav|5|ingaba ibifuneka ngokwenene
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_6317343619.wav|10|they do not know the length of time of incubation
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4280_0016885778.wav|3|iqela lezopolitiko umbutho wedemokhrasi odityanelweyo ngumbutho wombindi wasekhohlo kunye nowedemokrasi yezentlalo wasemzantsi afrika
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_7596274855.wav|6|ewe watsho uhirni engxhama
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7599_7502292123.wav|10|these rumors may even originate with us
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_6542036659.wav|1|umama kanonkungu wenza umbhinqo owodwa ngeribhoni amaqhosha nneentsimbi
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_7590_9415000537.wav|9|sixtytwo ninetyfour ninetysix
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_4291_1512003901.wav|4|eleven ninetyfive zero
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_5372294895.wav|1|uneminyaka esixhenxe ubudala
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_2933061777.wav|1|umama wokhozo lombona waxhalaba kakhulu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_1547_3976092106.wav|1|kumyezo othile kwidolophukazi enkulu kwakukho umthi omkhulu
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_5378_1996210669.wav|6|beza nayo nantoni na ababenokuyifumana ukuncedisa ukusukela udyakalashe emke
+/ssd2/sangmin/datasets/tts_db/trimmed_wavs/xho_0120_3454185277.wav|0|lord but im glad to see you again phil
