@@ -35,7 +35,44 @@ urbert/
 └── README.md
 ```
 
-## 1) Pretraining
+## 1) Quick Start (Using Hugging Face)
+
+The exported UR-BERT backbone is available on Hugging Face:
+
+- Model repo: [Sanghyang00/urbert-256](https://huggingface.co/Sanghyang00/urbert-256)
+- Model card: `pretraining/README.md` (or the README in the HF model repository)
+
+Quick usage:
+
+```python
+import torch
+from transformers import AutoModel, AutoTokenizer
+
+REPO_ID = "Sanghyang00/urbert-256"
+device = "cuda" if torch.cuda.is_available() else "cpu"
+
+tokenizer = AutoTokenizer.from_pretrained(REPO_ID, force_download=True)
+model = AutoModel.from_pretrained(REPO_ID).to(device).eval()
+
+text = "hello urbert"
+inputs = tokenizer(text, add_special_tokens=False, return_tensors="pt")
+inputs = {k: v.to(device) for k, v in inputs.items()}
+
+with torch.no_grad():
+    outputs = model(**inputs)
+    last_hidden = outputs.last_hidden_state
+
+print("input_ids:", inputs["input_ids"].tolist())
+print("input shape:", tuple(inputs["input_ids"].shape))
+print("last_hidden shape:", tuple(last_hidden.shape))
+```
+
+Notes for tokenizer behavior:
+
+- The HF tokenizer is character-level and `AutoTokenizer`-compatible.
+- Special token strings (e.g., `"[MASK]"`) follow HF special-token handling.
+
+## 2) Pretraining
 
 Go to:
 
@@ -69,7 +106,7 @@ CUDA_VISIBLE_DEVICES=0 python train.py \
 
 See details in `pretraining/README.md`.
 
-## 2) Finetuning (TTS)
+## 3) Finetuning (TTS)
 
 Go to:
 
@@ -106,5 +143,6 @@ See details in `finetuning/README.md`.
 
 ## Notes
 
-- We plan to support off-the-shelf serving of the pretrained UR-BERT checkpoint via Hugging Face (coming soon).
+- The Hugging Face export currently provides the UR-BERT backbone encoder.
+- For training details and preprocessing pipelines, see `pretraining/README.md`.
 - Config files under each `configs/` directory are the source of truth for language- and experiment-specific settings.
